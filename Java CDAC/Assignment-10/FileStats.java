@@ -1,0 +1,41 @@
+import java.io.*;
+
+class FileStats {
+	public static void main(String[] args) {
+		int lines = 0;
+		int words = 0;
+		int characters = 0;
+
+		try {
+			BufferedReader br = new BufferedReader(new FileReader(args[0]));
+
+			String line;
+
+			while ((line = br.readLine()) != null) {
+				lines++;
+				characters = characters + line.length();
+
+				String[] w = line.trim().split("\\s+");
+
+				if (!line.trim().isEmpty()) {
+					words = words + w.length;
+				}
+			}
+
+			br.close();
+
+			FileWriter fw = new FileWriter("result.txt");
+
+			fw.write("Number of lines: " + lines + "\n");
+			fw.write("Number of words: " + words + "\n");
+			fw.write("Number of characters: " + characters + "\n");
+
+			fw.close();
+
+			System.out.println("Result written to result.txt");
+		}
+		catch (IOException e) {
+			System.out.println("File error: " + e.getMessage());
+		}
+	}
+}

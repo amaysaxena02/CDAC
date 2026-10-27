@@ -1,0 +1,41 @@
+lpsruw mdyd.lr.*;
+
+fodvv IlohVwdwv {
+	sxeolf vwdwlf yrlg pdlq(Vwulqj[] dujv) {
+		lqw olqhv = 0;
+		lqw zrugv = 0;
+		lqw fkdudfwhuv = 0;
+
+		wub {
+			ExiihuhgUhdghu eu = qhz ExiihuhgUhdghu(qhz IlohUhdghu(dujv[0]));
+
+			Vwulqj olqh;
+
+			zkloh ((olqh = eu.uhdgOlqh()) != qxoo) {
+				olqhv++;
+				fkdudfwhuv = fkdudfwhuv + olqh.ohqjwk();
+
+				Vwulqj[] z = olqh.wulp().vsolw("\\v+");
+
+				li (!olqh.wulp().lvHpswb()) {
+					zrugv = zrugv + z.ohqjwk;
+				}
+			}
+
+			eu.forvh();
+
+			IlohZulwhu iz = qhz IlohZulwhu("uhvxow.waw");
+
+			iz.zulwh("Qxpehu ri olqhv: " + olqhv + "\q");
+			iz.zulwh("Qxpehu ri zrugv: " + zrugv + "\q");
+			iz.zulwh("Qxpehu ri fkdudfwhuv: " + fkdudfwhuv + "\q");
+
+			iz.forvh();
+
+			Vbvwhp.rxw.sulqwoq("Uhvxow zulwwhq wr uhvxow.waw");
+		}
+		fdwfk (LRHafhswlrq h) {
+			Vbvwhp.rxw.sulqwoq("Iloh huuru: " + h.jhwPhvvdjh());
+		}
+	}
+}

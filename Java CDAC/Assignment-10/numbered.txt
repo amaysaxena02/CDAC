@@ -1,0 +1,25 @@
+1: import java.io.*;
+2: 
+3: class LineNumber {
+4:     public static void main(String[] args) {
+5:         try {
+6:             BufferedReader br = new BufferedReader(new FileReader(args[0]));
+7:             FileWriter fw = new FileWriter("numbered.txt");
+8: 
+9:             String line;
+10:             int lineNumber = 1;
+11: 
+12:             while ((line = br.readLine()) != null) {
+13:                 fw.write(lineNumber + ": " + line + "\n");
+14:                 lineNumber++;
+15:             }
+16: 
+17:             br.close();
+18:             fw.close();
+19: 
+20:             System.out.println("File copied with line numbers.");
+21:         } catch (IOException e) {
+22:             System.out.println("File error: " + e.getMessage());
+23:         }
+24:     }
+25: }
