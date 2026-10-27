@@ -1,0 +1,11 @@
+ID,Age,Income,City,Bill,Contract,Complaints,Tenure,Churn
+1,25,30000,Delhi,1200,Monthly,2,6,1
+2,35,45000,Mumbai,1500,Annual,0,24,0
+3,Missing,52000,Delhi,1800,Monthly,3,8,1
+4,29,38000,delhi,1300,Monthly,1,12,0
+5,42,70000,Chennai,2100,Annual,0,36,0
+6,31,Missing,Mumbai,1600,Annual,4,5,1
+7,50,85000,Chennai,2300,Annual,1,48,0
+8,27,32000,Delhi,1250,Monthly,2,7,1
+9,39,60000,Mumbai,1750,Annual,0,30,0
+10,45,68000,Chennai,2000,Monthly,1,18,0

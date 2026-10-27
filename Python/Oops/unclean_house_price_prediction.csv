@@ -1,0 +1,1523 @@
+﻿Property_ID,City,Locality,Property_Type,Area_sqft,Bedrooms,Bathrooms,Floor,Parking_Spaces,Age_years,Furnishing,Price_Lakhs
+PROP00927,Bengaluru,Wakad,Apartment,1352.0,3.0,2.0,13.0,1.0,27.0,Unfurnished,102.48
+PROP00785,Bengaluru,Andheri,Independent House,2185.0,2.0,2.0,4.0,1.0,33.0,Semi-Furnished,207.58
+PROP01213,Mumbai,Palasia,,1053.0,2.0,2.0,15.0,1.0,24.0,Unfurnished,121.94
+PROP00399,Chennai,Hinjewadi,Villa,2754.0,3.0,1.0,6.0,0.0,20.0,Semi-Furnished,276.17
+PROP00251,Delhi,Velachery,Builder Floor,1449.0,4.0,3.0,10.0,2.0,39.0,Furnished,114.94
+PROP01187,Bhopal,Miyapur,Apartment,3540.0,4.0,2.0,7.0,2.0,19.0,Semi-Furnished,146.32
+PROP01280,Bhopal,Thane,Apartment,4021.0,4.0,4.0,4.0,2.0,35.0,Unfurnished,152.28
+PROP00775,Mumbai,Andheri,Apartment,1613.0,,3.0,0.0,1.0,40.0,Semi-Furnished,204.54
+PROP00942,Indore,Palasia,Apartment,1714.0,4.0,2.0,2.0,2.0,25.0,Unfurnished,77.24
+PROP01411,Delhi,Electronic City,Builder Floor,1145.0,3.0,4.0,13.0,2.0,44.0,Semi-Furnished,77.95
+PROP00798,Bengaluru,Miyapur,Apartment,1251.0,2.0,2.0,1.0,2.0,1.0,Semi-Furnished,"₹9,955,000"
+PROP00956,Chennai,Dwarka,Apartment,1280.0,4.0,3.0,,1.0,31.0,Unfurnished,65.24
+PROP00228,Pune,Kolar Road,Apartment,1507.0,4.0,4.0,6.0,1.0,9.0,Furnished,130.2
+PROP00391, CHENNAI ,Bhawarkua,apartment,1966.0,4.0,3.0,1.0,,28.0,Semi-Furnished,129.58
+PROP01108,Indore,Velachery,Independent House,1345.0,3.0,1.0,12.0,2.0,5.0,Unfurnished,71.33
+PROP00146,Bhopal,Kondapur,Villa,62 sqm,5.0,4.0,5.0,2.0,23.0,Unfurnished,30.31
+PROP00993,Hyderabad,Dwarka,Builder Floor,1383.0,3.0,,10.0,0.0,17.0,Semi-Furnished,108.25
+PROP01292,Bengaluru,Bhawarkua,Villa,2368.0,3.0,2.0,11.0,1.0,24.0,Unfurnished,279.44
+PROP00466,Bengaluru,Thane,Apartment,3244.0,1.0,2.0,9.0,2.0,25.0,Unfurnished,236.71
+PROP00887,Indore,MP Nagar,Apartment,2378.0,3.0,3.0,5.0,2.0,21.0,Unfurnished,109.82
+PROP00212,Indore,Kondapur,Independent House,2549.0,2.0,1.0,14.0,,28.0,Unfurnished,126.6
+PROP00533,Indore,MP Nagar,Apartment,1180.0,2.0,2.0,10.0,3.0,35.0,Unfurnished,54.4
+PROP01041,Hyderabad,Miyapur,Builder Floor,2186.0,1.0,1.0,1.0,2.0,33.0,Semi-Furnished,147.96
+PROP00089,Indore,Kondapur,Apartment,1709.0,3.0,3.0,11.0,,,Semi-Furnished,73.73
+PROP00026, PUNE ,Gachibowli,Apartment,2287.0,2.0,2.0,8.0,1.0,4.0,Furnished,157.76
+PROP00523,Bhopal,Wakad,Apartment,2652.0,4.0,3.0,6.0,1.0,15.0,Semi-Furnished,126.4
+PROP00245,Pune,Dwarka,Apartment,2758.0,3.0,3.0,6.0,3.0,15.0,Semi-Furnished,198.23
+PROP01051,Pune,Whitefield,Independent House,2308.0,2.0,2.0,3.0,1.0,41.0,Semi-Furnished,154.97
+PROP01425,Hyderabad,Electronic City,Apartment,1284.0,5.0,4.0,4.0,2.0,33.0, semi-furnished ,85.97
+PROP00002,Mumbai,Electronic City,Apartment,,3.0,2.0,4.0,1.0,36.0,Furnished,181.95
+PROP00896,Bengaluru,Baner,Apartment,1159.0,3 BHK,2.0,0.0,3.0,2.0,Semi-Furnished,105.67
+PROP01089,Hyderabad,Wakad,Apartment,1787.0,2.0,2.0,0.0,1.0,3.0,Unfurnished,81.67
+PROP00414,Chennai,Hinjewadi,Apartment,1428.0,3.0,2.0,14.0,0.0,17.0,Unfurnished,"₹8,022,000"
+PROP01409,Mumbai,Hinjewadi,Independent House,1217.0,3.0,3.0,4.0,3.0,3.0,Semi-Furnished,209.26
+PROP01026,Hyderabad,MP Nagar,Independent House,2647.0,1.0,1.0,1.0,1.0,6.0,Unfurnished,175.36
+PROP01400,Delhi,Thane,Villa,2143.0,3.0,2.0,11.0,1.0,9.0,Semi-Furnished,294.67
+PROP00408,Bengaluru,Hinjewadi,Independent House,3306.0,2.0,1.0,9.0,2.0,32.0,Semi-Furnished,280.18
+PROP01410,Bengaluru,Vijay Nagar,Independent House,2611.0,4.0,3.0,,2.0,20.0,Semi-Furnished,253.16
+PROP01237,Indore,Miyapur,Builder Floor,1721.0,4.0,3.0,1.0,0.0,7.0,Unfurnished,4200
+PROP00291,Indore,Whitefield,Independent House,2420.0,4.0,3.0,1.0,1.0,34.0,Semi-Furnished,131.23
+PROP00349,Chennai,Electronic City,,1707.0,3.0,3.0,0.0,1.0,36.0,Semi-Furnished,90.04
+PROP01473,Mumbai,Wakad,Independent House,2378.0,4.0,3.0,10.0,1.0,43.0,Semi-Furnished,356.96
+PROP00766,Pune,Palasia,Independent House,3312.0,2.0,1.0,5.0,,22.0,Semi-Furnished,253.02
+PROP00041,Pune,Palasia,Villa,2321.0,3.0,2.0,5.0,2.0,31.0,Semi-Furnished,237.76
+PROP01346,Chennai,Velachery,Apartment,1891.0,1.0,2.0,2.0,,16.0,,122.76
+PROP01045,Pune,Gachibowli,Apartment,2014.0,1.0,1.0,14.0,0.0,18.0,Semi-Furnished,
+PROP01490,Mumbai,Bhawarkua,Apartment,,2.0,1.0,2.0,1.0,18.0,Semi-Furnished,254.59
+PROP00806,Hyderabad,Kolar Road,Apartment,1065.0,2.0,1.0,4.0,0.0,11.0,,82.92
+PROP00967,Hyderabad,Whitefield,Builder Floor,2041.0,1.0,1.0,0.0,1.0,2.0,Unfurnished,149.28
+PROP00060,Chennai,Whitefield,Apartment,1002.0,3.0,3.0,5.0,1.0,18.0,Semi-Furnished,85.35
+PROP01322,Pune,MP Nagar,Apartment,2111.0,1.0,1.0,1.0,1.0,29.0, semi-furnished ,139.19
+PROP00755,Mumbai,Gachibowli,Apartment,1824.0,3.0,2.0,13.0,2.0,26.0,Semi-Furnished,255.49
+PROP00480,Pune,Andheri,Apartment,1829.0,3.0,3.0,12.0,1.0,4.0,Unfurnished,143.93
+PROP00542,Bhopal,Rau,Independent House,3496.0,4.0,4.0,9.0,2.0,28.0,Unfurnished,168.79
+PROP00503,Bengaluru,Velachery,Independent House,1541.0,2.0,2.0,14.0,1.0,33.0,Unfurnished,136.8
+PROP01407, PUNE ,MP Nagar,Independent House,2527.0,1.0,1.0,11.0,2.0,10.0,Semi-Furnished,223.17
+PROP01082,Chennai,MP Nagar,Apartment,2519.0,3.0,2.0,8.0,1.0,7.0,Furnished,178.76
+PROP00541,Pune,Velachery,Apartment,1123.0,2.0,1.0,11.0,1.0,11.0,Furnished,73.68
+PROP00951,Hyderabad,Palasia,Apartment,3383.0,2.0,2.0,4.0,1.0,43.0,Semi-Furnished,223.34
+PROP00852,Hyderabad,MP Nagar,,217 sqm,3.0,3.0,10.0,2.0,28.0,,182.3
+PROP00562,,Gachibowli,Apartment,2439.0,1.0,1.0,6.0,1.0,,Furnished,343.06
+PROP00373,Pune,Thane,Apartment,750.0,3.0,2.0,4.0,1.0,26.0,Semi-Furnished,62.47
+PROP00462,Hyderabad,Velachery,Apartment,1890.0,4 BHK,3.0,1.0,0.0,19.0,Semi-Furnished,109.94
+PROP00538,Chennai,Palasia,Independent House,456.0,4.0,4.0,2.0,0.0,30.0,Unfurnished,30.64
+PROP00935,,Velachery,Builder Floor,1823.0,,1.0,15.0,,42.0,Semi-Furnished,148.85
+PROP00694,Chennai,Gachibowli,Apartment,2015.0,3.0,2.0,14.0,2.0,10.0,Unfurnished,138.87
+PROP01378,Delhi,Miyapur,Apartment,1888.0,1.0,1.0,13.0,1.0,37.0,Unfurnished,152.42
+PROP00746,Pune,Miyapur,Independent House,3654.0,3.0,2.0,4.0,0.0,16.0,Semi-Furnished,307.1
+PROP00027,Hyderabad,Thane,Apartment,4500.0,3.0,2.0,6.0,3.0,11.0,Furnished,323.37
+PROP00677,Hyderabad,Thane,Builder Floor,1707.0,1.0,1.0,4.0,1.0,43.0,Semi-Furnished,125.65
+PROP01365,Hyderabad,Thane,villa,2003.0,3.0,3.0,1.0,2.0,39.0,Semi-Furnished,206.98
+PROP01484,Bhopal,Palasia,Independent House,1117.0,3.0,3.0,,2.0,16.0,Unfurnished,52.65
+PROP01444,Pune,Andheri,Independent House,2576.0,2.0,3.0,14.0,1.0,11.0,Unfurnished,211.27
+PROP00100,Indore,Gachibowli,Independent House,3117.0,1.0,1.0,10.0,1.0,27.0,Semi-Furnished,149.52
+PROP01138,Bengaluru,Velachery,Builder Floor,2817.0,3.0,3.0,11.0,1.0,,Unfurnished,232.2
+PROP00411,Indore,Vijay Nagar,Apartment,837.0,3.0,2.0,3.0,0.0,29.0,Unfurnished,47.3
+PROP00172,Bengaluru,Hinjewadi,Independent House,2465.0,1.0,1.0,13.0,1.0,37.0,Furnished,212.45
+PROP01417,Indore,Wakad,Apartment,1339.0,4.0,3.0,13.0,3.0,43.0,Semi-Furnished,64.01
+PROP00800,Hyderabad,Kondapur,Apartment,,3.0,2.0,6.0,2.0,19.0,Unfurnished,111.44
+PROP00779,Chennai,Kondapur,Independent House,1664.0,4.0,3.0,8.0,0.0,42.0,Semi-Furnished,125.06
+PROP01134,Bhopal,Hinjewadi,Apartment,1521.0,5.0,4.0,9.0,1.0,38.0,Unfurnished,65.93
+PROP00607,Delhi,Bhawarkua,Apartment,1713.0,5.0,4.0,6.0,1.0,1.0,Semi-Furnished,174.53
+PROP00150,Chennai,Kolar Road,Independent House,1226.0,2.0,2.0,3.0,2.0,37.0,Furnished,
+PROP00390,Hyderabad,Dwarka,Independent House,2157.0,3.0,3.0,14.0,2.0,13.0,Semi-Furnished,182.69
+PROP01383,Indore,Miyapur,Apartment,1411.0,1.0,1.0,6.0,1.0,40.0,Unfurnished,49.52
+PROP00425,Hyderabad,Kondapur,Independent House,3682.0,3.0,2.0,3.0,0.0,18.0,Unfurnished,285.16
+PROP00072,Bengaluru,Kolar Road,Apartment,1328.0,3.0,2.0,12.0,2.0,31.0,Unfurnished,80.4
+PROP00639,Chennai,Palasia,Apartment,1534.0,3.0,2.0,5.0,3.0,19.0,Semi-Furnished,106.04
+PROP00695,Chennai,Kondapur,Builder Floor,1899.0,4.0,2.0,8.0,1.0,33.0,Semi-Furnished,131.87
+PROP00827,Bengaluru,MP Nagar,Apartment,1574.0,3.0,2.0,6.0,1.0,35.0,Semi-Furnished,113.26
+PROP01115,Bengaluru,Hinjewadi,Apartment,1254.0,2.0,2.0,13.0,0.0,14.0,Unfurnished,105.87
+PROP00572,Hyderabad,Andheri,Apartment,1023.0,3.0,2.0,3.0,1.0,18.0,Furnished,74.81
+PROP00822,Hyderabad,Miyapur,Apartment,1128.0,2.0,2.0,6.0,2.0,4.0,Semi-Furnished,92.77
+PROP00304,Indore,,Apartment,2503.0,3.0,2.0,1.0,0.0,29.0,Unfurnished,107.77
+PROP00151,Bhopal,Thane,Apartment,159 sqm,3.0,2.0,2.0,2.0,27.0,Semi-Furnished,71.52
+PROP01007,Bengaluru,Rau,Builder Floor,1877.0,2.0,1.0,14.0,1.0,21.0,Semi-Furnished,155.52
+PROP00527,Bengaluru,Rau,villa,1134.0,2.0,2.0,9.0,2.0,2.0,Semi-Furnished,
+PROP01337,Bengaluru,Kolar Road,Apartment,2315.0,2.0,2.0,5.0,0.0,44.0,Semi-Furnished,186.37
+PROP01087,Mumbai,Dwarka,Independent House,2993.0,,,9.0,1.0,41.0,Semi-Furnished,448.77
+PROP01433,Hyderabad,Dwarka,Apartment,1779.0,2.0,2.0,12.0,1.0,37.0,Semi-Furnished,110.52
+PROP01262, BENGALURU ,Whitefield,Apartment,2887.0,3.0,2.0,8.0,2.0,4.0,Semi-Furnished,211.15
+PROP00034,Bengaluru,Rau,Builder Floor,795.0,,,11.0,2.0,7.0,,58.39
+PROP00789,Delhi,Rau,Apartment,816.0,2.0,2.0,0.0,1.0,33.0,Unfurnished,51.92
+PROP01075,Bhopal,Andheri,Independent House,1148.0,1.0,1.0,0.0,0.0,6.0,Semi-Furnished,63.23
+PROP00853,Indore,Velachery,Villa,1298.0,1.0,1.0,2.0,0.0,7.0,Semi-Furnished,92.02
+PROP00751,Bhopal,Bhawarkua,Villa,1959.0,,3.0,4.0,2.0,10.0,Furnished,"₹13,604,000"
+PROP00487,Hyderabad,Hinjewadi,apartment,3432.0,3.0,1.0,3.0,1.0,28.0,Semi-Furnished,233.9
+PROP00093,Pune,Kondapur,Villa,1534.0,4.0,3.0,13.0,2.0,18.0,Semi-Furnished,172.64
+PROP00474,Indore,Velachery,Apartment,2364.0,3.0,,3.0,1.0,35.0,Unfurnished,94.13
+PROP01013,Hyderabad,Velachery,Apartment,2923.0,4.0,2.0,7.0,1.0,43.0,Semi-Furnished,194.07
+PROP00818,Indore,Palasia,Apartment,2442.0,2.0,2.0,14.0,2.0,26.0,Semi-Furnished,122.12
+PROP00308,Bengaluru,Baner,Villa,2434.0,4.0,4.0,7.0,2.0,29.0,Unfurnished,283.27
+PROP00724,Bengaluru,Gachibowli,Independent House,1404.0,2.0,1.0,12.0,1.0,16.0,Semi-Furnished,142.54
+PROP00136,Delhi,Rau,Apartment,1526.0,2.0,3.0,3.0,0.0,18.0,Furnished,131.07
+PROP00440,Delhi,Baner,Villa,2024.0,2.0,1.0,3.0,1.0,39.0,Semi-Furnished,286.24
+PROP01158,Chennai,Whitefield,Apartment,1567.0,2.0,2.0,,1.0,31.0,Semi-Furnished,105.15
+PROP00040,Mumbai,Thane,Builder Floor,1792.0,3.0,3.0,15.0,2.0,13.0,Semi-Furnished,259.79
+PROP00453,Mumbai,Wakad,Apartment,1920.0,4.0,3.0,13.0,1.0,25.0,Unfurnished,247.61
+PROP01085,Chennai,Velachery,Independent House,1573.0,2.0,1.0,0.0,1.0,28.0,Semi-Furnished,104.52
+PROP01351,Bengaluru,Hinjewadi,Builder Floor,1374.0,4.0,3.0,2.0,3.0,9.0,Semi-Furnished,139.25
+PROP00393,Mumbai,Whitefield,Apartment,2262.0,2.0,1.0,11.0,2.0,18.0,Furnished,303.65
+PROP00870,Bengaluru,Kondapur,Apartment,924.0,4.0,4.0,1.0,1.0,,Unfurnished,72.89
+PROP01494,Bengaluru,Wakad,Apartment,4471.0,1.0,1.0,5.0,2.0,41.0,Semi-Furnished,311.35
+PROP00771,Hyderabad,Palasia,Independent House,2108.0,2.0,,5.0,1.0,26.0,Unfurnished,156.4
+PROP00378,Indore,Vijay Nagar,Apartment,1659.0,3.0,2.0,8.0,,23.0,Semi-Furnished,68.4
+PROP00452,Indore,Bhawarkua,Villa,1382.0,3.0,2.0,7.0,2.0,32.0,Unfurnished,70.2
+PROP00590,Pune,Vijay Nagar,Villa,3453.0,2.0,2.0,13.0,1.0,32.0,Semi-Furnished,372.89
+PROP00103,Hyderabad,Hinjewadi,Apartment,3252.0,3.0,3.0,1.0,2.0,26.0,Semi-Furnished,201.67
+PROP00274,Mumbai,Rau,Independent House,1013.0,2.0,2.0,2.0,1.0,10.0,Furnished,197.32
+PROP01436,Bhopal,Vijay Nagar,Apartment,1659.0,2.0,2.0,3.0,3.0,30.0,Semi-Furnished,56.72
+PROP00010,Bhopal,,Apartment,2873.0,4.0,4.0,2.0,0.0,42.0,Unfurnished,117.99
+PROP00063,Indore,MP Nagar,Builder Floor,1303.0,1.0,1.0,1.0,2.0,31.0,Unfurnished,
+PROP00847,Pune,Hinjewadi,Independent House,3922.0,4.0,,14.0,1.0,12.0,Semi-Furnished,293.05
+PROP00345,Pune,Gachibowli,Apartment,,3.0,3.0,8.0,1.0,34.0,,86.47
+PROP00497,Delhi,Wakad,apartment,1392.0,3.0,3.0,2.0,1.0,12.0,Semi-Furnished,113.77
+PROP01168,Pune,Andheri,Apartment,1494.0,1.0,1.0,1.0,3.0,12.0,Furnished,110.25
+PROP00651,Bengaluru,Vijay Nagar,Apartment,3309.0,1.0,2.0,11.0,0.0,10.0,Unfurnished,246.21
+PROP00575,Indore,Kondapur,Apartment,,2.0,3.0,15.0,1.0,11.0,Semi-Furnished,96.32
+PROP01414,Mumbai,Bhawarkua,Independent House,3364.0,2.0,2.0,4.0,0.0,4.0,Semi-Furnished,531.62
+PROP00841,Delhi,Vijay Nagar,Apartment,1993.0,1.0,1.0,14.0,1.0,23.0,Furnished,188.23
+PROP01475,Bengaluru,Kolar Road,Apartment,1795.0,3.0,2.0,3.0,2.0,15.0,Furnished,151.22
+PROP00296,Chennai,MP Nagar,Apartment,1894.0,3.0,3.0,3.0,1.0,15.0,Semi-Furnished,126.37
+PROP01493,Bhopal,Bhawarkua,Apartment,2736.0,2.0,1.0,1.0,2.0,26.0,Semi-Furnished,86.87
+PROP01250,,Gachibowli,Apartment,2006.0,3.0,2.0,4.0,,27.0,Unfurnished,118.77
+PROP01273,Delhi,Thane,Apartment,3964.0,3.0,1.0,11.0,2.0,25.0,Semi-Furnished,
+PROP00020,Indore,Bhawarkua,Apartment,752.0,1.0,1.0,2.0,1.0,32.0,Unfurnished,13.18
+PROP01246,Chennai,Palasia,Independent House,1606.0,4.0,3.0,4.0,1.0,16.0,Semi-Furnished,144.23
+PROP00380,Bengaluru,Electronic City,Independent House,1811.0,4.0,4.0,15.0,1.0,40.0,Unfurnished,149.58
+PROP00147,Chennai,Vijay Nagar,Apartment,1919.0,4.0,2.0,4.0,3.0,0.0,Semi-Furnished,137.01
+PROP00305,Chennai,Gachibowli,Apartment,2636.0,3.0,2.0,14.0,0.0,14.0,Unfurnished,162.12
+PROP00237,Bhopal,Kolar Road,Independent House,3793.0,2.0,2.0,4.0,1.0,41.0,Semi-Furnished,162.68
+PROP01149,Bengaluru,Whitefield,Apartment,1697.0,1.0,1.0,0.0,2.0,13.0,Unfurnished,133.12
+PROP01486,Indore,Whitefield,Apartment,1954.0,2.0,2.0,7.0,1.0,38.0,Furnished,85.76
+PROP00485,Indore,Palasia,Independent House,1739.0,2.0,2.0,13.0,1.0,29.0,Unfurnished,78.01
+PROP01359,Indore,Bhawarkua,Apartment,2302.0,4.0,2.0,12.0,1.0,35.0,Semi-Furnished,106.56
+PROP00102,Hyderabad,Rau,Independent House,2085.0,1.0,1.0,7.0,3.0,37.0,Furnished,167.64
+PROP01245,Bengaluru,MP Nagar,Apartment,1072.0,4.0,4.0,11.0,3.0,33.0,Unfurnished,72.65
+PROP00170,Pune,Hinjewadi,Independent House,864.0,12,3.0,2.0,2.0,,Semi-Furnished,96.29
+PROP00353,Bengaluru,Kondapur,Apartment,2131.0,1.0,1.0,1.0,0.0,10.0,Semi-Furnished,149.76
+PROP00367,Mumbai,Kolar Road,Independent House,1479.0,4.0,4.0,8.0,,43.0,Semi-Furnished,
+PROP01001,Hyderabad,Andheri,Villa,2699.0,3.0,2.0,3.0,1.0,44.0,Semi-Furnished,266.38
+PROP00578,Delhi,Palasia,Independent House,2470.0,3.0,2.0,5.0,1.0,27.0,Furnished,291.46
+PROP00059,Bhopal,Gachibowli,Independent House,1825.0,3.0,2.0,8.0,2.0,3.0,Unfurnished,104.87
+PROP00360,Delhi,Baner,Independent House,1297.0,2.0,2.0,0.0,1.0,10.0,Unfurnished,136.36
+PROP00442,Mumbai,Gachibowli,Villa,2887.0,3.0,3.0,1.0,1.0,,Semi-Furnished,579.92
+PROP00970,Chennai,Hinjewadi,Apartment,1494.0,2.0,3.0,0.0,2.0,8.0,Furnished,103.23
+PROP01472,Chennai,Andheri,Independent House,1579.0,2.0,2.0,12.0,3.0,40.0,Unfurnished,109.44
+PROP00415,Delhi,Miyapur,Independent House,770.0,4.0,3.0,5.0,1.0,21.0,Unfurnished,78.55
+PROP01039,Bhopal,Rau,Independent House,1468.0,4.0,3.0,7.0,3.0,2.0,Unfurnished,81.49
+PROP00747,Delhi,Palasia,Apartment,,4.0,2.0,14.0,,4.0,Semi-Furnished,145.6
+PROP01485,Delhi,Velachery,Apartment,1447.0,2.0,2.0,15.0,1.0,0.0,Semi-Furnished,137.17
+PROP00430,Bhopal,Palasia,Apartment,1674.0,4.0,3.0,3.0,,32.0,Furnished,63.93
+PROP00742,Hyderabad,Thane,Independent House,2267.0,4.0,4.0,4.0,1.0,21.0,Furnished,184.25
+PROP00748,Mumbai,Palasia,Independent House,2199.0,3.0,3.0,5.0,1.0,19.0,Unfurnished,336.41
+PROP00126,Indore,Kondapur,Apartment,,2.0,,10.0,2.0,4.0,Semi-Furnished,85.49
+PROP00589,Mumbai,Rau,Apartment,1813.0,2.0,3.0,12.0,1.0,38.0,Unfurnished,221.57
+PROP00868,Indore,Dwarka,Independent House,2670.0,3.0,2.0,0.0,1.0,26.0,Furnished,140.09
+PROP00255,Bengaluru,Hinjewadi,Apartment,1158.0,1.0,1.0,9.0,1.0,18.0,Semi-Furnished,67.57
+PROP01015,Bhopal,Bhawarkua,Apartment,1567.0,2.0,1.0,0.0,1.0,6.0,Semi-Furnished,65.44
+PROP01143,Hyderabad,Thane,Independent House,1754.0,2.0,2.0,7.0,0.0,5.0,Unfurnished,131.18
+PROP00937,Bhopal,Electronic City,,2239.0,3.0,3.0,12.0,1.0,35.0,Unfurnished,93.94
+PROP01163,Bengaluru,Andheri,Apartment,4500.0,1.0,1.0,15.0,2.0,25.0,Semi-Furnished,"₹33,205,000"
+PROP00850,Chennai,Wakad,Apartment,2322.0,1.0,1.0,15.0,0.0,42.0,Unfurnished,140.85
+PROP00484, BENGALURU ,Kondapur,Apartment,2594.0,4.0,3.0,2.0,2.0,33.0,Furnished,200.09
+PROP01183,Mumbai,Baner,Apartment,793.0,4.0,3.0,11.0,1.0,9.0,Semi-Furnished,117.0
+PROP00486,Delhi,Velachery,Independent House,2543.0,2.0,3.0,14.0,3.0,40.0,Unfurnished,269.56
+PROP00726,Delhi,Kolar Road,Apartment,1648.0,3.0,2.0,,1.0,21.0,Unfurnished,138.25
+PROP00162,Delhi,Kondapur,Apartment,2551.0,4.0,3.0,7.0,1.0,10.0,Unfurnished,219.66
+PROP00282,Bengaluru,Whitefield,Builder Floor,903.0,1 BHK,1.0,3.0,2.0,20.0,Semi-Furnished,78.85
+PROP00777,Pune,Palasia,Independent House,1189.0,4.0,2.0,2.0,2.0,44.0,Furnished,129.4
+PROP00650,Hyderabad,,Independent House,2638.0,2.0,3.0,1.0,1.0,11.0,Semi-Furnished,211.29
+PROP01200,Chennai,Andheri,Independent House,1558.0,3.0,2.0,9.0,0.0,5.0,Semi-Furnished,"₹12,553,000"
+PROP00686,Pune,Hinjewadi,Apartment,1285.0,3.0,2.0,11.0,0.0,36.0,Unfurnished,85.73
+PROP01190,Bengaluru,Velachery,Independent House,2204.0,2.0,2.0,8.0,1.0,0.0,Unfurnished,190.12
+PROP00539,Hyderabad,Whitefield,Apartment,,4.0,3.0,15.0,2.0,2.0,Furnished,139.74
+PROP01325, INDORE ,Kolar Road,Apartment,1396.0,1.0,1.0,14.0,2.0,29.0,Semi-Furnished,57.2
+PROP01022,Pune,Electronic City,Independent House,2000.0,3.0,2.0,5.0,2.0,16.0,Semi-Furnished,169.11
+PROP01084,,Miyapur,Builder Floor,1374.0,2.0,2.0,10.0,2.0,36.0,Semi-Furnished,72.51
+PROP00861,Chennai,Bhawarkua,Apartment,2908.0,1.0,1.0,6.0,2.0,26.0,Semi-Furnished,173.35
+PROP00122,Mumbai,Whitefield,Independent House,2610.0,2.0,1.0,12.0,1.0,34.0,Semi-Furnished,414.22
+PROP00095,,Vijay Nagar,Apartment,972.0,2.0,2.0,10.0,2.0,,Unfurnished,64.88
+PROP01290,Pune,MP Nagar,Villa,,2.0,1.0,3.0,1.0,21.0,Unfurnished,230.46
+PROP00303,Chennai,Baner,Apartment,2241.0,3.0,2.0,11.0,1.0,23.0,Unfurnished,162.16
+PROP00384,Bhopal,Wakad,Apartment,1475.0,2.0,2.0,11.0,1.0,12.0,Semi-Furnished,
+PROP01153,Indore,Miyapur,Apartment,2331.0,1.0,1.0,10.0,1.0,11.0,Unfurnished,102.92
+PROP00579,Delhi,Rau,Apartment,2180.0,4.0,3.0,12.0,1.0,15.0,Semi-Furnished,209.29
+PROP00148,Pune,Whitefield,Independent House,1677.0,3.0,2.0,8.0,2.0,12.0,Furnished,136.53
+PROP00180,Pune,Kondapur,apartment,1772.0,4.0,3.0,7.0,1.0,13.0,Unfurnished,125.3
+PROP00913,Hyderabad,Baner,Builder Floor,2190.0,,4.0,5.0,2.0,10.0,Semi-Furnished,161.41
+PROP00405,Bengaluru,Whitefield,Apartment,1278.0,5.0,4.0,5.0,2.0,19.0,Unfurnished,110.85
+PROP00814,Mumbai,Kondapur,Apartment,2171.0,,2.0,15.0,1.0,25.0,Unfurnished,280.8
+PROP00948,Indore,Palasia,Independent House,1869.0,1.0,1.0,0.0,1.0,6.0,Furnished,118.47
+PROP01300,Indore,Andheri,Independent House,748.0,4.0,3.0,13.0,1.0,24.0,Furnished,36.2
+PROP01076,Hyderabad,Thane,Apartment,3678.0,1.0,,1.0,3.0,6.0,Unfurnished,244.88
+PROP00969,Indore,Kolar Road,Villa,2260.0,2.0,3.0,1.0,2.0,22.0,Semi-Furnished,152.54
+PROP00760,Delhi,Electronic City,Apartment,1553.0,3.0,3.0,4.0,3.0,9.0,Furnished,161.55
+PROP00397,Bengaluru,Electronic City,Villa,2550.0,3.0,3.0,72.0,,35.0,Semi-Furnished,284.55
+PROP00644,Hyderabad,Whitefield,Apartment,3944.0,2.0,1.0,13.0,2.0,15.0,Semi-Furnished,225.14
+PROP00337,Pune,,Apartment,1311.0,3.0,3.0,6.0,0.0,15.0,Unfurnished,92.57
+PROP01491,Hyderabad,MP Nagar,apartment,3130.0,2.0,2.0,10.0,1.0,16.0,Semi-Furnished,207.1
+PROP00950,Hyderabad,Miyapur,Independent House,2390.0,5.0,4.0,14.0,0.0,28.0,Unfurnished,187.1
+PROP01147,Indore,Rau,Apartment,1810.0,3.0,2.0,3.0,1.0,33.0,Semi-Furnished,72.25
+PROP00287,Hyderabad,Bhawarkua,Apartment,1295.0,4.0,3.0,3.0,1.0,42.0,Semi-Furnished,93.73
+PROP00820,Bengaluru,Miyapur,Villa,1624.0,4.0,,13.0,1.0,37.0,Semi-Furnished,178.95
+PROP00294,Indore,Palasia,,2245.0,2.0,2.0,0.0,1.0,30.0,Unfurnished,105.6
+PROP01238,Hyderabad,,Apartment,3460.0,3.0,3.0,5.0,1.0,30.0,Unfurnished,210.49
+PROP00570,Indore,Dwarka,Apartment,1430.0,3.0,2.0,7.0,3.0,6.0,Furnished,69.93
+PROP00557,Indore,MP Nagar,Villa,1286.0,1.0,1.0,14.0,1.0,0.0,Unfurnished,98.02
+PROP01432,Pune,Thane,Villa,1020.0,4.0,2.0,8.0,1.0,13.0,Semi-Furnished,126.47
+PROP00085,Bengaluru,Baner,Apartment,,,2.0,9.0,1.0,31.0,Semi-Furnished,153.22
+PROP01397,Mumbai,Whitefield,Apartment,1768.0,1.0,1.0,4.0,2.0,41.0,Unfurnished,224.95
+PROP00952,,Vijay Nagar,Apartment,2120.0,1.0,3.0,6.0,1.0,38.0,Semi-Furnished,80.51
+PROP00797,Bengaluru,Kondapur,Independent House,,3.0,2.0,7.0,1.0,24.0,Furnished,101.33
+PROP01219,Hyderabad,Thane,Apartment,2259.0,2.0,2.0,0.0,1.0,, furnished ,149.85
+PROP00478,Chennai,Kondapur,Villa,1306.0,3.0,,11.0,1.0,4.0,Furnished,145.02
+PROP01440,Bengaluru,Palasia,Apartment,2501.0,2.0,1.0,0.0,2.0,9.0,,203.34
+PROP00022,Bengaluru,Hinjewadi,Apartment,953.0,1.0,1.0,13.0,1.0,31.0,Semi-Furnished,72.14
+PROP01247,Indore,Hinjewadi,Independent House,4209.0,4.0,4.0,12.0,0.0,26.0,Semi-Furnished,232.32
+PROP00082,Indore,Kolar Road,Apartment,1525.0,3.0,2.0,11.0,3.0,20.0,Furnished,90.42
+PROP01271,Mumbai,Gachibowli,Apartment,1033.0,3.0,3.0,3.0,1.0,39.0,Unfurnished,127.66
+PROP01047,Hyderabad,Kondapur,Apartment,2036.0,5.0,5.0,,0.0,43.0,Unfurnished,136.31
+PROP01496,Delhi,Gachibowli,Apartment,2456.0,1.0,1.0,4.0,2.0,17.0,Furnished,225.98
+PROP01297,Hyderabad,Gachibowli,Apartment,1580.0,4.0,4.0,3.0,1.0,10.0,Semi-Furnished,138.0
+PROP00569,Chennai,Rau,Independent House,2012.0,2.0,2.0,2.0,1.0,25.0,Unfurnished,147.17
+PROP01139,,Thane,Villa,202 sqm,3.0,2.0,15.0,2.0,8.0,Semi-Furnished,"₹26,609,000"
+PROP01386,Hyderabad,Kolar Road,Apartment,281 sqm,3.0,2.0,5.0,2.0,5.0,Unfurnished,185.75
+PROP00376,Bhopal,Andheri,Apartment,1149.0,4.0,,10.0,0.0,29.0,Furnished,"₹4,947,000"
+PROP01098,Pune,Gachibowli,Apartment,1640.0,3.0,3.0,3.0,1.0,17.0,Furnished,113.74
+PROP00106,Pune,Electronic City,Apartment,877.0,3.0,2.0,7.0,2.0,19.0,Furnished,52.37
+PROP01046,Bengaluru,Whitefield,Independent House,1932.0,3.0,3.0,5.0,1.0,28.0,Unfurnished,144.95
+PROP00269,Bengaluru,Baner,Apartment,2693.0,2.0,1.0,10.0,2.0,28.0,Semi-Furnished,192.71
+PROP00314,Hyderabad,Miyapur,Apartment,1795.0,2.0,2.0,5.0,2.0,29.0,Unfurnished,126.26
+PROP00701,Delhi,Gachibowli,Independent House,1740.0,2.0,2.0,7.0,2.0,8.0,Furnished,218.56
+PROP00097,Delhi,Kolar Road,Apartment,2725.0,2.0,2.0,2.0,1.0,13.0,Unfurnished,247.8
+PROP00781,Indore,MP Nagar,Independent House,2286.0,3.0,1.0,13.0,0.0,43.0,Semi-Furnished,117.29
+PROP00386,Delhi,Velachery,,1370.0,3 BHK,2.0,10.0,1.0,41.0,Furnished,126.3
+PROP00561,Mumbai,Dwarka,Apartment,1486.0,2.0,1.0,7.0,0.0,5.0,Furnished,210.67
+PROP01142,Bhopal,Vijay Nagar,Apartment,1291.0,4.0,3.0,0.0,1.0,23.0,Semi-Furnished,58.12
+PROP00700,Hyderabad,Dwarka,Independent House,1792.0,4.0,3.0,14.0,1.0,34.0,Unfurnished,155.02
+PROP00110,Mumbai,Kolar Road,Independent House,2847.0,2.0,1.0,5.0,0.0,23.0,Furnished,"₹45,011,000"
+PROP01394,Indore,Thane,Villa,1425.0,5.0,2.0,12.0,3.0,33.0,Furnished,112.71
+PROP00975,Delhi,Thane,Apartment,993.0,3.0,3.0,14.0,1.0,36.0, furnished ,88.47
+PROP01093,Bengaluru,Bhawarkua,Apartment,2250.0,2.0,1.0,8.0,2.0,23.0,Unfurnished,163.1
+PROP00612,Indore,Vijay Nagar,Apartment,2589.0,2.0,2.0,0.0,1.0,19.0,Furnished,118.96
+PROP00597,Indore,Whitefield,Apartment,1155.0,3.0,3.0,8.0,1.0,9.0,Semi-Furnished,53.96
+PROP01043,Chennai,Rau,Apartment,1634.0,3.0,2.0,0.0,0.0,27.0,Semi-Furnished,111.64
+PROP01348,Bengaluru,Kondapur,Independent House,2491.0,2.0,2.0,8.0,1.0,13.0,Semi-Furnished,223.4
+PROP01009,Hyderabad,Baner,Villa,-250,4.0,3.0,2.0,1.0,11.0,,153.23
+PROP00049,Indore,Vijay Nagar,Independent House,2713.0,2.0,1.0,8.0,1.0,,Semi-Furnished,138.83
+PROP00672,Hyderabad,Gachibowli,Apartment,1716.0,3.0,2.0,7.0,,44.0,Unfurnished,119.23
+PROP00359,Bengaluru,Velachery,Villa,1421.0,2.0,2.0,12.0,2.0,7.0,Unfurnished,162.49
+PROP00306,Delhi,MP Nagar,Apartment,1214.0,3.0,3.0,4.0,3.0,23.0,Unfurnished,106.94
+PROP00851,Hyderabad,Rau,Builder Floor,,4.0,3.0,9.0,1.0,,Unfurnished,175.81
+PROP01328,Pune,Thane,Apartment,2885.0,2.0,2.0,11.0,0.0,23.0,Semi-Furnished,169.98
+PROP00571,Hyderabad,Dwarka,Apartment,2276.0,2.0,2.0,1.0,0.0,24.0,Unfurnished,131.3
+PROP01447,Bhopal,Rau,villa,1720.0,2.0,2.0,13.0,0.0,14.0,Semi-Furnished,105.99
+PROP00604,,Miyapur,Villa,2677.0,2 BHK,2.0,3.0,0.0,32.0,Unfurnished,283.29
+PROP01260,Pune,Kolar Road,Independent House,1752.0,3.0,,2.0,1.0,10.0,Semi-Furnished,146.0
+PROP01099,Chennai,Rau,Builder Floor,1479.0,4.0,3.0,2.0,1.0,18.0,Furnished,97.18
+PROP00316, INDORE ,Andheri,Apartment,2378.0,3.0,2.0,13.0,0.0,32.0,Furnished,122.3
+PROP00715,Chennai,Velachery,Apartment,3877.0,1.0,1.0,6.0,2.0,27.0,Unfurnished,229.74
+PROP00858,Mumbai,Thane,Apartment,1777.0,4.0,3.0,13.0,2.0,20.0,Unfurnished,235.31
+PROP01185,Chennai,Thane,Apartment,2091.0,3.0,2.0,13.0,2.0,31.0,Semi-Furnished,127.45
+PROP00788,Bengaluru,Miyapur,Apartment,2429.0,3.0,2.0,7.0,1.0,41.0,Semi-Furnished,187.94
+PROP00663,Mumbai,Electronic City,Apartment,1685.0,1.0,1.0,1.0,1.0,,Unfurnished,213.43
+PROP00563,Mumbai,Gachibowli,Apartment,1273.0,2.0,1.0,2.0,1.0,12.0,Unfurnished,156.94
+PROP00823,Delhi,Kolar Road,Villa,899.0,3.0,2.0,4.0,1.0,30.0,Furnished,136.06
+PROP00802,Indore,Miyapur,Independent House,1618.0,2.0,3.0,11.0,0.0,31.0,Semi-Furnished,77.19
+PROP00727,Indore,Kolar Road,Independent House,1272.0,4.0,3.0,7.0,1.0,6.0,Unfurnished,64.4
+PROP01121,Chennai,Miyapur,Apartment,1726.0,3.0,3.0,1.0,2.0,12.0,Semi-Furnished,122.46
+PROP01363,Indore,Baner,Villa,503.0,3.0,3.0,9.0,1.0,8.0,Semi-Furnished,33.4
+PROP00897,Bengaluru,Kolar Road,Independent House,1044.0,3.0,2.0,10.0,0.0,39.0,Furnished,93.72
+PROP00931,Pune,Kolar Road,Apartment,1362.0,3.0,3.0,0.0,1.0,0.0,Furnished,133.41
+PROP00676,Indore,Rau,Apartment,2877.0,1.0,1.0,12.0,3.0,16.0,Semi-Furnished,123.77
+PROP01054,Bengaluru,Hinjewadi,Apartment,1037.0,4.0,4.0,2.0,1.0,18.0,Furnished,92.17
+PROP00467,Mumbai,,Independent House,1264.0,3.0,2.0,,0.0,13.0,Semi-Furnished,
+PROP00662, PUNE ,Andheri,Independent House,1694.0,3.0,3.0,,1.0,26.0,Furnished,153.76
+PROP00104,Bengaluru,Palasia,Independent House,318 sqm,3.0,3.0,6.0,1.0,7.0,Unfurnished,303.32
+PROP01306,Indore,Palasia,Independent House,1157.0,3.0,2.0,6.0,2.0,13.0,Semi-Furnished,59.9
+PROP00101,Hyderabad,MP Nagar,Independent House,984.0,2.0,1.0,4.0,1.0,41.0,Unfurnished,79.06
+PROP01151,Chennai,Kolar Road,Apartment,,5.0,4.0,12.0,1.0,14.0,Unfurnished,101.28
+PROP01466,Hyderabad,Electronic City,Apartment,1042.0,,,12.0,1.0,30.0, semi-furnished ,78.85
+PROP00655,Delhi,Electronic City,Villa,1078.0,2.0,1.0,1.0,2.0,24.0,Unfurnished,147.2
+PROP00428,Bengaluru,Miyapur,Villa,4500.0,3.0,,4.0,2.0,2.0,Semi-Furnished,541.95
+PROP01308,Bengaluru,Wakad,Builder Floor,2696.0,3.0,3.0,1.0,1.0,42.0,Semi-Furnished,235.22
+PROP01146,Hyderabad,Whitefield,Apartment,2097.0,2.0,,0.0,2.0,39.0,Furnished,139.41
+PROP00930,Hyderabad,Kolar Road,Apartment,1953.0,2.0,2.0,9.0,1.0,41.0,Semi-Furnished,139.03
+PROP00521,Bengaluru,Velachery,Independent House,2330.0,3.0,3.0,7.0,0.0,10.0,Unfurnished,205.64
+PROP01479,Delhi,MP Nagar,Villa,1923.0,3.0,2.0,4.0,2.0,13.0,Semi-Furnished,270.44
+PROP00342,Bhopal,Wakad,Independent House,2882.0,1.0,1.0,13.0,1.0,8.0,Semi-Furnished,143.76
+PROP01255,Indore,Vijay Nagar,Apartment,2358.0,4.0,3.0,11.0,2.0,25.0,Unfurnished,104.81
+PROP01323,Hyderabad,Kolar Road,Apartment,1471.0,,3.0,4.0,2.0,25.0,Semi-Furnished,102.21
+PROP00945,Mumbai,Vijay Nagar,Independent House,1923.0,3.0,2.0,7.0,0.0,40.0,Furnished,
+PROP00198,Delhi,Dwarka,Villa,1835.0,3.0,3.0,15.0,2.0,21.0,Unfurnished,234.9
+PROP01252,Delhi,Kolar Road,Independent House,1887.0,5.0,3.0,8.0,2.0,18.0,Semi-Furnished,230.95
+PROP00120,Delhi,Baner,Builder Floor,1552.0,3.0,2.0,6.0,0.0,39.0,Furnished,156.8
+PROP00593,Bhopal,Baner,Independent House,1007.0,4.0,,15.0,2.0,24.0,Semi-Furnished,50.62
+PROP01161,Chennai,Dwarka,Apartment,3282.0,1.0,1.0,5.0,1.0,43.0,Furnished,224.54
+PROP00256,Bengaluru,Wakad,Independent House,,,2.0,10.0,1.0,21.0, furnished ,82.25
+PROP00035,Hyderabad,Miyapur,Apartment,1829.0,2.0,2.0,9.0,2.0,0.0,Furnished,123.85
+PROP01055,Mumbai,Dwarka,Independent House,1843.0,1.0,1.0,9.0,2.0,,Semi-Furnished,288.24
+PROP00350,Bengaluru,Palasia,Independent House,2334.0,2.0,2.0,0.0,2.0,25.0,Semi-Furnished,203.34
+PROP00773,Bhopal,,Independent House,1984.0,3.0,3.0,15.0,1.0,32.0,Semi-Furnished,84.89
+PROP01028,Pune,Kolar Road,Apartment,1519.0,3.0,2.0,,,16.0,Unfurnished,95.17
+PROP01450,Indore,Rau,Apartment,3217.0,3.0,2.0,9.0,1.0,12.0,Unfurnished,153.83
+PROP00233,Bengaluru,Whitefield,Builder Floor,2560.0,2.0,1.0,7.0,1.0,41.0,Furnished,219.14
+PROP00862,Bengaluru,Dwarka,Apartment,124 sqm,1.0,2.0,6.0,1.0,0.0,Semi-Furnished,127.55
+PROP00299,Bhopal,Gachibowli,Independent House,1194.0,2.0,2.0,9.0,2.0,3.0,,59.02
+PROP00208,,Palasia,Apartment,3064.0,2.0,,15.0,1.0,9.0,Semi-Furnished,225.95
+PROP01467,Indore,Baner,Villa,2212.0,1.0,1.0,12.0,0.0,38.0,Furnished,152.94
+PROP01140,Bengaluru,Electronic City,Apartment,2405.0,4.0,2.0,2.0,1.0,22.0,Semi-Furnished,195.49
+PROP01166,Indore,Gachibowli,Apartment,2701.0,4.0,3.0,10.0,2.0,5.0,Semi-Furnished,136.76
+PROP01314,Delhi,Baner,Builder Floor,2771.0,5.0,4.0,9.0,2.0,15.0,Unfurnished,268.84
+PROP00980,Bhopal,Bhawarkua,Apartment,1830.0,2.0,2.0,5.0,2.0,42.0,Semi-Furnished,73.88
+PROP00244,Indore,Dwarka,Villa,1484.0,4.0,4.0,10.0,,42.0,Furnished,95.0
+PROP01218,Indore,Kolar Road,Apartment,1379.0,2.0,2.0,14.0,1.0,,Semi-Furnished,67.4
+PROP01488,Chennai,Kolar Road,Apartment,2145.0,1.0,2.0,0.0,1.0,2.0,Unfurnished,136.41
+PROP00873,Bengaluru,,Independent House,1739.0,2.0,2.0,8.0,1.0,43.0,Unfurnished,140.35
+PROP01299,Bengaluru,MP Nagar,Villa,22000,1.0,1.0,6.0,2.0,27.0,Unfurnished,214.14
+PROP01062,Mumbai,Wakad,Apartment,1178.0,3.0,1.0,10.0,2.0,21.0,Unfurnished,138.26
+PROP01017,Delhi,Andheri,Apartment,2675.0,1.0,1.0,12.0,2.0,33.0,Semi-Furnished,"₹24,583,000"
+PROP00768,Hyderabad,Baner,Villa,1630.0,3.0,2.0,8.0,3.0,39.0,Semi-Furnished,164.11
+PROP00240,,Thane,Builder Floor,1642.0,3.0,2.0,5.0,1.0,42.0,Unfurnished,120.36
+PROP00567,Pune,Baner,Apartment,2025.0,2.0,1.0,1.0,1.0,1.0,Unfurnished,129.64
+PROP01261,Pune,Rau,Apartment,3621.0,1.0,1.0,7.0,1.0,29.0,Semi-Furnished,227.19
+PROP01090,Bengaluru,Andheri,Apartment,1745.0,2.0,3.0,11.0,2.0,27.0,Semi-Furnished,115.62
+PROP00582,Mumbai,Vijay Nagar,Independent House,3230.0,4.0,3.0,4.0,1.0,25.0,Semi-Furnished,525.8
+PROP00564,Bhopal,Hinjewadi,Apartment,995.0,4.0,3.0,1.0,1.0,35.0,Furnished,32.6
+PROP01333,Mumbai,Electronic City,Villa,1964.0,4.0,3.0,12.0,0.0,10.0,Semi-Furnished,415.33
+PROP01172,Mumbai,Palasia,Apartment,2474.0,1.0,1.0,6.0,2.0,25.0,Semi-Furnished,326.37
+PROP00057,Hyderabad,Wakad,Independent House,1783.0,1.0,2.0,15.0,2.0,40.0, furnished ,133.35
+PROP01152,Mumbai,Whitefield,Apartment,1181.0,2.0,1.0,2.0,1.0,23.0,Semi-Furnished,131.79
+PROP00949,Hyderabad,Miyapur,Independent House,3420.0,1.0,1.0,10.0,3.0,20.0,Semi-Furnished,263.7
+PROP00596,Hyderabad,Kolar Road,Apartment,3694.0,3.0,3.0,5.0,1.0,35.0,Semi-Furnished,242.1
+PROP00840,Bengaluru,MP Nagar,Apartment,2598.0,3.0,2.0,2.0,2.0,14.0,,201.51
+PROP00331,Mumbai,,Apartment,3964.0,4.0,3.0,15.0,1.0,,Unfurnished,515.08
+PROP00838,Indore,Hinjewadi,Apartment,1319.0,2.0,,0.0,1.0,20.0,Semi-Furnished,72.18
+PROP00908,Hyderabad,Palasia,Apartment,,2.0,1.0,1.0,2.0,17.0,Furnished,190.05
+PROP00357,Mumbai,Electronic City,Apartment,1677.0,4.0,3.0,11.0,1.0,42.0,Furnished,215.47
+PROP01136,Bhopal,Velachery,Apartment,1276.0,3.0,1.0,1.0,3.0,17.0,Semi-Furnished,66.01
+PROP01091,Bhopal,Vijay Nagar,Independent House,2027.0,2.0,2.0,4.0,2.0,,Semi-Furnished,
+PROP00987,Delhi,Miyapur,Apartment,1703.0,3.0,2.0,12.0,2.0,27.0,Semi-Furnished,"₹16,123,000"
+PROP00598,Indore,Vijay Nagar,Villa,4401.0,4.0,3.0,10.0,1.0,10.0,Semi-Furnished,307.82
+PROP00247,Bengaluru,Electronic City,Apartment,1259.0,1.0,1.0,7.0,2.0,0.0,Unfurnished,101.95
+PROP01265,Bhopal,Rau,Apartment,240 sqm,3.0,3.0,4.0,2.0,13.0,Unfurnished,95.77
+PROP01220,Pune,Vijay Nagar,Apartment,444.0,3.0,2.0,3.0,1.0,37.0,Unfurnished,48.8
+PROP00749,Chennai,Baner,Apartment,1086.0,4.0,3.0,11.0,0.0,34.0,Unfurnished,87.18
+PROP00964,Pune,Miyapur,Villa,1916.0,2.0,1.0,3.0,2.0,15.0,Furnished,200.78
+PROP01225,Indore,Wakad,Apartment,1451.0,3.0,3.0,13.0,2.0,33.0,Semi-Furnished,65.74
+PROP00890, BHOPAL ,Kolar Road,Apartment,1318.0,4.0,3.0,9.0,1.0,28.0,Unfurnished,65.64
+PROP00510,Pune,Electronic City,apartment,2226.0,3.0,2.0,7.0,3.0,1.0,Semi-Furnished,159.55
+PROP00936,Hyderabad,Palasia,Apartment,3344.0,3.0,2.0,11.0,2.0,6.0,Furnished,214.69
+PROP00461,Chennai,Dwarka,Apartment,2479.0,3.0,2.0,11.0,1.0,36.0,Semi-Furnished,149.94
+PROP00716,Chennai,Vijay Nagar,Apartment,1358.0,3.0,3.0,14.0,1.0,15.0,Semi-Furnished,94.22
+PROP00933,Hyderabad,Baner,Villa,1651.0,3.0,3.0,14.0,2.0,19.0,Semi-Furnished,155.6
+PROP00815,Delhi,Palasia,Villa,1692.0,2.0,2.0,4.0,1.0,31.0,Unfurnished,216.23
+PROP01042,Bengaluru,Rau,independent house,3568.0,2.0,2.0,9.0,2.0,15.0,Unfurnished,309.01
+PROP01471,Indore,Gachibowli,Apartment,3469.0,1.0,1.0,8.0,2.0,10.0,Semi-Furnished,160.05
+PROP00392,Indore,Rau,Builder Floor,3092.0,4.0,2.0,12.0,1.0,43.0,Semi-Furnished,140.43
+PROP00634,Bhopal,Vijay Nagar,Apartment,1815.0,4.0,3.0,4.0,1.0,22.0,Semi-Furnished,73.4
+PROP00592,Bhopal,Electronic City,Builder Floor,1539.0,2.0,2.0,11.0,3.0,4.0,Semi-Furnished,2500
+PROP00759,Indore,Hinjewadi,Builder Floor,1395.0,2.0,1.0,8.0,2.0,22.0,Unfurnished,72.82
+PROP00114,Bhopal,Gachibowli,Apartment,1525.0,3.0,2.0,8.0,2.0,25.0,Semi-Furnished,71.08
+PROP00757,Hyderabad,Miyapur,Builder Floor,1805.0,1.0,1.0,13.0,2.0,32.0,Semi-Furnished,115.65
+PROP01474,Delhi,Miyapur,Independent House,,3.0,3.0,4.0,2.0,27.0,Unfurnished,"₹9,223,000"
+PROP01117,Hyderabad,Dwarka,Builder Floor,2956.0,2.0,2.0,11.0,1.0,27.0,Semi-Furnished,189.8
+PROP00874,Chennai,Electronic City,Apartment,2508.0,3.0,3.0,12.0,0.0,25.0,Semi-Furnished,143.09
+PROP01321, CHENNAI ,Velachery,Apartment,3729.0,,2.0,1.0,1.0,12.0,Unfurnished,211.63
+PROP00982,Mumbai,Dwarka,Independent House,2478.0,5.0,4.0,13.0,3.0,42.0,Semi-Furnished,394.39
+PROP00502,,Whitefield,Apartment,2758.0,1.0,1.0,6.0,,35.0,Semi-Furnished,192.65
+PROP00153,Indore,Kondapur,Independent House,2545.0,2.0,1.0,3.0,1.0,15.0,Semi-Furnished,123.58
+PROP00674, DELHI ,Vijay Nagar,Villa,1838.0,3.0,2.0,0.0,2.0,23.0,Semi-Furnished,248.09
+PROP00121,Bengaluru,Dwarka,Builder Floor,1664.0,3.0,,13.0,0.0,1.0,Furnished,134.57
+PROP00928,Indore,MP Nagar,Independent House,3096.0,3.0,2.0,15.0,2.0,8.0,Semi-Furnished,167.7
+PROP00878,Bengaluru,Bhawarkua,Apartment,962.0,1.0,1.0,14.0,1.0,4.0,Unfurnished,64.69
+PROP00031,Hyderabad,Bhawarkua,Builder Floor,2319.0,5.0,4.0,13.0,2.0,29.0,Unfurnished,162.94
+PROP00284,Bengaluru,Gachibowli,Builder Floor,,4.0,3.0,15.0,2.0,12.0, semi-furnished ,85.15
+PROP00285,Hyderabad,Baner,Apartment,3152.0,2.0,2.0,14.0,0.0,7.0,Semi-Furnished,191.37
+PROP00906,Pune,Hinjewadi,Apartment,3940.0,3.0,2.0,12.0,2.0,28.0,Semi-Furnished,258.94
+PROP01374,Bengaluru,,Villa,4330.0,2.0,1.0,15.0,2.0,31.0,Semi-Furnished,501.3
+PROP00714,Bengaluru,Dwarka,Apartment,,3.0,2.0,,2.0,7.0,Semi-Furnished,186.86
+PROP00416,Mumbai,Kondapur,Villa,2347.0,2.0,1.0,11.0,2.0,18.0,Unfurnished,442.45
+PROP00139,Chennai,Velachery,Apartment,2941.0,3.0,2.0,2.0,0.0,18.0,Semi-Furnished,166.12
+PROP00133,Delhi,Baner,builder floor,693.0,4.0,3.0,10.0,2.0,13.0,Semi-Furnished,77.21
+PROP00675,Bhopal,Velachery,Apartment,2550.0,3.0,3.0,12.0,1.0,18.0,Unfurnished,99.79
+PROP00469,Hyderabad,Vijay Nagar,Apartment,3377.0,3.0,2.0,2.0,2.0,38.0,Semi-Furnished,228.64
+PROP00432,Mumbai,Vijay Nagar,Independent House,1683.0,,1.0,0.0,1.0,7.0,Semi-Furnished,261.69
+PROP00213,Indore,Dwarka,Apartment,236 sqm,3.0,3.0,3.0,,0.0,Semi-Furnished,126.36
+PROP01125,Hyderabad,MP Nagar,Independent House,1397.0,1.0,1.0,0.0,,30.0,Unfurnished,94.94
+PROP00941,Hyderabad,Andheri,Apartment,1625.0,3.0,2.0,10.0,2.0,23.0,Unfurnished,95.58
+PROP00900,Delhi,Thane,Apartment,1173.0,2.0,2.0,9.0,1.0,40.0,Semi-Furnished,85.11
+PROP00703,Pune,Gachibowli,Apartment,,2.0,1.0,6.0,1.0,41.0,Semi-Furnished,127.86
+PROP01259,Indore,Baner,Apartment,1482.0,1.0,1.0,7.0,1.0,19.0,Furnished,33.9
+PROP00805,Chennai,Vijay Nagar,Apartment,2498.0,4.0,3.0,8.0,3.0,33.0,Semi-Furnished,163.25
+PROP00409,Delhi,MP Nagar,Apartment,1400.0,5.0,4.0,9.0,1.0,2.0,Furnished,139.68
+PROP00859,Bengaluru,Whitefield,Independent House,2488.0,2.0,2.0,3.0,0.0,12.0,Semi-Furnished,225.19
+PROP00543,Hyderabad,Andheri,Independent House,1182.0,3.0,3.0,14.0,2.0,23.0,Furnished,96.68
+PROP00574,Indore,Velachery,Independent House,1484.0,3.0,3.0,7.0,0.0,14.0,Semi-Furnished,83.79
+PROP00910,Mumbai,Baner,Apartment,2935.0,3.0,2.0,5.0,2.0,21.0,Semi-Furnished,"₹36,800,000"
+PROP01495,Hyderabad,Kondapur,Villa,1570.0,3.0,2.0,13.0,1.0,,Unfurnished,127.38
+PROP01132,Mumbai,Kolar Road,Apartment,2458.0,4.0,2.0,14.0,1.0,17.0,Unfurnished,
+PROP01478,Indore,Wakad,Apartment,1958.0,5.0,4.0,6.0,,21.0,Furnished,112.05
+PROP00276,Indore,Palasia,Independent House,1261.0,4.0,4.0,8.0,2.0,17.0,Semi-Furnished,61.92
+PROP00821,Bhopal,Baner,Builder Floor,951.0,3.0,2.0,5.0,1.0,25.0,Semi-Furnished,30.84
+PROP01114,Bengaluru,Dwarka,Builder Floor,2012.0,3.0,2.0,2.0,1.0,38.0,Unfurnished,158.58
+PROP01462,Mumbai,Vijay Nagar,Apartment,2075.0,3.0,3.0,12.0,1.0,37.0,Furnished,266.44
+PROP01331,Pune,Wakad,Independent House,1499.0,3.0,3.0,5.0,1.0,0.0,Furnished,126.52
+PROP00617,Bengaluru,Whitefield,Apartment,1894.0,2.0,1.0,7.0,1.0,38.0,Unfurnished,160.96
+PROP00351,Bengaluru,Vijay Nagar,Independent House,1169.0,3.0,2.0,10.0,0.0,31.0,Semi-Furnished,95.42
+PROP01347,Chennai,Electronic City,Independent House,2747.0,2.0,2.0,5.0,2.0,39.0,Semi-Furnished,198.35
+PROP01116,Bengaluru,Gachibowli,Apartment,1359.0,4.0,3.0,14.0,1.0,2.0,Unfurnished,113.85
+PROP00529,Bhopal,Velachery,Independent House,3073.0,,4.0,1.0,2.0,23.0,Furnished,141.71
+PROP00926,Bhopal,Whitefield,Apartment,1172.0,3.0,2.0,13.0,2.0,5.0,Furnished,61.61
+PROP01056,Bengaluru,Palasia,Apartment,1293.0,5.0,4.0,1.0,3.0,4.0,Semi-Furnished,98.03
+PROP00865,Bengaluru,,Independent House,3669.0,2.0,3.0,15.0,,0.0,Semi-Furnished,331.43
+PROP00192,Indore,,Builder Floor,3229.0,3.0,3.0,6.0,2.0,6.0,Furnished,158.97
+PROP00992,Hyderabad,Baner,Apartment,1587.0,2.0,1.0,11.0,1.0,17.0,Semi-Furnished,114.44
+PROP00831, INDORE ,Wakad,Apartment,1621.0,2.0,2.0,5.0,0.0,5.0,Unfurnished,82.37
+PROP00946,Chennai,Wakad,Apartment,2053.0,4.0,3.0,13.0,,37.0,,120.62
+PROP01033,Hyderabad,Hinjewadi,Apartment,2301.0,3.0,2.0,14.0,1.0,24.0,Furnished,130.13
+PROP00028,Delhi,Wakad,Independent House,3170.0,4.0,3.0,5.0,1.0,,Semi-Furnished,311.81
+PROP01279,Delhi,Bhawarkua,Apartment,2416.0,2.0,1.0,1.0,1.0,9.0,Furnished,234.1
+PROP00947,Delhi,Velachery,Independent House,1502.0,1.0,2.0,1.0,1.0,12.0,Semi-Furnished,153.18
+PROP01439,Chennai,Whitefield,Independent House,2061.0,3.0,3.0,14.0,3.0,37.0,Semi-Furnished,"₹15,254,000"
+PROP00174,Chennai,Electronic City,Builder Floor,1012.0,5.0,3.0,14.0,1.0,0.0,Unfurnished,64.77
+PROP00333,Chennai,Andheri,Apartment,2354.0,2.0,1.0,2.0,1.0,3.0,Unfurnished,150.54
+PROP00965,Pune,Gachibowli,Apartment,1628.0,2.0,2.0,14.0,1.0,32.0,Semi-Furnished,107.95
+PROP00559,Indore,Hinjewadi,Apartment,1299.0,1.0,2.0,5.0,,19.0,Semi-Furnished,60.54
+PROP00468,Hyderabad,,Independent House,1472.0,3.0,3.0,9.0,2.0,6.0,Semi-Furnished,137.22
+PROP00520,Pune,Hinjewadi,Builder Floor,2032.0,2.0,1.0,0.0,2.0,33.0,Semi-Furnished,153.82
+PROP00270,Delhi,Kondapur,Builder Floor,3711.0,4.0,3.0,6.0,1.0,5.0,Semi-Furnished,370.52
+PROP00611, CHENNAI ,Hinjewadi,Apartment,1617.0,2.0,,-4.0,3.0,32.0,Semi-Furnished,85.22
+PROP01078,Bhopal,Rau,Apartment,2154.0,2.0,3.0,9.0,1.0,19.0,Unfurnished,85.16
+PROP01112,Indore,Palasia,Builder Floor,1287.0,3.0,2.0,7.0,2.0,35.0,Unfurnished,64.65
+PROP00135,Delhi,Miyapur,Independent House,1755.0,1.0,2.0,12.0,0.0,40.0,Unfurnished,169.44
+PROP00187,Mumbai,Bhawarkua,Apartment,1947.0,2.0,2.0,1.0,1.0,42.0,Semi-Furnished,253.96
+PROP01102,Hyderabad,Bhawarkua,Independent House,2928.0,1.0,2.0,11.0,1.0,44.0,Unfurnished,202.91
+PROP01126,Mumbai,Hinjewadi,Villa,2241.0,3.0,3.0,4.0,1.0,9.0,Furnished,501.39
+PROP01317,Bhopal,Velachery,Apartment,2853.0,3.0,2.0,2.0,,16.0,Unfurnished,117.74
+PROP01191,Hyderabad,Hinjewadi,Apartment,3556.0,2.0,2.0,3.0,2.0,23.0,Furnished,255.43
+PROP00252,Chennai,Vijay Nagar,Apartment,2329.0,2.0,1.0,14.0,2.0,18.0,Furnished,153.64
+PROP00645,Mumbai,Rau,Apartment,2017.0,3.0,3.0,10.0,1.0,14.0, unfurnished ,252.72
+PROP00450,Bhopal,Rau,Apartment,,4.0,4.0,8.0,0.0,0.0,Unfurnished,71.28
+PROP00124,Delhi,Whitefield,Villa,1957.0,4.0,3.0,14.0,1.0,42.0, semi-furnished ,262.77
+PROP00666,Hyderabad,Whitefield,Independent House,3287.0,3.0,1.0,3.0,1.0,24.0,Semi-Furnished,266.84
+PROP00447,Indore,Andheri,Apartment,2360.0,5.0,4.0,15.0,2.0,8.0,Furnished,135.81
+PROP01361,Bhopal,Thane,Independent House,1553.0,3.0,2.0,6.0,1.0,27.0,Semi-Furnished,76.36
+PROP00163,Chennai,Vijay Nagar,,1043.0,1.0,1.0,9.0,2.0,14.0,Unfurnished,59.45
+PROP01192,Indore,Rau,Independent House,1597.0,1.0,1.0,5.0,1.0,19.0,Unfurnished,70.81
+PROP00955,Mumbai,Palasia,Apartment,768.0,4.0,4.0,1.0,0.0,26.0,Unfurnished,95.17
+PROP00176,Delhi,Miyapur,Apartment,1822.0,1.0,1.0,14.0,2.0,5.0,Semi-Furnished,164.48
+PROP00044,Indore,Gachibowli,Villa,1241.0,1.0,1.0,7.0,2.0,14.0,Unfurnished,76.2
+PROP01419,Bengaluru,Dwarka,Apartment,2166.0,2.0,2.0,3.0,3.0,44.0,Semi-Furnished,160.75
+PROP01329,Mumbai,Miyapur,Apartment,3444.0,3.0,3.0,3.0,2.0,38.0,Semi-Furnished,454.95
+PROP00616,Hyderabad,Kondapur,Apartment,2008.0,3.0,2.0,10.0,0.0,,Semi-Furnished,139.47
+PROP00943,Delhi,Kondapur,Apartment,2682.0,4.0,3.0,13.0,1.0,10.0,,226.92
+PROP00647,Pune,Velachery,Apartment,145 sqm,4.0,3.0,3.0,2.0,32.0, unfurnished ,109.66
+PROP00388,Indore,Kolar Road,Independent House,694.0,2.0,1.0,2.0,1.0,5.0,Furnished,25.79
+PROP01182,Delhi,Wakad,Apartment,,3.0,2.0,14.0,1.0,21.0,Semi-Furnished,129.12
+PROP01380,Delhi,Bhawarkua,Apartment,1831.0,4.0,3.0,2.0,,21.0,Semi-Furnished,155.26
+PROP01344,Hyderabad,Electronic City,Builder Floor,1876.0,5.0,4.0,12.0,1.0,40.0,Semi-Furnished,137.59
+PROP00758,Bengaluru,Hinjewadi,Apartment,3259.0,5.0,4.0,6.0,1.0,1.0,,248.68
+PROP00854,Mumbai,,Apartment,1117.0,2.0,2.0,7.0,3.0,24.0,,136.37
+PROP00307,Pune,Rau,Apartment,1806.0,4.0,4.0,2.0,1.0,33.0,Semi-Furnished,107.02
+PROP00426,Indore,Baner,Apartment,1288.0,4.0,2.0,3.0,1.0,37.0,Semi-Furnished,37.74
+PROP00318,Chennai,Whitefield,Builder Floor,1264.0,3.0,2.0,2.0,1.0,43.0,Semi-Furnished,69.03
+PROP00168,Indore,Thane,Independent House,1299.0,2.0,2.0,14.0,2.0,34.0,Furnished,57.61
+PROP00599,Delhi,Kolar Road,Independent House,2232.0,2.0,1.0,10.0,3.0,33.0,Semi-Furnished,219.12
+PROP00909, MUMBAI ,Andheri,,2648.0,1 BHK,2.0,6.0,2.0,30.0,Unfurnished,331.26
+PROP00887,Indore,MP Nagar,Apartment,2378.0,3.0,3.0,5.0,2.0,21.0,Unfurnished,109.82
+PROP01210,Hyderabad,Andheri,Independent House,2499.0,3.0,2.0,7.0,1.0,17.0,Semi-Furnished,186.51
+PROP00620,Hyderabad,Velachery,Apartment,3146.0,2.0,1.0,6.0,2.0,31.0,Furnished,218.8
+PROP00514, HYDERABAD ,Andheri,Independent House,1500.0,5.0,4.0,5.0,2.0,38.0,Semi-Furnished,125.91
+PROP00394,Delhi,Palasia,Villa,2033.0,1.0,1.0,9.0,3.0,21.0,Unfurnished,267.37
+PROP01040,Mumbai,Electronic City,Apartment,1450.0,3.0,2.0,6.0,0.0,12.0,Unfurnished,170.96
+PROP00834,,Gachibowli,Apartment,15000,2.0,3.0,9.0,1.0,28.0,Furnished,178.08
+PROP01339,Chennai,Dwarka,Independent House,2070.0,5.0,4.0,9.0,0.0,24.0,Unfurnished,136.77
+PROP00669,Pune,Wakad,Apartment,4266.0,4.0,,13.0,1.0,10.0,Unfurnished,283.48
+PROP00199,Chennai,MP Nagar,Independent House,3183.0,3.0,2.0,15.0,3.0,24.0,Furnished,260.19
+PROP00881,Indore,Rau,Apartment,2864.0,3.0,3.0,2.0,1.0,39.0,Semi-Furnished,108.8
+PROP01032,Mumbai,Hinjewadi,Builder Floor,1093.0,3.0,2.0,10.0,1.0,8.0,Semi-Furnished,190.25
+PROP00630,Bengaluru,Andheri,Independent House,4500.0,4.0,2.0,10.0,1.0,3.0,Unfurnished,374.35
+PROP01010,Mumbai,Electronic City,Independent House,3219.0,3.0,3.0,7.0,1.0,37.0,Furnished,516.66
+PROP00812,Bengaluru,Velachery,Apartment,1670.0,1.0,1.0,3.0,2.0,4.0,Semi-Furnished,123.97
+PROP00339,Indore,Andheri,Apartment,1723.0,2.0,2.0,9.0,1.0,18.0,Unfurnished,69.2
+PROP00682,Indore,Andheri,Apartment,1345.0,1.0,1.0,10.0,2.0,39.0,Unfurnished,73.27
+PROP00115,Hyderabad,Whitefield,Villa,1052.0,3.0,3.0,14.0,12.0,43.0,Furnished,119.22
+PROP00193, MUMBAI ,MP Nagar,Apartment,1516.0,5.0,5.0,1.0,2.0,44.0,Semi-Furnished,204.64
+PROP00173,Pune,Gachibowli,Apartment,2052.0,2.0,2.0,5.0,1.0,29.0,Semi-Furnished,118.14
+PROP00495,Pune,Electronic City,Apartment,1625.0,4.0,12.0,14.0,1.0,10.0,Semi-Furnished,125.52
+PROP01423,Indore,,Apartment,2666.0,1.0,1.0,10.0,2.0,43.0,Unfurnished,117.3
+PROP00228,Pune,Kolar Road,Apartment,1507.0,4.0,4.0,6.0,1.0,9.0,Furnished,130.2
+PROP00311,Bengaluru,Miyapur,Apartment,1761.0,4.0,2.0,3.0,1.0,32.0,Unfurnished,132.15
+PROP00534,Hyderabad,Velachery,Villa,1545.0,3.0,2.0,12.0,1.0,33.0,Semi-Furnished,143.56
+PROP00443,Indore,Palasia,Independent House,4500.0,4.0,2.0,9.0,1.0,28.0,Semi-Furnished,238.08
+PROP00608,Delhi,Velachery,Apartment,1171.0,2.0,1.0,,1.0,23.0,Furnished,118.84
+PROP01018,Bengaluru,Baner,Builder Floor,3617.0,4.0,2.0,1.0,2.0,40.0,Furnished,307.15
+PROP00243,Bhopal,Andheri,Apartment,2900.0,2.0,1.0,15.0,2.0,41.0,Semi-Furnished,101.09
+PROP01362,Chennai,Andheri,Independent House,1668.0,2.0,2.0,10.0,2.0,44.0,Unfurnished,118.64
+PROP00427,Indore,Gachibowli,Independent House,1216.0,2.0,1.0,7.0,1.0,19.0,Semi-Furnished,67.92
+PROP00219,Hyderabad,Hinjewadi,Apartment,1761.0,4.0,3.0,6.0,2.0,40.0,Unfurnished,112.7
+PROP01130,Delhi,Palasia,Independent House,3080.0,2.0,2.0,9.0,2.0,38.0,Semi-Furnished,342.76
+PROP00083,Bengaluru,Miyapur,Builder Floor,2351.0,3.0,1.0,11.0,2.0,20.0,Semi-Furnished,186.36
+PROP01405,Hyderabad,Dwarka,Apartment,2435.0,4.0,3.0,6.0,1.0,40.0,,170.14
+PROP01326,Mumbai,Whitefield,Villa,2806.0,1.0,1.0,13.0,0.0,12.0,Furnished,587.69
+PROP00719,Indore,Baner,Apartment,1875.0,2 BHK,2.0,8.0,1.0,15.0,Semi-Furnished,64.03
+PROP00329,Hyderabad,,Apartment,3629.0,1.0,1.0,15.0,2.0,20.0,Unfurnished,226.39
+PROP00631,Delhi,Kolar Road,Villa,1989.0,3.0,2.0,0.0,1.0,20.0, semi-furnished ,263.45
+PROP00275,Indore,Palasia,Independent House,1566.0,3.0,3.0,14.0,1.0,6.0,Unfurnished,81.93
+PROP01105,Chennai,Wakad,apartment,1424.0,2.0,2.0,15.0,3.0,35.0,Furnished,108.72
+PROP00912,Hyderabad,Andheri,Apartment,3765.0,5.0,4.0,12.0,0.0,26.0,Semi-Furnished,235.23
+PROP00496,Mumbai,Electronic City,Independent House,3108.0,2.0,2.0,10.0,3.0,16.0,Unfurnished,452.61
+PROP01343,Chennai,Andheri,Builder Floor,,5.0,4.0,8.0,,29.0,Semi-Furnished,192.83
+PROP00809,Bengaluru,Kondapur,Apartment,987.0,4.0,3.0,4.0,3.0,12.0,Semi-Furnished,74.42
+PROP00262,Hyderabad,Rau,Independent House,2124.0,4.0,3.0,6.0,2.0,9.0,Semi-Furnished,173.39
+PROP01372,Indore,MP Nagar,Apartment,2713.0,2.0,2.0,4.0,2.0,20.0,Unfurnished,108.95
+PROP00129,Chennai,Electronic City,Independent House,1908.0,3.0,3.0,8.0,2.0,20.0,Unfurnished,142.36
+PROP00770,Indore,Bhawarkua,Apartment,4500.0,3.0,2.0,11.0,2.0,32.0,Unfurnished,169.25
+PROP00130,Mumbai,Velachery,Apartment,1000.0,,2.0,3.0,3.0,10.0,Unfurnished,118.45
+PROP00807,Bengaluru,Thane,Villa,2423.0,2.0,2.0,2.0,1.0,37.0,Furnished,294.53
+PROP00161,Bengaluru,Wakad,Apartment,,1.0,1.0,9.0,3.0,19.0,Furnished,89.65
+PROP00646,Pune,MP Nagar,Independent House,1434.0,2.0,1.0,6.0,3.0,,Unfurnished,92.49
+PROP00429,Delhi,Thane,Builder Floor,2561.0,2.0,2.0,3.0,0.0,,Unfurnished,"₹21,018,000"
+PROP00149,Bengaluru,Whitefield,Independent House,1512.0,3.0,2.0,6.0,0.0,5.0,Unfurnished,115.17
+PROP01014,Chennai,Rau,Apartment,1176.0,2.0,1.0,1.0,2.0,26.0,Semi-Furnished,83.0
+PROP00756,Indore,Kondapur,Apartment,4016.0,4.0,2.0,,2.0,15.0,Unfurnished,174.02
+PROP00412, DELHI ,Kolar Road,Builder Floor,1245.0,2.0,1.0,13.0,1.0,36.0,,117.09
+PROP00445,Indore,Vijay Nagar,Builder Floor,897.0,2.0,,5.0,2.0,5.0,Unfurnished,67.05
+PROP01355,Hyderabad,Hinjewadi,Apartment,1474.0,3.0,3.0,6.0,0.0,37.0,Semi-Furnished,94.37
+PROP00737,Indore,Miyapur,Independent House,2930.0,3.0,2.0,15.0,0.0,10.0,,161.88
+PROP01468,Hyderabad,Electronic City,Independent House,2884.0,1.0,1.0,,1.0,25.0,Furnished,261.19
+PROP01133,Indore,Baner,Independent House,1960.0,3.0,2.0,10.0,0.0,43.0,Unfurnished,110.41
+PROP00505,Chennai,Andheri,Apartment,1540.0,2.0,2.0,5.0,3.0,38.0,Semi-Furnished,74.05
+PROP00125,Chennai,Hinjewadi,Independent House,903.0,1.0,1.0,6.0,2.0,36.0,Unfurnished,46.39
+PROP00326,Bengaluru,Velachery,Builder Floor,2585.0,5.0,4.0,14.0,1.0,17.0,Unfurnished,202.77
+PROP00477,Hyderabad,Bhawarkua,Apartment,1854.0,3.0,3.0,8.0,1.0,41.0,Unfurnished,100.08
+PROP00003,Bengaluru,Kondapur,Apartment,3431.0,3.0,2.0,,1.0,42.0,Furnished,260.38
+PROP00045,Bengaluru,Rau,Builder Floor,1621.0,4.0,3.0,2.0,1.0,13.0,Unfurnished,141.03
+PROP01420,Indore,Wakad,Apartment,1856.0,4.0,3.0,15.0,1.0,5.0,Semi-Furnished,95.5
+PROP00092,Indore,Velachery,Apartment,2598.0,2.0,2.0,13.0,0.0,37.0,Unfurnished,109.94
+PROP00112,Bengaluru,MP Nagar,Apartment,1008.0,5.0,,1.0,,19.0,Semi-Furnished,87.09
+PROP00475,Pune,Kondapur,Apartment,1053.0,2.0,1.0,14.0,2.0,26.0,Unfurnished,83.75
+PROP00605,Chennai,Miyapur,Apartment,1774.0,3.0,2.0,2.0,2.0,44.0,Unfurnished,107.4
+PROP00808,Mumbai,Wakad,Villa,,5.0,5.0,14.0,1.0,35.0,Semi-Furnished,417.21
+PROP00128,Hyderabad,Kondapur,Apartment,2883.0,4.0,3.0,0.0,1.0,22.0,Semi-Furnished,205.06
+PROP00877,Delhi,Velachery,Builder Floor,2279.0,3.0,3.0,2.0,2.0,34.0,Semi-Furnished,217.58
+PROP00752,Bengaluru,Baner,Independent House,2395.0,4.0,3.0,3.0,0.0,43.0,Semi-Furnished,200.09
+PROP00524,Chennai,Kolar Road,Independent House,2870.0,4.0,4.0,3.0,0.0,14.0,Unfurnished,200.32
+PROP01387,Chennai,,Independent House,2342.0,3.0,2.0,3.0,0.0,1.0,Furnished,158.31
+PROP00325,Delhi,Hinjewadi,Independent House,3299.0,4.0,3.0,6.0,3.0,42.0,Semi-Furnished,361.37
+PROP00194,Indore,Bhawarkua,Apartment,1771.0,3.0,2.0,12.0,1.0,26.0,Semi-Furnished,75.73
+PROP00711,Delhi,Rau,Apartment,1615.0,,2.0,12.0,2.0,1.0,,169.12
+PROP00867,Indore,Thane,Apartment,820.0,2.0,2.0,1.0,2.0,7.0,Semi-Furnished,35.59
+PROP01038,Pune,Thane,Apartment,2446.0,2.0,1.0,13.0,2.0,35.0,Semi-Furnished,181.29
+PROP00843,Pune,Electronic City,Apartment,1763.0,3.0,3.0,7.0,1.0,28.0,Furnished,145.48
+PROP01391,Mumbai,Velachery,Apartment,3595.0,3.0,2.0,6.0,2.0,19.0,Semi-Furnished,458.58
+PROP00257,Chennai,Kondapur,Apartment,2581.0,3.0,3.0,5.0,2.0,30.0,Semi-Furnished,172.33
+PROP00988,Bengaluru,Bhawarkua,Independent House,1587.0,3.0,2.0,6.0,1.0,32.0,Semi-Furnished,142.27
+PROP00587,Bengaluru,Velachery,Independent House,1770.0,4.0,3.0,4.0,1.0,31.0,Semi-Furnished,171.08
+PROP00555,Bengaluru,Vijay Nagar,Villa,1838.0,2.0,1.0,7.0,2.0,,Unfurnished,194.47
+PROP01268,Pune,Dwarka,Independent House,1908.0,2.0,2.0,15.0,,18.0,Semi-Furnished,140.73
+PROP00733,Pune,Whitefield,Apartment,1011.0,3.0,2.0,5.0,1.0,22.0,Semi-Furnished,80.07
+PROP01109,Chennai,Bhawarkua,Builder Floor,1804.0,5.0,4.0,5.0,1.0,16.0,Unfurnished,131.02
+PROP00610,Bengaluru,Vijay Nagar,Villa,1266.0,2.0,1.0,5.0,3.0,42.0,Furnished,149.6
+PROP00905,Delhi,Wakad,Apartment,2350.0,2.0,2.0,15.0,2.0,12.0,Furnished,225.79
+PROP00507,Indore,Electronic City,Apartment,2368.0,3.0,3.0,6.0,1.0,35.0,Unfurnished,98.85
+PROP00007,Indore,,Apartment,1328.0,1.0,1.0,7.0,1.0,31.0,Semi-Furnished,48.24
+PROP00728,Indore,Electronic City,Builder Floor,2585.0,3.0,2.0,10.0,2.0,8.0,Unfurnished,124.49
+PROP00043,Pune,Kolar Road,Apartment,3213.0,2.0,2.0,15.0,1.0,,Furnished,"₹21,970,000"
+PROP00200,Delhi,Electronic City,Independent House,874.0,2.0,2.0,9.0,1.0,16.0,Semi-Furnished,97.15
+PROP00340,Indore,MP Nagar,Apartment,204 sqm,3.0,3.0,4.0,0.0,41.0,Unfurnished,107.91
+PROP00690,Delhi,Gachibowli,Independent House,1714.0,1.0,1.0,15.0,1.0,19.0,Unfurnished,168.52
+PROP00983,Mumbai,Rau,Independent House,1940.0,3.0,3.0,13.0,2.0,15.0,Furnished,315.77
+PROP01016,Hyderabad,Electronic City,Builder Floor,1253.0,2.0,2.0,14.0,3.0,19.0,Unfurnished,94.46
+PROP00016,Chennai,Kondapur,Apartment,2929.0,2.0,2.0,12.0,2.0,5.0,Semi-Furnished,181.74
+PROP00392,Indore,Rau,Builder Floor,3092.0,4.0,2.0,12.0,1.0,43.0,Semi-Furnished,140.43
+PROP01155,Pune,Vijay Nagar,Apartment,1091.0,3.0,2.0,6.0,1.0,28.0,Unfurnished,43.38
+PROP01165,Indore,Vijay Nagar,Apartment,1321.0,2.0,2.0,5.0,1.0,18.0,Semi-Furnished,57.06
+PROP00184,Bengaluru,Miyapur,Apartment,,2.0,2.0,5.0,1.0,41.0,Semi-Furnished,221.32
+PROP00142,Bengaluru,Baner,,3100.0,3.0,3.0,5.0,2.0,44.0, semi-furnished ,221.01
+PROP01037,Indore,Whitefield,Villa,1604.0,1.0,1.0,3.0,0.0,22.0,Unfurnished,"₹9,334,000"
+PROP00091,Bhopal,Bhawarkua,Apartment,1056.0,4.0,2.0,11.0,2.0,20.0,Furnished,36.65
+PROP00804,Hyderabad,Palasia,,552.0,4.0,3.0,11.0,2.0,7.0,Semi-Furnished,19.5
+PROP00406,Chennai,Thane,Apartment,1681.0,,3.0,9.0,3.0,3.0,,118.66
+PROP01195,Indore,Miyapur,Apartment,1311.0,4.0,3.0,2.0,1.0,43.0,Unfurnished,58.78
+PROP00341,Indore,MP Nagar,Villa,4022.0,3.0,3.0,2.0,2.0,9.0,Unfurnished,271.8
+PROP00990,Hyderabad,Thane,Apartment,1197.0,2.0,1.0,12.0,2.0,6.0,Unfurnished,94.25
+PROP00080,Indore,Whitefield,Independent House,1966.0,3.0,3.0,12.0,1.0,35.0,Semi-Furnished,91.88
+PROP00050,Hyderabad,Baner,Villa,2676.0,4.0,3.0,8.0,1.0,7.0,Semi-Furnished,281.35
+PROP00175,Hyderabad,Palasia,Apartment,4500.0,3.0,2.0,9.0,1.0,5.0,Semi-Furnished,298.38
+PROP01309,Indore,,Apartment,2153.0,3.0,2.0,3.0,1.0,32.0,Furnished,91.02
+PROP01031,Mumbai,MP Nagar,Apartment,1804.0,3.0,2.0,6.0,1.0,24.0,Unfurnished,224.28
+PROP00280,Indore,Kolar Road,Apartment,154 sqm,3.0,3.0,15.0,2.0,5.0,Semi-Furnished,49.9
+PROP00046,Indore,Thane,Apartment,1934.0,3.0,2.0,11.0,2.0,44.0,Furnished,79.96
+PROP00892,Pune,Miyapur,Apartment,2593.0,3.0,3.0,4.0,0.0,10.0,,176.65
+PROP01370,Mumbai,Kondapur,,1431.0,3.0,3.0,15.0,2.0,36.0,Semi-Furnished,167.31
+PROP01171,Mumbai,Whitefield,Apartment,157 sqm,4.0,3.0,1.0,1.0,37.0,Semi-Furnished,207.49
+PROP00234,Chennai,Thane,Builder Floor,1165.0,2.0,2.0,2.0,2.0,39.0,Furnished,80.8
+PROP00863,Indore,Whitefield,Apartment,1124.0,5.0,4.0,0.0,3.0,33.0,Furnished,59.67
+PROP01282,Chennai,Thane,Apartment,3781.0,2.0,3.0,10.0,1.0,44.0,Unfurnished,229.06
+PROP00119,Pune,Gachibowli,Apartment,1987.0,1.0,1.0,6.0,1.0,5.0,,141.39
+PROP01303,Hyderabad,Bhawarkua,Apartment,2604.0,2.0,2.0,15.0,0.0,21.0,Unfurnished,171.61
+PROP00657,Bengaluru,Miyapur,Independent House,2368.0,3.0,2.0,8.0,1.0,27.0,Furnished,235.32
+PROP00216,Bengaluru,Vijay Nagar,Independent House,1737.0,2.0,1.0,1.0,1.0,29.0,Furnished,167.12
+PROP00459,Indore,Baner,Independent House,2102.0,1.0,1.0,2.0,2.0,35.0,Semi-Furnished,129.07
+PROP01110,Bengaluru,Electronic City,Independent House,142 sqm,3.0,2.0,15.0,2.0,4.0,Unfurnished,131.9
+PROP00019,Hyderabad,Andheri,Apartment,2169.0,4.0,4.0,3.0,1.0,6.0,Unfurnished,155.98
+PROP01181,Pune,Kondapur,Independent House,2527.0,,1.0,7.0,3.0,19.0,Unfurnished,179.43
+PROP00585,Indore,Rau,Villa,2809.0,3.0,2.0,1.0,1.0,43.0,Unfurnished,185.45
+PROP01315,Indore,Thane,Independent House,1679.0,3.0,,1.0,1.0,29.0,Semi-Furnished,59.93
+PROP01287,Mumbai,Kolar Road,Apartment,1723.0,4.0,4.0,3.0,2.0,30.0,Furnished,225.86
+PROP01404,Chennai,MP Nagar,Apartment,1460.0,1.0,2.0,4.0,2.0,19.0,Furnished,88.89
+PROP01096,Mumbai,Wakad,apartment,889.0,2.0,1.0,1.0,1.0,44.0,Semi-Furnished,104.7
+PROP01307,Bengaluru,Baner,Independent House,1197.0,2.0,1.0,2.0,2.0,25.0,Furnished,121.84
+PROP00903,Bengaluru,Bhawarkua,Independent House,1525.0,2.0,1.0,8.0,1.0,23.0,Unfurnished,128.96
+PROP00844,Delhi,Rau,Apartment,2337.0,3.0,3.0,1.0,2.0,20.0,Furnished,243.45
+PROP00536,Delhi,Electronic City,Independent House,600.0,4.0,4.0,15.0,1.0,44.0,Furnished,60.14
+PROP00553,Mumbai,Thane,Apartment,1893.0,3.0,2.0,12.0,1.0,5.0,Unfurnished,254.27
+PROP00017,Bengaluru,Kondapur,Villa,4078.0,2.0,2.0,4.0,1.0,9.0,Furnished,509.03
+PROP00664,Chennai,Thane,,3289.0,4 BHK,4.0,7.0,1.0,40.0,Unfurnished,184.91
+PROP01277,Hyderabad,MP Nagar,Villa,3091.0,2.0,1.0,4.0,1.0,19.0,Unfurnished,297.55
+PROP01402,Delhi,Thane,Apartment,2185.0,4.0,3.0,4.0,1.0,13.0,Furnished,216.61
+PROP00825,Pune,Gachibowli,Apartment,797.0,4.0,,,1.0,32.0,Furnished,54.15
+PROP00209,Bhopal,Velachery,Apartment,4500.0,2.0,2.0,12.0,3.0,17.0,Semi-Furnished,176.49
+PROP00810,Chennai,Palasia,Apartment,2210.0,4.0,3.0,2.0,2.0,10.0,Unfurnished,155.4
+PROP00530,Mumbai,Kondapur,Apartment,2688.0,4.0,4.0,0.0,1.0,12.0,Unfurnished,358.58
+PROP00506,Pune,MP Nagar,Apartment,2658.0,2.0,2.0,6.0,2.0,36.0,Semi-Furnished,175.63
+PROP00925,Hyderabad,Rau,Apartment,1670.0,4.0,4.0,9.0,2.0,14.0,Furnished,125.31
+PROP00473,Pune,MP Nagar,Apartment,4254.0,1.0,1.0,7.0,2.0,17.0,Furnished,261.18
+PROP00001,Pune,Dwarka,Villa,3793.0,2.0,1.0,9.0,2.0,19.0,Furnished,430.2
+PROP01003,Mumbai,Thane,Builder Floor,1015.0,2.0,2.0,3.0,1.0,44.0,Unfurnished,129.84
+PROP00447,Indore,Andheri,Apartment,2360.0,5.0,4.0,15.0,2.0,8.0,Furnished,135.81
+PROP00259,Delhi,Vijay Nagar,Apartment,1581.0,1.0,1.0,4.0,2.0,39.0,Semi-Furnished,125.94
+PROP01222,Hyderabad,Kolar Road,Apartment,2255.0,3.0,2.0,4.0,0.0,36.0,Furnished,158.09
+PROP01311,Bengaluru,MP Nagar,Apartment,1645.0,3.0,3.0,14.0,,4.0,Furnished,160.3
+PROP00986,Bhopal,Velachery,Independent House,3207.0,2.0,1.0,7.0,2.0,37.0,Unfurnished,120.72
+PROP00710,Delhi,Velachery,Villa,1510.0,3.0,3.0,3.0,0.0,18.0,Unfurnished,202.08
+PROP01395,Indore,Palasia,Apartment,1268.0,3.0,3.0,2.0,1.0,180.0,Unfurnished,42.01
+PROP00152,Hyderabad,MP Nagar,Apartment,2186.0,2.0,1.0,2.0,1.0,8.0,Semi-Furnished,158.02
+PROP01232,Pune,Miyapur,Apartment,3411.0,3.0,3.0,3.0,1.0,0.0,Unfurnished,222.54
+PROP00898,Indore,Dwarka,Apartment,,3.0,2.0,9.0,1.0,31.0,Unfurnished,112.84
+PROP00242,Pune,Andheri,Independent House,1040.0,3.0,3.0,13.0,2.0,30.0,Semi-Furnished,89.26
+PROP00395,Indore,Bhawarkua,Builder Floor,1895.0,2.0,2.0,11.0,1.0,38.0,Semi-Furnished,102.62
+PROP01301,Indore,,Apartment,1216.0,4.0,2.0,11.0,0.0,42.0,Unfurnished,45.79
+PROP01061,Chennai,Velachery,,2829.0,,2.0,13.0,2.0,17.0,Unfurnished,"₹18,607,000"
+PROP00165,Indore,Baner,Apartment,2722.0,3.0,4.0,4.0,2.0,10.0,Furnished,129.01
+PROP00160,Delhi,MP Nagar,Villa,2003.0,2.0,1.0,12.0,1.0,4.0,Semi-Furnished,286.73
+PROP00075,Indore,Electronic City,Apartment,2403.0,5.0,4.0,11.0,1.0,,Unfurnished,85.29
+PROP01451,Indore,Kolar Road,Apartment,2124.0,1.0,1.0,5.0,2.0,0.0,Unfurnished,105.48
+PROP00684,Delhi,Dwarka,Builder Floor,1824.0,3.0,2.0,14.0,1.0,32.0,Furnished,192.33
+PROP01461,Hyderabad,Wakad,Apartment,2231.0,5.0,,7.0,1.0,30.0,Semi-Furnished,171.3
+PROP00995,Mumbai,Velachery,Apartment,3140.0,2.0,2.0,6.0,3.0,14.0,Semi-Furnished,412.0
+PROP01368,Mumbai,Hinjewadi,Apartment,2516.0,3.0,3.0,,0.0,9.0,Unfurnished,322.44
+PROP01229,Mumbai,MP Nagar,Apartment,,3.0,3.0,6.0,2.0,13.0,Semi-Furnished,173.14
+PROP01318,Bengaluru,Vijay Nagar,Apartment,1134.0,5.0,4.0,0.0,2.0,42.0,Semi-Furnished,90.25
+PROP01251,Mumbai,Dwarka,Villa,803.0,3.0,3.0,5.0,2.0,20.0,Semi-Furnished,198.17
+PROP00491,Indore,Dwarka,Apartment,1922.0,2.0,1.0,0.0,1.0,4.0,Semi-Furnished,69.3
+PROP00693,Chennai,Wakad,Apartment,1374.0,3.0,3.0,12.0,1.0,26.0,Semi-Furnished,105.83
+PROP00263,Chennai,Miyapur,Independent House,2003.0,3.0,2.0,0.0,1.0,5.0,Semi-Furnished,174.26
+PROP00355,Bengaluru,Miyapur,Apartment,1133.0,3.0,3.0,12.0,3.0,3.0,Furnished,"₹9,685,000"
+PROP01330,Indore,Palasia,Apartment,1843.0,3.0,2.0,,2.0,44.0,Semi-Furnished,86.84
+PROP01281,Delhi,Wakad,Villa,2744.0,3.0,2.0,15.0,0.0,3.0,Unfurnished,378.45
+PROP00879,Delhi,Vijay Nagar,Apartment,1772.0,5.0,3.0,12.0,0.0,34.0,,141.51
+PROP01019,Mumbai,Wakad,Apartment,1756.0,4.0,3.0,14.0,2.0,23.0,Unfurnished,213.53
+PROP01375,Bengaluru,Electronic City,Apartment,4142.0,3.0,2.0,7.0,,,Semi-Furnished,325.65
+PROP00712,Mumbai,Andheri,Independent House,1791.0,3.0,2.0,1.0,1.0,19.0,Semi-Furnished,268.03
+PROP00799,,Velachery,Apartment,1145.0,2.0,1.0,0.0,1.0,44.0,Semi-Furnished,120.35
+PROP00181,Bengaluru,Gachibowli,Apartment,942.0,2.0,2.0,3.0,2.0,21.0,Unfurnished,76.02
+PROP00860,Pune,Whitefield,Apartment,2064.0,3.0,2.0,12.0,0.0,35.0,Semi-Furnished,146.26
+PROP00849,Bhopal,Dwarka,,1222.0,3.0,,12.0,2.0,10.0,Semi-Furnished,50.72
+PROP01064,Chennai,Baner,Villa,2519.0,3.0,2.0,11.0,1.0,43.0,Semi-Furnished,240.89
+PROP01435,Hyderabad,Velachery,Independent House,1629.0,2.0,2.0,9.0,0.0,25.0,Semi-Furnished,107.53
+PROP00053,Delhi,Rau,Apartment,1738.0,1.0,1.0,,,33.0,Semi-Furnished,157.46
+PROP00531,Bhopal,Vijay Nagar,Apartment,1397.0,3.0,3.0,,2.0,8.0,Unfurnished,70.07
+PROP00697,Chennai,MP Nagar,Apartment,170 sqm,3.0,2.0,1.0,2.0,15.0,Furnished,143.51
+PROP01483,Mumbai,Kolar Road,Apartment,2174.0,2.0,1.0,9.0,1.0,2.0,Semi-Furnished,284.04
+PROP00866,Bengaluru,Thane,Villa,828.0,2.0,2.0,10.0,3.0,13.0,Semi-Furnished,116.6
+PROP00981,Chennai,Andheri,Apartment,2427.0,2.0,1.0,4.0,2.0,13.0,Unfurnished,149.11
+PROP00369,Delhi,Baner,Apartment,1229.0,1.0,1.0,10.0,1.0,25.0,Semi-Furnished,136.77
+PROP00266,Pune,Hinjewadi,Villa,1852.0,2.0,1.0,7.0,2.0,28.0,Semi-Furnished,192.72
+PROP00052,Indore,Rau,Builder Floor,1563.0,5.0,4.0,1.0,1.0,17.0,Semi-Furnished,100.76
+PROP01338,Hyderabad,Vijay Nagar,Apartment,1299.0,3.0,2.0,5.0,3.0,33.0,Semi-Furnished,80.12
+PROP00739,Pune,Andheri,Independent House,1949.0,2.0,2.0,5.0,,42.0,Furnished,160.35
+PROP00519,Mumbai,Bhawarkua,Villa,2608.0,5.0,4.0,4.0,1.0,10.0,,597.65
+PROP00516,Pune,Hinjewadi,Apartment,2007.0,2.0,2.0,4.0,2.0,6.0,Semi-Furnished,143.35
+PROP01482,Hyderabad,Miyapur,Apartment,2101.0,4.0,3.0,9.0,1.0,0.0,Furnished,161.97
+PROP00448,Delhi,Kolar Road,Villa,1744.0,3.0,2.0,8.0,2.0,28.0,Furnished,268.0
+PROP00330,Mumbai,MP Nagar,Apartment,2125.0,2.0,2.0,8.0,2.0,20.0,Semi-Furnished,287.26
+PROP00434,Hyderabad,Miyapur,Apartment,2969.0,3.0,2.0,12.0,0.0,30.0,Unfurnished,194.07
+PROP00654,Indore,Dwarka,Independent House,2381.0,4.0,3.0,7.0,2.0,26.0,Unfurnished,109.41
+PROP01212,Indore,Miyapur,Apartment,2652.0,3.0,2.0,9.0,1.0,7.0, furnished ,147.14
+PROP00006,Pune,Dwarka,Apartment,1958.0,4.0,3.0,14.0,1.0,40.0,Semi-Furnished,118.71
+PROP00971,Bengaluru,Wakad,Builder Floor,2827.0,1.0,1.0,3.0,2.0,16.0,Furnished,229.49
+PROP00885,Bengaluru,Miyapur,Apartment,1520.0,5.0,3.0,14.0,1.0,33.0,Furnished,121.91
+PROP01159,Chennai,Rau,Builder Floor,3397.0,3.0,2.0,8.0,2.0,11.0,Semi-Furnished,216.73
+PROP00032,Indore,Thane,Independent House,1213.0,3.0,,11.0,0.0,12.0,Furnished,81.8
+PROP00552,Mumbai,Velachery,Apartment,3756.0,4.0,4.0,3.0,2.0,4.0,Unfurnished,465.53
+PROP01458,Mumbai,Velachery,Villa,3704.0,5.0,4.0,9.0,3.0,20.0,Unfurnished,738.91
+PROP00382,Indore,Kondapur,Builder Floor,1654.0,1.0,1.0,15.0,1.0,35.0,Unfurnished,47.13
+PROP01045,Pune,Gachibowli,Apartment,2014.0,1.0,1.0,14.0,0.0,18.0,Semi-Furnished,
+PROP01367,Bengaluru,Wakad,Apartment,,3.0,3.0,12.0,0.0,4.0,Semi-Furnished,155.96
+PROP01470,Pune,Velachery,Apartment,2997.0,3.0,2.0,15.0,2.0,6.0,Unfurnished,201.04
+PROP00371,Bengaluru,Electronic City,Builder Floor,2567.0,2.0,2.0,13.0,1.0,20.0,Semi-Furnished,218.93
+PROP00518, BENGALURU ,Bhawarkua,Apartment,1526.0,2.0,2.0,6.0,1.0,15.0,Unfurnished,"₹9,456,000"
+PROP00754,Chennai,Dwarka,Apartment,1694.0,3.0,3.0,10.0,0.0,42.0,Semi-Furnished,106.07
+PROP01446,Hyderabad,Bhawarkua,Builder Floor,1344.0,3.0,2.0,7.0,1.0,35.0,Semi-Furnished,118.8
+PROP00030,Bengaluru,Velachery,Apartment,1426.0,4 BHK,3.0,12.0,1.0,11.0,Furnished,141.92
+PROP01335,Bengaluru,Dwarka,Villa,1704.0,4.0,3.0,11.0,0.0,40.0,Unfurnished,196.74
+PROP01124,,Andheri,Apartment,2054.0,4.0,3.0,13.0,2.0,18.0,Semi-Furnished,145.43
+PROP01162,Hyderabad,Baner,Apartment,3525.0,2.0,1.0,6.0,2.0,33.0,Semi-Furnished,234.29
+PROP00338,Pune,Kondapur,Builder Floor,4207.0,1.0,1.0,12.0,1.0,27.0,Furnished,325.97
+PROP00109,Delhi,Hinjewadi,Independent House,1380.0,3.0,2.0,13.0,1.0,0.0,Furnished,162.17
+PROP01283,Mumbai,Electronic City,Apartment,2645.0,3.0,2.0,15.0,1.0,17.0,,353.23
+PROP00526,Hyderabad,Andheri,Apartment,2741.0,3.0,3.0,3.0,0.0,32.0,Unfurnished,"₹15,342,000"
+PROP00904,Indore,Baner,Apartment,1235.0,3.0,3.0,9.0,2.0,23.0,Semi-Furnished,70.64
+PROP01209,Hyderabad,Whitefield,Independent House,2037.0,2.0,2.0,14.0,2.0,43.0,Semi-Furnished,158.5
+PROP01025,Chennai,Gachibowli,Apartment,2696.0,4.0,2.0,15.0,2.0,22.0,Unfurnished,158.73
+PROP01284,Indore,Velachery,Apartment,1336.0,2.0,2.0,7.0,1.0,39.0,Semi-Furnished,29.1
+PROP01295,Indore,Miyapur,Independent House,959.0,2.0,3.0,1.0,2.0,30.0,Unfurnished,46.14
+PROP00436,Delhi,Kolar Road,Apartment,2550.0,3.0,2.0,0.0,2.0,17.0,Unfurnished,221.15
+PROP00343, CHENNAI ,Miyapur,Independent House,2050.0,2.0,2.0,15.0,1.0,19.0,Unfurnished,142.89
+PROP01178,Pune,Vijay Nagar,Independent House,1089.0,2.0,3.0,2.0,2.0,16.0,Semi-Furnished,80.16
+PROP00204,Bengaluru,,Independent House,115 sqm,,4.0,13.0,2.0,37.0,Semi-Furnished,118.7
+PROP00265,Bengaluru,Hinjewadi,Villa,2998.0,2.0,1.0,4.0,1.0,32.0,Unfurnished,313.72
+PROP01131,Hyderabad,Velachery,Villa,2981.0,1.0,2.0,14.0,3.0,4.0,Unfurnished,292.16
+PROP00144,Indore,Miyapur,Independent House,2116.0,2.0,1.0,10.0,1.0,30.0,Semi-Furnished,113.12
+PROP00188,Bhopal,Velachery,Apartment,752.0,3.0,3.0,1.0,0.0,12.0,Furnished,29.01
+PROP00626,Mumbai,Palasia,Builder Floor,942.0,2.0,2.0,11.0,2.0,21.0,Unfurnished,135.24
+PROP00581,Hyderabad,Gachibowli,Apartment,898.0,1.0,1.0,14.0,0.0,5.0,,44.52
+PROP00977,Pune,Andheri,Apartment,1111.0,2.0,2.0,5.0,1.0,32.0,Unfurnished,84.5
+PROP01360,Indore,Hinjewadi,Apartment,1480.0,3.0,2.0,10.0,1.0,30.0,Semi-Furnished,55.25
+PROP00058,Pune,MP Nagar,Villa,1579.0,4.0,4.0,12.0,2.0,13.0,Semi-Furnished,169.42
+PROP00226,Mumbai,Gachibowli,,2146.0,5.0,4.0,10.0,2.0,29.0,Semi-Furnished,415.3
+PROP00723,Hyderabad,,Independent House,3597.0,4.0,3.0,9.0,0.0,32.0,Unfurnished,261.21
+PROP01067,Mumbai,Gachibowli,Independent House,1507.0,3.0,2.0,14.0,1.0,39.0,Furnished,218.09
+PROP00024,Delhi,Andheri,Apartment,1504.0,4.0,3.0,11.0,2.0,37.0,Furnished,132.81
+PROP01369,Pune,Dwarka,Apartment,2620.0,3.0,2.0,14.0,2.0,24.0,Unfurnished,179.06
+PROP01418,Indore,Gachibowli,Apartment,,1.0,1.0,15.0,0.0,37.0,Semi-Furnished,19.05
+PROP00238,Delhi,Miyapur,apartment,3605.0,4.0,3.0,3.0,2.0,44.0,Semi-Furnished,329.91
+PROP00254,Bengaluru,Kondapur,Apartment,2905.0,3.0,2.0,13.0,1.0,21.0,Furnished,240.52
+PROP00328,Bengaluru,Vijay Nagar,Villa,1636.0,3.0,2.0,12.0,2.0,41.0,Semi-Furnished,203.45
+PROP00169,Bengaluru,Kondapur,Villa,,1.0,1.0,13.0,1.0,37.0,Furnished,242.79
+PROP00132,Mumbai,Rau,Independent House,1229.0,2.0,1.0,,1.0,27.0,Furnished,191.18
+PROP01254,Indore,Rau,Builder Floor,1700.0,3.0,3.0,2.0,1.0,42.0,Semi-Furnished,67.27
+PROP01215,Bengaluru,Gachibowli,Apartment,1447.0,1.0,2.0,11.0,2.0,21.0,Semi-Furnished,124.36
+PROP01157,Hyderabad,Rau,villa,2342.0,2.0,,0.0,,41.0,Furnished,250.08
+PROP00591,Indore,Gachibowli,Independent House,1625.0,2.0,1.0,7.0,3.0,27.0,Unfurnished,81.35
+PROP00968,Pune,Whitefield,Apartment,2615.0,4.0,4.0,15.0,1.0,1.0,Semi-Furnished,190.99
+PROP00659,Hyderabad,Velachery,Apartment,1306.0,1.0,1.0,15.0,1.0,5.0,,86.38
+PROP00221,Bengaluru,Velachery,Apartment,35000,3.0,2.0,12.0,2.0,30.0,Semi-Furnished,123.67
+PROP00111, PUNE ,Hinjewadi,Apartment,2550.0,3.0,3.0,0.0,2.0,4.0,Semi-Furnished,173.97
+PROP01173,Chennai,Vijay Nagar,Apartment,1308.0,2.0,2.0,2.0,3.0,3.0,Unfurnished,80.69
+PROP00218, CHENNAI ,Electronic City,Apartment,1051.0,2.0,1.0,14.0,1.0,4.0,Unfurnished,59.3
+PROP01302,Chennai,Bhawarkua,Independent House,2272.0,1.0,2.0,15.0,1.0,42.0,Semi-Furnished,"₹15,987,000"
+PROP00796,Pune,Electronic City,,4471.0,3.0,2.0,5.0,2.0,22.0,Semi-Furnished,361.82
+PROP00722,Hyderabad,MP Nagar,Independent House,,4.0,3.0,5.0,2.0,2.0,Furnished,90.55
+PROP01389,Bhopal,Electronic City,Apartment,99999,2.0,2.0,9.0,2.0,11.0,Semi-Furnished,90.44
+PROP00301, DELHI ,Thane,Independent House,3923.0,4.0,3.0,7.0,0.0,19.0,Unfurnished,399.47
+PROP00407,Indore,Dwarka,Apartment,1783.0,1.0,1.0,4.0,1.0,38.0,Semi-Furnished,54.01
+PROP00500,Mumbai,Kolar Road,Independent House,4500.0,3.0,1.0,15.0,3.0,3.0,Semi-Furnished,712.27
+PROP00832,Bengaluru,Andheri,Apartment,1354.0,4.0,3.0,9.0,1.0,13.0,Semi-Furnished,109.68
+PROP00047,Indore,Gachibowli,,1930.0,5.0,4.0,12.0,0.0,,Semi-Furnished,97.68
+PROP00222,Delhi,Palasia,Apartment,4500.0,2.0,1.0,14.0,1.0,17.0,Semi-Furnished,401.08
+PROP01244,Chennai,Bhawarkua,Builder Floor,1764.0,4.0,3.0,2.0,,22.0,Semi-Furnished,112.06
+PROP00899,Bengaluru,Baner,Builder Floor,1993.0,4.0,4.0,3.0,2.0,24.0,Furnished,169.2
+PROP01452,Pune,Whitefield,Villa,1608.0,3.0,3.0,11.0,1.0,27.0,Unfurnished,167.19
+PROP00622,Indore,Velachery,Apartment,1742.0,2.0,2.0,5.0,1.0,18.0,Unfurnished,69.5
+PROP00051,Mumbai,Rau,Builder Floor,1584.0,1.0,1.0,12.0,1.0,31.0,Unfurnished,190.39
+PROP00594,Indore,Rau,Apartment,806.0,5.0,4.0,5.0,,29.0,Semi-Furnished,43.24
+PROP00590,Pune,Vijay Nagar,Villa,3453.0,2.0,2.0,13.0,1.0,32.0,Semi-Furnished,372.89
+PROP01457,,Baner,Independent House,1099.0,2.0,2.0,1.0,1.0,23.0,Unfurnished,100.59
+PROP00215,Delhi,Kondapur,Villa,3215.0,3.0,2.0,10.0,3.0,16.0,Furnished,458.4
+PROP00793,Hyderabad,MP Nagar,Apartment,2072.0,3.0,2.0,15.0,1.0,16.0,Furnished,127.74
+PROP00830,Mumbai,Kondapur,Independent House,736.0,3.0,3.0,10.0,2.0,7.0,Unfurnished,117.61
+PROP01350,Chennai,,Apartment,1766.0,4.0,4.0,9.0,2.0,9.0,Unfurnished,"₹10,972,000"
+PROP00166,Mumbai,Baner,Apartment,908.0,2.0,1.0,13.0,0.0,13.0,Unfurnished,106.79
+PROP00131,Hyderabad,Kondapur,Apartment,1112.0,4.0,3.0,0.0,1.0,9.0,Furnished,82.43
+PROP00492,Delhi,Vijay Nagar,Apartment,1825.0,2.0,2.0,11.0,1.0,43.0,Unfurnished,142.09
+PROP01341,Hyderabad,Andheri,Apartment,2298.0,3.0,3.0,1.0,2.0,38.0,Unfurnished,148.01
+PROP01101,Chennai,Palasia,Independent House,1270.0,3.0,1.0,13.0,2.0,13.0,Unfurnished,83.77
+PROP00883,Bengaluru,Palasia,Apartment,2042.0,3.0,2.0,4.0,1.0,14.0,Semi-Furnished,159.34
+PROP00615,Bhopal,Rau,Apartment,1931.0,3.0,3.0,2.0,2.0,10.0,Unfurnished,81.72
+PROP00691,Bengaluru,Wakad,Villa,1726.0,3.0,18.0,5.0,1.0,18.0,Semi-Furnished,214.95
+PROP00919,Bengaluru,Gachibowli,Independent House,2082.0,3.0,2.0,3.0,2.0,41.0,Unfurnished,177.83
+PROP00042,Pune,Rau,Apartment,1294.0,4.0,3.0,4.0,1.0,32.0,Semi-Furnished,106.0
+PROP00454,Delhi,Bhawarkua,Villa,1837.0,3.0,2.0,0.0,1.0,39.0,Furnished,283.38
+PROP00546,Pune,Miyapur,apartment,3750.0,2.0,2.0,4.0,0.0,17.0,Semi-Furnished,268.43
+PROP00997, DELHI ,Electronic City,Apartment,1260.0,3.0,3.0,7.0,1.0,10.0,Furnished,118.04
+PROP00848,Pune,Palasia,Apartment,1898.0,4.0,3.0,0.0,0.0,14.0,Unfurnished,130.62
+PROP01049,Indore,Kolar Road,Apartment,1956.0,2.0,1.0,15.0,2.0,23.0,Semi-Furnished,"₹9,194,000"
+PROP00731,Indore,Kolar Road,Apartment,596.0,1.0,1.0,6.0,1.0,31.0,Semi-Furnished,37.77
+PROP00225,Indore,Kondapur,Apartment,853.0,2.0,2.0,4.0,,35.0,Unfurnished,38.75
+PROP00499,Bengaluru,Whitefield,Independent House,2234.0,3.0,2.0,9.0,1.0,25.0,Unfurnished,193.56
+PROP00801,Chennai,Rau,Apartment,2430.0,3.0,2.0,12.0,2.0,16.0,Unfurnished,141.5
+PROP01189,Mumbai,Thane,Builder Floor,1981.0,3.0,3.0,1.0,2.0,10.0,Semi-Furnished,285.35
+PROP00584,Delhi,Gachibowli,Apartment,3753.0,2.0,2.0,0.0,2.0,43.0,Semi-Furnished,335.97
+PROP00317,Delhi,Rau,Independent House,1424.0,3.0,1.0,2.0,1.0,37.0,Furnished,153.65
+PROP00344,Hyderabad,Kolar Road,Apartment,1808.0,2.0,2.0,14.0,1.0,24.0,Unfurnished,112.93
+PROP00061,Indore,Kondapur,Apartment,1488.0,4.0,3.0,15.0,1.0,34.0,Semi-Furnished,"₹6,982,000"
+PROP01487,Mumbai,Dwarka,Builder Floor,2305.0,1.0,1.0,7.0,1.0,15.0,Unfurnished,331.39
+PROP01443,Chennai,Miyapur,Apartment,1833.0,2.0,1.0,4.0,2.0,4.0,Semi-Furnished,97.23
+PROP00929,Mumbai,Wakad,Villa,1838.0,2.0,2.0,9.0,1.0,15.0,Furnished,378.66
+PROP01377,Delhi,Electronic City,Independent House,1720.0,4.0,3.0,3.0,2.0,7.0,Unfurnished,168.11
+PROP00915,Bengaluru,Dwarka,Builder Floor,1406.0,2.0,1.0,1.0,2.0,41.0,Furnished,124.63
+PROP00974,Hyderabad,Andheri,Villa,1822.0,3.0,3.0,11.0,,1.0,Semi-Furnished,197.75
+PROP00207,Bhopal,,Apartment,,3.0,3.0,13.0,,31.0,Unfurnished,48.84
+PROP00627,Delhi,MP Nagar,Apartment,1323.0,1.0,1.0,10.0,1.0,8.0,Furnished,117.35
+PROP00077,Hyderabad,Kondapur,Apartment,,2 BHK,2.0,3.0,3.0,40.0,Semi-Furnished,172.64
+PROP00902,Bengaluru,Velachery,Independent House,2887.0,3.0,2.0,6.0,2.0,39.0,Semi-Furnished,267.58
+PROP00438,Mumbai,Thane,Independent House,1402.0,3.0,2.0,6.0,1.0,43.0,Unfurnished,205.23
+PROP00158,Bengaluru,Electronic City,Villa,1757.0,4.0,3.0,3.0,1.0,30.0,Semi-Furnished,211.89
+PROP00084,Chennai,Electronic City,Apartment,1734.0,2.0,2.0,5.0,1.0,23.0,Semi-Furnished,90.13
+PROP00556,Bhopal,Bhawarkua,Independent House,2629.0,4.0,3.0,7.0,2.0,,Furnished,120.43
+PROP01342,Bengaluru,Whitefield,Apartment,,3.0,1.0,2.0,2.0,42.0,Unfurnished,95.42
+PROP00954,,Palasia,Apartment,2777.0,1.0,1.0,9.0,2.0,28.0,Semi-Furnished,100.68
+PROP00699,Bengaluru,Electronic City,Apartment,1584.0,2.0,1.0,0.0,2.0,13.0,Unfurnished,108.39
+PROP00264,Delhi,Hinjewadi,Apartment,1267.0,2.0,1.0,3.0,1.0,2.0,Unfurnished,128.74
+PROP01298,Delhi,,Villa,2908.0,3.0,2.0,6.0,2.0,34.0,Unfurnished,391.56
+PROP00532,Bengaluru,Baner,Independent House,4500.0,3.0,3.0,9.0,1.0,39.0,Semi-Furnished,389.33
+PROP00324,Indore,Kolar Road,Villa,4500.0,3.0,3.0,13.0,2.0,15.0,Unfurnished,299.53
+PROP01193,Delhi,Miyapur,Apartment,1024.0,3.0,3.0,11.0,1.0,22.0,Semi-Furnished,94.07
+PROP00998,Hyderabad,Thane,Apartment,1157.0,-1,3.0,1.0,1.0,34.0,Furnished,75.28
+PROP00116, HYDERABAD ,Palasia,Independent House,2847.0,2.0,2.0,1.0,1.0,21.0,Furnished,232.21
+PROP00307,Pune,Rau,Apartment,1806.0,4.0,4.0,2.0,1.0,33.0,Semi-Furnished,107.02
+PROP01069,Pune,MP Nagar,Apartment,3124.0,3.0,3.0,9.0,1.0,5.0,Unfurnished,226.33
+PROP00709,Delhi,Kondapur,Villa,1531.0,3.0,3.0,13.0,,18.0,Semi-Furnished,230.18
+PROP01002,Indore,Bhawarkua,Independent House,823.0,1.0,1.0,2.0,3.0,2.0,Furnished,51.44
+PROP00792,Bengaluru,Velachery,Villa,1868.0,3.0,2.0,9.0,2.0,19.0,Unfurnished,208.46
+PROP01304,Chennai,Baner,Independent House,1819.0,3.0,3.0,8.0,3.0,37.0,Semi-Furnished,153.35
+PROP01206,Mumbai,Dwarka,Apartment,2412.0,3.0,3.0,3.0,1.0,44.0,Semi-Furnished,320.58
+PROP01243,Chennai,Andheri,Apartment,1316.0,4.0,4.0,6.0,0.0,39.0,Unfurnished,77.46
+PROP00278,Pune,Wakad,Apartment,2307.0,3.0,1.0,0.0,0.0,26.0,Semi-Furnished,163.27
+PROP01459,Indore,Kolar Road,Apartment,1598.0,3.0,3.0,6.0,0.0,19.0,Unfurnished,59.53
+PROP01004,Bengaluru,Electronic City,Builder Floor,1767.0,4.0,3.0,4.0,2.0,18.0,Furnished,159.09
+PROP01403,Hyderabad,Wakad,Apartment,1921.0,3.0,2.0,10.0,1.0,6.0,Semi-Furnished,120.18
+PROP00055,Hyderabad,Kondapur,Apartment,1104.0,3.0,1.0,1.0,1.0,9.0,Semi-Furnished,76.49
+PROP01029,Hyderabad,Kolar Road,Builder Floor,2368.0,3.0,2.0,5.0,,18.0, unfurnished ,175.9
+PROP01113,Indore,Rau,Independent House,1684.0,4.0,3.0,14.0,3.0,31.0,Semi-Furnished,102.85
+PROP00201,Pune,MP Nagar,Apartment,4262.0,3.0,3.0,14.0,2.0,32.0,Unfurnished,269.13
+PROP01305,Mumbai,Thane,Independent House,2311.0,3.0,,1.0,1.0,18.0,Unfurnished,349.09
+PROP00431,Bengaluru,Miyapur,Builder Floor,1721.0,1.0,1.0,8.0,2.0,27.0,Unfurnished,132.41
+PROP00511,Hyderabad,Thane,Apartment,2143.0,3.0,3.0,11.0,3.0,14.0,Semi-Furnished,"₹14,218,000"
+PROP01144,Delhi,Bhawarkua,Independent House,1879.0,4 BHK,3.0,10.0,1.0,41.0,Semi-Furnished,184.02
+PROP01030,Bengaluru,Vijay Nagar,,1299.0,3.0,3.0,1.0,1.0,1.0,Furnished,166.91
+PROP00871,Indore,Dwarka,Apartment,910.0,3.0,3.0,11.0,2.0,22.0,Furnished,42.21
+PROP01449,Delhi,Baner,Independent House,1680.0,4.0,3.0,13.0,2.0,21.0,Semi-Furnished,162.35
+PROP00195,Chennai,,Independent House,1621.0,3.0,3.0,6.0,2.0,33.0,Semi-Furnished,138.73
+PROP00056,Mumbai,Hinjewadi,Apartment,1402.0,2.0,2.0,5.0,1.0,22.0,Semi-Furnished,187.21
+PROP00185,Indore,Vijay Nagar,Apartment,0,1.0,1.0,5.0,1.0,18.0,Semi-Furnished,38.82
+PROP01204,Mumbai,Whitefield,Apartment,3761.0,5.0,4.0,1.0,1.0,26.0,Unfurnished,480.28
+PROP00740,Bhopal,MP Nagar,Builder Floor,1779.0,3.0,3.0,13.0,0.0,33.0,Furnished,92.94
+PROP00483,Delhi,Gachibowli,Apartment,1738.0,5.0,3.0,11.0,3.0,32.0,Semi-Furnished,158.55
+PROP01228,Delhi,Wakad,Independent House,3716.0,4.0,3.0,5.0,1.0,14.0,Unfurnished,376.68
+PROP00295,Pune,Baner,Apartment,2195.0,3.0,3.0,4.0,2.0,7.0,Semi-Furnished,180.4
+PROP01399,Indore,Thane,Apartment,1576.0,2.0,2.0,15.0,2.0,12.0,Semi-Furnished,68.72
+PROP00784,Hyderabad,Wakad,Apartment,,2.0,2.0,2.0,1.0,33.0,Semi-Furnished,143.48
+PROP00261,Indore,Dwarka,Apartment,1539.0,1.0,1.0,12.0,0.0,35.0,Unfurnished,78.1
+PROP00444,Mumbai,Andheri,Apartment,2282.0,3.0,2.0,3.0,1.0,17.0,Semi-Furnished,304.99
+PROP01357,Bengaluru,Palasia,Apartment,1741.0,5.0,3.0,15.0,2.0,8.0,Unfurnished,130.72
+PROP01340,Bhopal,Whitefield,Apartment,2160.0,3.0,3.0,2.0,2.0,11.0, unfurnished ,78.38
+PROP01427,Mumbai,Hinjewadi,Apartment,1644.0,1.0,1.0,15.0,3.0,33.0,Unfurnished,217.35
+PROP01197,Mumbai,Velachery,Independent House,1693.0,1 BHK,1.0,7.0,1.0,36.0,Unfurnished,231.38
+PROP00286, BENGALURU ,Rau,Apartment,1598.0,1.0,1.0,3.0,1.0,39.0,Unfurnished,109.64
+PROP01381,Hyderabad,,Builder Floor,2379.0,1.0,1.0,15.0,0.0,36.0,Semi-Furnished,174.94
+PROP00678,Chennai,Kondapur,Apartment,2370.0,2.0,2.0,12.0,2.0,30.0,,138.82
+PROP00921,Delhi,Kolar Road,Villa,1827.0,3 BHK,2.0,6.0,2.0,33.0,Unfurnished,246.36
+PROP00583,Bengaluru,Electronic City,Apartment,2472.0,1.0,1.0,7.0,2.0,31.0,Unfurnished,176.95
+PROP01393,Indore,Kolar Road,Builder Floor,1227.0,3.0,2.0,7.0,1.0,19.0,Semi-Furnished,70.76
+PROP00656,Bhopal,,Apartment,1477.0,2.0,2.0,10.0,1.0,2.0,Unfurnished,50.77
+PROP01276,Indore,Palasia,Apartment,2066.0,5.0,4.0,3.0,,13.0,Unfurnished,113.05
+PROP01312,Indore,Velachery,Apartment,1990.0,3.0,3.0,13.0,0.0,37.0,Unfurnished,71.07
+PROP00310,Bengaluru,Bhawarkua,Independent House,3346.0,2.0,,10.0,2.0,43.0,Unfurnished,303.84
+PROP00586,Chennai,Vijay Nagar,Apartment,2058.0,2.0,1.0,11.0,20.0,15.0,Semi-Furnished,140.1
+PROP00508,Hyderabad,Electronic City,Independent House,4500.0,4.0,4.0,7.0,1.0,25.0,Semi-Furnished,344.45
+PROP01181,Pune,Kondapur,Independent House,2527.0,,1.0,7.0,3.0,19.0,Unfurnished,179.43
+PROP00038,Delhi,Kolar Road,Independent House,2635.0,4.0,3.0,11.0,3.0,26.0,Semi-Furnished,271.16
+PROP01285,Delhi,Baner,Independent House,2725.0,2.0,2.0,13.0,1.0,10.0,Unfurnished,274.31
+PROP00322,Pune,Whitefield,Apartment,1044.0,3.0,3.0,11.0,1.0,43.0,Unfurnished,59.72
+PROP00855,Chennai,Bhawarkua,Villa,1655.0,2.0,2.0,7.0,1.0,34.0,Unfurnished,145.2
+PROP01224,Bengaluru,Hinjewadi,Apartment,1726.0,3.0,2.0,14.0,1.0,17.0,Unfurnished,151.9
+PROP00283,Chennai,Kolar Road,,1902.0,2.0,2.0,15.0,1.0,35.0,Unfurnished,126.56
+PROP00015,Mumbai,Whitefield,Independent House,2246.0,3.0,2.0,7.0,1.0,24.0,Semi-Furnished,355.77
+PROP00861,Chennai,Bhawarkua,Apartment,2908.0,1.0,1.0,6.0,2.0,26.0,Semi-Furnished,173.35
+PROP00368,Hyderabad,Wakad,Apartment,2174.0,2.0,1.0,11.0,1.0,40.0,Semi-Furnished,121.07
+PROP01199,Indore,Gachibowli,Apartment,1571.0,3.0,3.0,5.0,0.0,39.0,Unfurnished,64.44
+PROP00707,Bengaluru,Kondapur,Apartment,2066.0,3.0,3.0,8.0,1.0,14.0,Unfurnished,151.25
+PROP01445,Pune,Electronic City,Apartment,2207.0,2.0,1.0,13.0,2.0,44.0,Unfurnished,127.5
+PROP01249,Indore,,Apartment,4500.0,4.0,4.0,9.0,1.0,34.0,Unfurnished,202.4
+PROP01366,Delhi,Electronic City,apartment,1659.0,4.0,4.0,0.0,2.0,19.0,Furnished,143.8
+PROP01231,Indore,Kondapur,Apartment,1675.0,2.0,1.0,11.0,2.0,43.0,Semi-Furnished,71.39
+PROP01170,Hyderabad,Vijay Nagar,Apartment,,4.0,3.0,8.0,0.0,16.0,,146.0
+PROP00673,Bengaluru,Gachibowli,Independent House,1547.0,3.0,3.0,15.0,2.0,7.0,Unfurnished,146.07
+PROP01198,Indore,Electronic City,Apartment,1722.0,2.0,2.0,11.0,2.0,0.0,Semi-Furnished,
+PROP00315, INDORE ,Electronic City,Independent House,3379.0,4.0,4.0,11.0,1.0,7.0,,171.61
+PROP01358,Indore,Bhawarkua,Independent House,1156.0,3.0,2.0,13.0,2.0,41.0,,64.87
+PROP00984,Bhopal,Gachibowli,Apartment,1475.0,4.0,2.0,13.0,2.0,11.0,Semi-Furnished,77.02
+PROP01164,Bengaluru,Baner,Independent House,2434.0,4.0,3.0,5.0,2.0,44.0,Unfurnished,201.07
+PROP00009,Pune,Wakad,Builder Floor,2889.0,4.0,3.0,8.0,2.0,14.0,Semi-Furnished,225.54
+PROP00182,Pune,Miyapur,Independent House,947.0,2.0,2.0,1.0,1.0,28.0,Unfurnished,68.95
+PROP00361,Bengaluru,Kondapur,Apartment,1828.0,3.0,4.0,10.0,3.0,21.0,Semi-Furnished,147.62
+PROP00864,Chennai,Miyapur,Apartment,1677.0,4.0,2.0,8.0,1.0,38.0,Furnished,103.87
+PROP00223,Indore,Wakad,Villa,1600.0,2.0,2.0,0.0,0.0,9.0,Unfurnished,102.04
+PROP00554,Delhi,Palasia,Apartment,3049.0,3.0,3.0,13.0,1.0,35.0,Unfurnished,"₹26,988,000"
+PROP00441,Bhopal,Dwarka,Villa,1594.0,2.0,1.0,11.0,1.0,,Furnished,85.72
+PROP01422, BENGALURU ,Hinjewadi,Villa,4112.0,2.0,1.0,6.0,2.0,20.0,Semi-Furnished,467.28
+PROP00512,Bhopal,Gachibowli,Independent House,1439.0,4.0,3.0,12.0,3.0,17.0,Unfurnished,58.41
+PROP00381,Chennai,Velachery,Independent House,3682.0,4.0,3.0,5.0,1.0,,Semi-Furnished,277.38
+PROP00689,Pune,Baner,Apartment,754.0,3.0,2.0,10.0,2.0,18.0,Semi-Furnished,45.29
+PROP00231,Pune,Whitefield,Apartment,,3.0,2.0,4.0,1.0,2.0,Unfurnished,156.43
+PROP00113,Pune,Palasia,Apartment,3932.0,,2.0,12.0,1.0,33.0,Semi-Furnished,251.83
+PROP01464,Mumbai,Kondapur,Apartment,1774.0,2.0,1.0,9.0,2.0,37.0,Semi-Furnished,233.26
+PROP01103,Bhopal,Miyapur,Independent House,2934.0,2.0,2.0,1.0,3.0,23.0,Unfurnished,111.94
+PROP01169,Bengaluru,Vijay Nagar,Independent House,2589.0,2.0,3.0,8.0,1.0,22.0,Semi-Furnished,239.55
+PROP01475,Bengaluru,Kolar Road,Apartment,1795.0,3.0,2.0,3.0,2.0,15.0,Furnished,151.22
+PROP00778,Hyderabad,Kondapur,Independent House,1631.0,2.0,2.0,1.0,3.0,6.0,Semi-Furnished,138.83
+PROP00154,Hyderabad,Rau,Builder Floor,1532.0,4.0,3.0,13.0,,31.0,Unfurnished,95.55
+PROP00488,Hyderabad,Wakad,Independent House,3009.0,2.0,2.0,9.0,1.0,31.0,,246.24
+PROP00123,Indore,Baner,Villa,2611.0,,2.0,3.0,1.0,10.0,Unfurnished,180.64
+PROP01080,Bengaluru,Vijay Nagar,Apartment,3959.0,3.0,2.0,2.0,1.0,32.0,Semi-Furnished,282.73
+PROP01327,Pune,Kolar Road,Builder Floor,3500.0,4 BHK,3.0,0.0,1.0,35.0,Unfurnished,260.88
+PROP00613,Chennai,Thane,Independent House,4500.0,1.0,1.0,2.0,2.0,16.0,Semi-Furnished,334.73
+PROP00681,Bengaluru,Electronic City,Apartment,140 sqm,2.0,2.0,13.0,3.0,23.0,Unfurnished,106.43
+PROP00096,Pune,Miyapur,Apartment,2864.0,2.0,1.0,4.0,2.0,0.0,Semi-Furnished,200.69
+PROP00819,Delhi,Whitefield,Apartment,2142.0,2.0,2.0,12.0,1.0,32.0,Furnished,199.96
+PROP00893,Bengaluru,Velachery,Independent House,2315.0,4.0,3.0,2.0,2.0,21.0,Semi-Furnished,208.34
+PROP01477,Chennai,Bhawarkua,Apartment,4313.0,4.0,3.0,13.0,,27.0,Unfurnished,272.95
+PROP01465,Hyderabad,Miyapur,Apartment,1705.0,2.0,1.0,9.0,1.0,10.0,Semi-Furnished,115.86
+PROP01081,Mumbai,Whitefield,Apartment,2368.0,2.0,1.0,8.0,2.0,10.0,Furnished,7500
+PROP00837,Delhi,Velachery,Villa,3322.0,3.0,2.0,9.0,2.0,14.0,Unfurnished,447.36
+PROP00679,Hyderabad,Rau,Apartment,,4.0,3.0,6.0,1.0,26.0,Unfurnished,191.43
+PROP00940,Indore,Miyapur,Independent House,1163.0,4.0,3.0,4.0,3.0,,Semi-Furnished,66.65
+PROP00145,Mumbai,Rau,Villa,2813.0,1.0,1.0,0.0,1.0,31.0,,550.8
+PROP00385,Indore,Thane,Apartment,4024.0,4.0,3.0,4.0,2.0,39.0,Semi-Furnished,188.14
+PROP00813,Delhi,Vijay Nagar,Builder Floor,1365.0,2.0,2.0,0.0,1.0,35.0,Unfurnished,112.9
+PROP00671,Pune,Velachery,Independent House,3452.0,4.0,2.0,6.0,1.0,19.0,Unfurnished,267.27
+PROP00347,Delhi,Vijay Nagar,Independent House,1218.0,1.0,1.0,1.0,2.0,9.0,Furnished,133.08
+PROP00332,Hyderabad,Palasia,Apartment,924.0,2.0,2.0,9.0,0.0,8.0,Unfurnished,44.0
+PROP00979,Mumbai,Dwarka,Apartment,1924.0,3.0,3.0,10.0,2.0,26.0,Semi-Furnished,239.38
+PROP00667,Indore,Bhawarkua,Independent House,1795.0,3.0,2.0,13.0,3.0,,Unfurnished,80.13
+PROP00637,Hyderabad,Vijay Nagar,Independent House,1542.0,1.0,2.0,12.0,1.0,42.0,Unfurnished,90.24
+PROP01500,Bengaluru,Kolar Road,Independent House,2513.0,1.0,2.0,,1.0,7.0,Semi-Furnished,225.02
+PROP00248,Chennai,MP Nagar,Villa,875.0,4.0,4.0,7.0,1.0,31.0,Furnished,101.97
+PROP01288,,Velachery,Villa,2093.0,1.0,2.0,3.0,1.0,12.0,Semi-Furnished,115.76
+PROP01385,Bengaluru,Andheri,Apartment,1432.0,2.0,1.0,7.0,1.0,37.0,Unfurnished,125.3
+PROP01354,Pune,Palasia,Builder Floor,1752.0,4.0,4.0,1.0,3.0,3.0,Unfurnished,"₹15,795,000"
+PROP00423,Bengaluru,Thane,Independent House,3097.0,4.0,3.0,11.0,0.0,1.0,Semi-Furnished,292.44
+PROP00944,Delhi,Andheri,independent house,641.0,2.0,2.0,10.0,1.0,21.0,Furnished,74.69
+PROP01421,Bengaluru,Kondapur,Apartment,1185.0,2.0,1.0,2.0,1.0,6.0,Unfurnished,86.83
+PROP01286,Mumbai,Miyapur,Apartment,2028.0,4.0,3.0,11.0,3.0,22.0,Semi-Furnished,
+PROP00196,Bengaluru,Hinjewadi,,1309.0,3.0,2.0,7.0,3.0,15.0,Semi-Furnished,95.09
+PROP00972,Bengaluru,,Independent House,,3.0,3.0,15.0,2.0,,Unfurnished,91.97
+PROP00246,Hyderabad,Vijay Nagar,Apartment,1383.0,4.0,3.0,9.0,2.0,15.0,Semi-Furnished,69.26
+PROP00401,Chennai,Miyapur,Villa,2220.0,3.0,2.0,14.0,0.0,39.0,Unfurnished,200.81
+PROP00179,Pune,Thane,Villa,2578.0,3.0,3.0,7.0,1.0,24.0,Semi-Furnished,265.88
+PROP00774,Chennai,Bhawarkua,Apartment,1108.0,3 BHK,2.0,4.0,1.0,6.0,Semi-Furnished,60.74
+PROP00372, BENGALURU ,Bhawarkua,Apartment,1748.0,1.0,1.0,7.0,2.0,33.0,Unfurnished,100.24
+PROP00211,Pune,Vijay Nagar,Apartment,1475.0,2.0,3.0,14.0,2.0,1.0,Unfurnished,109.03
+PROP00743,Delhi,,Apartment,2724.0,2.0,2.0,13.0,2.0,7.0,Semi-Furnished,244.48
+PROP00143,Delhi,,Apartment,104 sqm,3.0,2.0,11.0,1.0,32.0,Furnished,94.31
+PROP00336,Delhi,Electronic City,Apartment,2042.0,3.0,3.0,12.0,1.0,21.0,Furnished,207.98
+PROP01097,Chennai,Kolar Road,Independent House,1440.0,4.0,5.0,2.0,3.0,21.0,Semi-Furnished,123.6
+PROP00720,Bengaluru,Thane,Independent House,1155.0,3.0,3.0,13.0,2.0,24.0,Semi-Furnished,94.42
+PROP00835,Hyderabad,,Builder Floor,1889.0,4.0,3.0,8.0,1.0,41.0,Unfurnished,126.9
+PROP01406,Chennai,Thane,Independent House,190 sqm,2.0,3.0,2.0,,3.0,Furnished,166.61
+PROP01048,Chennai,Rau,Independent House,1052.0,1.0,2.0,2.0,2.0,7.0,Furnished,101.45
+PROP00062,Hyderabad,,Builder Floor,1541.0,2.0,2.0,5.0,2.0,15.0,Unfurnished,128.36
+PROP01027,Delhi,Velachery,Independent House,,4.0,3.0,4.0,3.0,28.0,Furnished,"₹23,934,000"
+PROP00206,Delhi,Kolar Road,Independent House,2260.0,4.0,3.0,15.0,2.0,25.0,Furnished,265.78
+PROP00568,Mumbai,Wakad,Independent House,883.0,1.0,1.0,10.0,1.0,44.0,Unfurnished,118.43
+PROP01202,Pune,MP Nagar,Apartment,,2.0,2.0,1.0,2.0,8.0,Semi-Furnished,189.47
+PROP00205,Indore,Baner,Apartment,1824.0,1.0,1.0,8.0,2.0,34.0,Semi-Furnished,85.28
+PROP01176,Indore,Wakad,Apartment,1519.0,1.0,1.0,12.0,2.0,19.0,Unfurnished,62.31
+PROP00978,Hyderabad,Dwarka,Independent House,2352.0,5.0,5.0,14.0,1.0,41.0,Semi-Furnished,188.94
+PROP00360,Delhi,Baner,Independent House,1297.0,2.0,2.0,0.0,1.0,10.0,Unfurnished,136.36
+PROP01441,Chennai,Vijay Nagar,Apartment,2765.0,3.0,1.0,10.0,2.0,14.0,Semi-Furnished,189.4
+PROP01455,Hyderabad,Miyapur,Independent House,4017.0,3.0,2.0,2.0,3.0,3.0,Semi-Furnished,327.38
+PROP01476,Pune,MP Nagar,Apartment,2049.0,1.0,1.0,6.0,1.0,38.0,Semi-Furnished,158.57
+PROP00098,Pune,Wakad,Apartment,914.0,3.0,2.0,10.0,0.0,29.0,Unfurnished,60.89
+PROP01390,Indore,,Apartment,4197.0,3.0,3.0,4.0,1.0,40.0,Semi-Furnished,175.94
+PROP00465,Bhopal,Kolar Road,Builder Floor,902.0,3.0,2.0,9.0,2.0,41.0,Semi-Furnished,43.92
+PROP00241,Pune,Rau,Apartment,1333.0,3.0,2.0,14.0,3.0,29.0,Unfurnished,85.27
+PROP00421,Bengaluru,Dwarka,Villa,1099.0,3.0,3.0,7.0,0.0,11.0,Furnished,146.41
+PROP00025,Delhi,Electronic City,Apartment,2838.0,,3.0,13.0,2.0,22.0, unfurnished ,231.5
+PROP00493,Indore,Kondapur,Apartment,2404.0,3.0,1.0,0.0,1.0,23.0,Semi-Furnished,96.57
+PROP00642,Hyderabad,Bhawarkua,Villa,4447.0,3.0,2.0,8.0,2.0,29.0,Semi-Furnished,447.26
+PROP01236,Delhi,MP Nagar,Apartment,1149.0,2.0,2.0,14.0,1.0,37.0,Semi-Furnished,78.76
+PROP01275,Hyderabad,Dwarka,Independent House,1965.0,2.0,3.0,15.0,0.0,17.0,Furnished,146.15
+PROP01036, BENGALURU ,Rau,Apartment,2038.0,2.0,2.0,12.0,0.0,1.0,Unfurnished,146.31
+PROP00829,Mumbai,Vijay Nagar,Independent House,2362.0,2.0,2.0,6.0,1.0,28.0,Semi-Furnished,376.33
+PROP00410,Indore,Gachibowli,Apartment,4500.0,1.0,1.0,7.0,2.0,20.0,Semi-Furnished,214.18
+PROP01345,Delhi,Wakad,Apartment,2057.0,3.0,3.0,5.0,1.0,21.0,Unfurnished,194.9
+PROP01121,Chennai,Miyapur,Apartment,1726.0,3.0,3.0,1.0,2.0,12.0,Semi-Furnished,122.46
+PROP01095,Chennai,Bhawarkua,Villa,1150.0,1.0,,3.0,2.0,17.0,Furnished,"₹13,592,000"
+PROP01011,Delhi,Vijay Nagar,Apartment,2801.0,4.0,2.0,11.0,2.0,21.0,Unfurnished,265.08
+PROP01214,Bhopal,Electronic City,Apartment,2685.0,2.0,2.0,1.0,2.0,23.0,Furnished,100.22
+PROP01463,Mumbai,Whitefield,Independent House,2004.0,3.0,2.0,1.0,3.0,23.0,Unfurnished,295.43
+PROP00653,Bhopal,Dwarka,Builder Floor,1387.0,3.0,4.0,2.0,2.0,4.0,Unfurnished,46.74
+PROP01077,Mumbai,Dwarka,Builder Floor,2045.0,2.0,3.0,10.0,,40.0,Semi-Furnished,"₹26,482,000"
+PROP01429,Bengaluru,Whitefield,Apartment,1852.0,2.0,1.0,2.0,2.0,3.0,Furnished,161.7
+PROP00632,Bhopal,Rau,Apartment,4061.0,3.0,2.0,13.0,1.0,30.0,Semi-Furnished,158.44
+PROP01453,Mumbai,Andheri,Apartment,,,2.0,0.0,3.0,17.0,Semi-Furnished,235.56
+PROP00164, INDORE ,Baner,Apartment,1792.0,5.0,4.0,11.0,0.0,37.0,Furnished,73.32
+PROP00938,Indore,Whitefield,Villa,693.0,3.0,4.0,0.0,3.0,37.0,Unfurnished,38.51
+PROP00958,Bhopal,Miyapur,Independent House,551.0,3.0,2.0,15.0,2.0,8.0,Semi-Furnished,41.56
+PROP00346,Bhopal,Velachery,Apartment,1214.0,1.0,1.0,6.0,0.0,10.0,Semi-Furnished,42.63
+PROP01499,Bengaluru,Miyapur,Villa,3116.0,3.0,1.0,8.0,0.0,11.0,Furnished,400.59
+PROP01150,Pune,MP Nagar,Apartment,2101.0,2.0,2.0,9.0,1.0,40.0,Unfurnished,116.79
+PROP00155,Bhopal,Kolar Road,Apartment,1790.0,,1.0,15.0,2.0,35.0,Semi-Furnished,54.08
+PROP00721,Pune,MP Nagar,Independent House,2506.0,2.0,2.0,0.0,1.0,29.0,Semi-Furnished,204.96
+PROP01111,Pune,Thane,Apartment,1215.0,2.0,1.0,9.0,2.0,8.0,Semi-Furnished,87.12
+PROP00127,Hyderabad,Andheri,Independent House,1094.0,2.0,2.0,10.0,2.0,40.0,Semi-Furnished,78.61
+PROP00422,Bengaluru,MP Nagar,Independent House,1396.0,5.0,-2.0,3.0,-1.0,10.0,Semi-Furnished,136.14
+PROP00842,,Dwarka,Villa,2274.0,3.0,3.0,2.0,0.0,3.0,Unfurnished,259.07
+PROP00267,Chennai,Whitefield,Apartment,,1.0,2.0,12.0,1.0,40.0,Unfurnished,134.08
+PROP01021, BHOPAL ,Vijay Nagar,Builder Floor,3644.0,3.0,3.0,13.0,2.0,25.0,Unfurnished,147.43
+PROP00738,Chennai,Andheri,Villa,2723.0,3.0,4.0,11.0,3.0,29.0,Unfurnished,246.22
+PROP00037,Bhopal,Dwarka,Villa,982.0,2.0,1.0,5.0,,39.0,Semi-Furnished,59.37
+PROP00713,Indore,Bhawarkua,Apartment,1657.0,5.0,5.0,1.0,2.0,6.0,Unfurnished,
+PROP01005,Bhopal,Palasia,,1189.0,4.0,3.0,3.0,1.0,,Semi-Furnished,49.27
+PROP00156,Delhi,Kolar Road,Apartment,2608.0,2.0,2.0,5.0,2.0,18.0,Furnished,253.42
+PROP00932,Hyderabad,Wakad,Apartment,1813.0,3.0,3.0,13.0,1.0,9.0,Unfurnished,113.81
+PROP00901,Mumbai,Andheri,Independent House,2076.0,3.0,,13.0,3.0,31.0,Semi-Furnished,295.43
+PROP00079,Bengaluru,Bhawarkua,Builder Floor,3069.0,2.0,2.0,8.0,,23.0,Unfurnished,245.19
+PROP00375,Indore,Kondapur,Apartment,1393.0,4.0,3.0,2.0,3.0,33.0,Semi-Furnished,49.63
+PROP00403,Bengaluru,Wakad,Apartment,1491.0,2.0,1.0,6.0,3.0,1.0,Unfurnished,104.08
+PROP00197,,Miyapur,Villa,2254.0,1.0,1.0,4.0,0.0,15.0,,197.94
+PROP00389,Bengaluru,Velachery,Independent House,2318.0,1.0,1.0,0.0,0.0,5.0,,191.27
+PROP00918,Pune,MP Nagar,Apartment,1017.0,1.0,1.0,2.0,2.0,24.0,Semi-Furnished,74.03
+PROP00780,Delhi,Kolar Road,Builder Floor,2639.0,3.0,2.0,2.0,3.0,13.0,Furnished,258.47
+PROP00178,Mumbai,MP Nagar,Apartment,1217.0,1.0,1.0,0.0,1.0,20.0,Unfurnished,134.98
+PROP01128,Bengaluru,Whitefield,Apartment,3179.0,2.0,2.0,7.0,2.0,6.0, semi-furnished ,242.84
+PROP00544,Hyderabad,Rau,Independent House,959.0,5.0,3.0,12.0,2.0,41.0,Unfurnished,75.73
+PROP01179,Mumbai,Baner,Villa,1733.0,2.0,2.0,5.0,1.0,7.0,Furnished,366.36
+PROP00413,Mumbai,Vijay Nagar,Villa,1525.0,4.0,3.0,8.0,1.0,35.0,Unfurnished,326.58
+PROP00625,Pune,Vijay Nagar,Independent House,1479.0,1.0,1.0,1.0,2.0,0.0,Unfurnished,128.55
+PROP01092,Hyderabad,Thane,Independent House,918.0,2.0,1.0,14.0,1.0,16.0,Semi-Furnished,60.33
+PROP00960,Bengaluru,Dwarka,Independent House,1120.0,3.0,3.0,9.0,1.0,44.0,Semi-Furnished,70.83
+PROP00099,Pune,Baner,Builder Floor,1842.0,3.0,2.0,12.0,,23.0,Semi-Furnished,136.96
+PROP00141,Hyderabad,Dwarka,Villa,1155.0,4.0,4.0,3.0,2.0,30.0,Semi-Furnished,117.41
+PROP01107,Delhi,Dwarka,Villa,172 sqm,3.0,2.0,10.0,0.0,35.0,Semi-Furnished,247.26
+PROP00939,Bhopal,Kolar Road,Builder Floor,2525.0,2.0,,3.0,2.0,42.0,,100.11
+PROP01053,Hyderabad,Kolar Road,apartment,2285.0,3.0,3.0,1.0,0.0,13.0,Semi-Furnished,151.84
+PROP00876,Bengaluru,Velachery,Independent House,1928.0,2.0,,3.0,1.0,14.0,Semi-Furnished,171.97
+PROP00054,Bengaluru,Rau,Apartment,,4.0,3.0,2.0,2.0,40.0,Unfurnished,127.31
+PROP01456,Indore,Whitefield,Independent House,1685.0,2.0,2.0,7.0,1.0,18.0,Semi-Furnished,88.04
+PROP01086,Indore,Velachery,Independent House,1181.0,4.0,3.0,9.0,1.0,,Unfurnished,73.93
+PROP00966, BENGALURU ,Velachery,Independent House,1042.0,4.0,3.0,15.0,2.0,41.0,Semi-Furnished,112.16
+PROP00894,Mumbai,Velachery,Apartment,1814.0,2.0,3.0,14.0,0.0,24.0,Furnished,255.82
+PROP00628,Bengaluru,Velachery,Apartment,1453.0,4.0,4.0,11.0,0.0,18.0,Unfurnished,115.71
+PROP00996,Hyderabad,MP Nagar,Apartment,2006.0,2.0,2.0,3.0,2.0,24.0,Unfurnished,98.85
+PROP01223,Mumbai,Palasia,Builder Floor,1616.0,3.0,2.0,11.0,1.0,23.0,Unfurnished,221.45
+PROP00088,Chennai,Baner,Apartment,1046.0,1.0,2.0,15.0,3.0,23.0,Semi-Furnished,67.47
+PROP00039,Delhi,Andheri,Apartment,1113.0,3.0,3.0,1.0,2.0,13.0,Semi-Furnished,116.28
+PROP01430,Hyderabad,Andheri,Apartment,1692.0,3.0,2.0,3.0,3.0,7.0,Furnished,105.31
+PROP00323,Bengaluru,Andheri,Apartment,1865.0,3.0,3.0,11.0,1.0,10.0,Furnished,166.6
+PROP00635,Hyderabad,Kondapur,Apartment,1349.0,3.0,2.0,2.0,2.0,10.0,Unfurnished,86.67
+PROP00281,Hyderabad,Kondapur,Apartment,2404.0,3.0,3.0,4.0,0.0,15.0,Semi-Furnished,175.91
+PROP00999,Hyderabad,Bhawarkua,Apartment,1883.0,4.0,4.0,5.0,1.0,24.0, unfurnished ,117.69
+PROP00087,Hyderabad,Miyapur,Builder Floor,1516.0,2.0,2.0,12.0,2.0,39.0,Semi-Furnished,106.27
+PROP01278,Bengaluru,MP Nagar,Apartment,,3.0,1.0,1.0,2.0,39.0,Semi-Furnished,127.23
+PROP00134,Pune,Wakad,Apartment,2252.0,2.0,1.0,2.0,2.0,15.0,Unfurnished,143.15
+PROP00962,Delhi,Vijay Nagar,Builder Floor,2912.0,3.0,3.0,11.0,2.0,37.0,Unfurnished,287.64
+PROP00767,Delhi,Kondapur,Independent House,2160.0,5.0,3.0,10.0,1.0,3.0,Semi-Furnished,234.53
+PROP01184,Hyderabad,Electronic City,Apartment,1831.0,3.0,2.0,6.0,1.0,3.0,Furnished,140.06
+PROP01035,Delhi,Andheri,Apartment,1789.0,3.0,2.0,,1.0,33.0,,157.19
+PROP01316,Hyderabad,Vijay Nagar,Apartment,4500.0,3.0,1.0,3.0,1.0,0.0,Furnished,293.27
+PROP00490,Hyderabad,Velachery,Independent House,1736.0,1.0,1.0,11.0,,31.0,Semi-Furnished,145.13
+PROP00923,Delhi,MP Nagar,Independent House,1577.0,4.0,2.0,0.0,2.0,, unfurnished ,153.07
+PROP01235,Pune,Gachibowli,Builder Floor,1275.0,3.0,2.0,13.0,2.0,26.0,Unfurnished,96.4
+PROP00717,Bhopal,Miyapur,Apartment,926.0,3.0,3.0,0.0,1.0,18.0,Semi-Furnished,34.5
+PROP00387,Mumbai,Kolar Road,Builder Floor,2058.0,4.0,3.0,8.0,1.0,0.0,Semi-Furnished,326.13
+PROP01324,Hyderabad,Kondapur,Apartment,1046.0,1.0,1.0,9.0,2.0,10.0,Furnished,70.81
+PROP00652,Pune,Wakad,Independent House,1774.0,5.0,3.0,7.0,1.0,12.0,Semi-Furnished,151.81
+PROP00105,Bengaluru,Thane,Apartment,1617.0,4.0,4.0,10.0,2.0,4.0,Semi-Furnished,119.21
+PROP00073,Hyderabad,MP Nagar,Apartment,2202.0,5.0,4.0,11.0,2.0,33.0, semi-furnished ,136.85
+PROP00458,Bengaluru,,Apartment,1780.0,2.0,1.0,8.0,1.0,13.0,Semi-Furnished,122.56
+PROP00688,Bengaluru,Wakad,Apartment,1173.0,3.0,3.0,3.0,1.0,3.0,Semi-Furnished,100.72
+PROP01079,Chennai,Velachery,Builder Floor,,4.0,2.0,15.0,1.0,34.0,Unfurnished,49.27
+PROP00704,Mumbai,MP Nagar,Independent House,3720.0,4.0,4.0,,2.0,43.0,Semi-Furnished,580.99
+PROP01060,Mumbai,Gachibowli,Independent House,815.0,3.0,2.0,12.0,1.0,39.0,Semi-Furnished,122.32
+PROP01208,Chennai,MP Nagar,Apartment,1873.0,3.0,2.0,9.0,1.0,6.0,Furnished,128.3
+PROP01398,Bengaluru,Bhawarkua,Independent House,1716.0,3.0,2.0,11.0,1.0,40.0,Furnished,165.05
+PROP00279,Mumbai,Rau,Apartment,1751.0,1.0,2.0,12.0,1.0,4.0,Furnished,266.27
+PROP00081,Bengaluru,Kondapur,Villa,2419.0,2.0,2.0,5.0,1.0,21.0,Semi-Furnished,302.37
+PROP01422, BENGALURU ,Hinjewadi,Villa,4112.0,2.0,1.0,6.0,2.0,20.0,Semi-Furnished,467.28
+PROP00358,Bhopal,Bhawarkua,Apartment,2994.0,5.0,,,2.0,7.0,Unfurnished,107.84
+PROP01127,Delhi,Thane,apartment,2089.0,5.0,4.0,10.0,1.0,38.0,Furnished,197.35
+PROP00363,Bhopal,Thane,Builder Floor,2500.0,5.0,5.0,13.0,1.0,12.0,Semi-Furnished,104.65
+PROP00783,Bhopal,Wakad,Apartment,3125.0,1 BHK,1.0,0.0,1.0,29.0,Unfurnished,132.34
+PROP00528,Delhi,Bhawarkua,Apartment,2004.0,3.0,2.0,8.0,3.0,4.0,Furnished,184.89
+PROP00190,Hyderabad,Kondapur,Independent House,1563.0,4.0,4.0,9.0,2.0,11.0,Semi-Furnished,143.28
+PROP00313,Bengaluru,Miyapur,Independent House,2664.0,2.0,3.0,,0.0,2.0,Semi-Furnished,222.29
+PROP01296,Delhi,Thane,Villa,2916.0,2.0,1.0,5.0,3.0,44.0,Semi-Furnished,"₹41,293,000"
+PROP00446,Hyderabad,Electronic City,Apartment,1990.0,2.0,2.0,5.0,2.0,6.0,Unfurnished,133.39
+PROP00137,Bhopal,Bhawarkua,Independent House,1438.0,1.0,1.0,12.0,2.0,8.0,Semi-Furnished,59.86
+PROP00290,Hyderabad,Palasia,Independent House,1830.0,2.0,2.0,9.0,1.0,21.0,Semi-Furnished,153.97
+PROP00424,Bhopal,MP Nagar,Apartment,,1.0,1.0,11.0,3.0,11.0,Semi-Furnished,54.95
+PROP00463,Chennai,Miyapur,Apartment,2364.0,2.0,2.0,3.0,1.0,23.0,Semi-Furnished,142.1
+PROP00550, HYDERABAD ,Electronic City,Apartment,,4 BHK,2.0,0.0,1.0,41.0,Unfurnished,168.28
+PROP00698,Hyderabad,Electronic City,,3243.0,2.0,1.0,1.0,2.0,3.0,Semi-Furnished,250.81
+PROP01148,Pune,Kondapur,Independent House,1779.0,4.0,3.0,,1.0,0.0,Unfurnished,127.97
+PROP01221,Hyderabad,Gachibowli,Apartment,1627.0,3.0,2.0,11.0,0.0,22.0,Unfurnished,84.4
+PROP00803,Pune,Kondapur,Apartment,1397.0,1.0,1.0,8.0,2.0,31.0,Unfurnished,77.76
+PROP00649,Indore,Gachibowli,Apartment,2168.0,3.0,2.0,2.0,0.0,7.0,Unfurnished,95.35
+PROP00886,Bengaluru,Kolar Road,Apartment,1119.0,2.0,1.0,0.0,3.0,1.0,Unfurnished,93.98
+PROP01066,Indore,Hinjewadi,Independent House,3029.0,2.0,2.0,0.0,2.0,15.0,Semi-Furnished,141.16
+PROP00004,Indore,Miyapur,Villa,1535.0,2.0,1.0,15.0,,20.0,Unfurnished,109.65
+PROP01059,Chennai,Thane,apartment,2938.0,,2.0,0.0,0.0,40.0,Furnished,182.86
+PROP00236,Delhi,MP Nagar,Apartment,740.0,4.0,2.0,10.0,2.0,1.0,Furnished,84.9
+PROP00348,Hyderabad,Wakad,Builder Floor,3392.0,3.0,2.0,15.0,1.0,19.0,Semi-Furnished,237.23
+PROP01264,Hyderabad,Hinjewadi,Builder Floor,1328.0,3.0,3.0,15.0,1.0,34.0,Semi-Furnished,96.74
+PROP01211,Bengaluru,Baner,Apartment,1857.0,3.0,1.0,12.0,0.0,26.0,Furnished,153.42
+PROP00696,Mumbai,Bhawarkua,Apartment,1658.0,2.0,2.0,15.0,1.0,11.0,Semi-Furnished,213.4
+PROP00588,Bhopal,Dwarka,Apartment,1543.0,4.0,3.0,5.0,1.0,20.0,Semi-Furnished,67.02
+PROP00709,Delhi,Kondapur,Villa,1531.0,3.0,3.0,13.0,,18.0,Semi-Furnished,230.18
+PROP00920,Hyderabad,Dwarka,Independent House,2222.0,4.0,4.0,8.0,3.0,15.0,Unfurnished,175.1
+PROP00272,Pune,Kondapur,Independent House,4391.0,5.0,4.0,10.0,0.0,18.0,Semi-Furnished,368.15
+PROP00640,Bhopal,Wakad,Apartment,1693.0,3.0,2.0,1.0,3.0,13.0,Unfurnished,"₹6,359,000"
+PROP01227,Bhopal,Bhawarkua,Apartment,1075.0,2.0,1.0,2.0,0.0,25.0, unfurnished ,38.79
+PROP01233,Indore,,Apartment,1568.0,2.0,2.0,3.0,0.0,25.0,Furnished,86.01
+PROP00658,Pune,MP Nagar,Apartment,2713.0,3.0,3.0,1.0,1.0,26.0,Semi-Furnished,194.22
+PROP01216,Bhopal,Velachery,Apartment,2714.0,3.0,3.0,,2.0,44.0,Semi-Furnished,93.46
+PROP01008,Chennai,Miyapur,Apartment,2256.0,3.0,1.0,5.0,2.0,4.0,Furnished,147.86
+PROP00540,Delhi,Palasia,Villa,2024.0,3.0,2.0,,3.0,32.0,Semi-Furnished,267.78
+PROP00364,Hyderabad,Palasia,Apartment,,2.0,1.0,12.0,2.0,13.0,Semi-Furnished,92.96
+PROP00033,Hyderabad,Wakad,independent house,2138.0,2.0,2.0,15.0,1.0,33.0,Unfurnished,148.63
+PROP00008,Bengaluru,Bhawarkua,Independent House,3987.0,4.0,3.0,3.0,1.0,37.0,Semi-Furnished,373.17
+PROP01217,Hyderabad,Electronic City,Apartment,3308.0,2.0,2.0,3.0,0.0,11.0,Furnished,239.91
+PROP00907,Chennai,Velachery,Apartment,2698.0,5.0,4.0,6.0,1.0,18.0,Furnished,170.81
+PROP00723,Hyderabad,,Independent House,3597.0,4.0,3.0,9.0,0.0,32.0,Unfurnished,261.21
+PROP00504,Chennai,Whitefield,Apartment,2195.0,2.0,1.0,5.0,,37.0,Semi-Furnished,132.97
+PROP01269,Hyderabad,Miyapur,Apartment,1218.0,5.0,4.0,6.0,1.0,21.0,Semi-Furnished,78.78
+PROP01426,Indore,Bhawarkua,Apartment,1231.0,4.0,3.0,14.0,0.0,15.0,Unfurnished,46.28
+PROP01428,Mumbai,Palasia,Villa,4500.0,4.0,2.0,12.0,1.0,43.0,Unfurnished,865.91
+PROP01174,Indore,Miyapur,Apartment,2566.0,5.0,,13.0,2.0,17.0,Semi-Furnished,122.39
+PROP00683,Hyderabad,Velachery,Apartment,1524.0,2.0,2.0,11.0,0.0,34.0,Semi-Furnished,111.36
+PROP00191,Indore,Electronic City,Apartment,2349.0,1.0,1.0,13.0,3.0,16.0,Unfurnished,79.75
+PROP00836,Indore,Gachibowli,Apartment,626.0,1.0,1.0,5.0,1.0,30.0,Semi-Furnished,36.16
+PROP00648,Delhi,Baner,Apartment,2410.0,3.0,2.0,13.0,1.0,1.0,Semi-Furnished,204.08
+PROP01492,Chennai,Miyapur,Apartment,2571.0,3.0,2.0,3.0,2.0,24.0,Semi-Furnished,165.11
+PROP00065,Bhopal,Gachibowli,Villa,2486.0,5.0,,8.0,2.0,40.0,Unfurnished,140.81
+PROP00367,Mumbai,Kolar Road,Independent House,1479.0,4.0,4.0,8.0,,43.0,Semi-Furnished,
+PROP00449,Bengaluru,Bhawarkua,,1593.0,3.0,2.0,6.0,1.0,38.0,Semi-Furnished,149.52
+PROP01106,Mumbai,Palasia,Apartment,2595.0,3.0,2.0,11.0,0.0,36.0,Semi-Furnished,338.05
+PROP01334,Chennai,Rau,Apartment,1531.0,5 BHK,5.0,0.0,1.0,7.0,Furnished,125.02
+PROP01434,Pune,Gachibowli,Apartment,1386.0,3.0,3.0,2.0,2.0,2.0,Semi-Furnished,100.57
+PROP00383,Indore,MP Nagar,Builder Floor,3585.0,1.0,1.0,1.0,2.0,13.0,Unfurnished,177.95
+PROP00159,Indore,Velachery,Apartment,1908.0,4.0,4.0,6.0,0.0,41.0,Semi-Furnished,88.82
+PROP00217,Indore,Wakad,Apartment,2129.0,3.0,2.0,3.0,,30.0,Furnished,90.65
+PROP00560,Delhi,Whitefield,Villa,1093.0,3.0,3.0,7.0,3.0,33.0, semi-furnished ,160.57
+PROP00400,Bengaluru,Whitefield,Apartment,2796.0,3.0,2.0,2.0,1.0,37.0,Unfurnished,214.67
+PROP00994, INDORE ,Andheri,apartment,4500.0,3.0,2.0,,1.0,29.0,Furnished,215.78
+PROP00012,Chennai,Kondapur,Apartment,1448.0,3.0,2.0,2.0,2.0,43.0,Furnished,110.29
+PROP00013,Delhi,Whitefield,Apartment,1451.0,4.0,3.0,4.0,1.0,36.0,Unfurnished,134.49
+PROP01070,Delhi,Baner,Villa,2338.0,2.0,2.0,12.0,3.0,25.0,Semi-Furnished,319.04
+PROP00471,Mumbai,Kondapur,Villa,1833.0,2.0,3.0,2.0,1.0,20.0, semi-furnished ,365.54
+PROP01180,Pune,Palasia,Villa,3667.0,2.0,2.0,4.0,3.0,29.0,Unfurnished,382.96
+PROP00670,Indore,Thane,Villa,1907.0,1.0,1.0,0.0,1.0,11.0,Furnished,142.09
+PROP01258,Hyderabad,,Apartment,2293.0,5.0,3.0,9.0,1.0,21.0,Unfurnished,134.45
+PROP00356,Mumbai,Electronic City,Independent House,1130.0,1.0,1.0,13.0,1.0,10.0,Semi-Furnished,159.13
+PROP01065,Delhi,Miyapur,Apartment,1428.0,4.0,2.0,13.0,1.0,38.0,Semi-Furnished,123.99
+PROP00787,Hyderabad,Electronic City,Independent House,1729.0,1.0,2.0,10.0,2.0,19.0,Semi-Furnished,126.12
+PROP00595,Bengaluru,Hinjewadi,Independent House,2829.0,,2.0,12.0,0.0,6.0,Furnished,278.25
+PROP00729,Bengaluru,Miyapur,Independent House,1246.0,3.0,2.0,10.0,1.0,1.0,Semi-Furnished,139.24
+PROP00525,Delhi,Kondapur,Apartment,1320.0,2.0,2.0,3.0,0.0,24.0,Semi-Furnished,119.56
+PROP00869,Bengaluru,Andheri,Apartment,1859.0,1.0,1.0,14.0,3.0,40.0,Unfurnished,128.85
+PROP00702,Bhopal,Bhawarkua,Apartment,1106.0,3.0,3.0,1.0,3.0,3.0,Furnished,43.25
+PROP00433,Bengaluru,Wakad,Independent House,2697.0,2.0,2.0,5.0,2.0,27.0,Semi-Furnished,246.93
+PROP00288,Chennai,Wakad,Apartment,2205.0,4.0,2.0,15.0,1.0,22.0,Furnished,
+PROP00235,Indore,Electronic City,Apartment,1926.0,3.0,2.0,12.0,1.0,26.0,Furnished,82.17
+PROP00107,Mumbai,Dwarka,Independent House,2481.0,2.0,3.0,13.0,1.0,4.0,Semi-Furnished,375.8
+PROP00352,Indore,Wakad,Villa,1873.0,2.0,2.0,4.0,0.0,40.0,Semi-Furnished,104.74
+PROP00730,Bengaluru,Palasia,Apartment,1499.0,3.0,3.0,3.0,1.0,37.0,Semi-Furnished,99.44
+PROP00618,Delhi,,Villa,2462.0,1.0,1.0,0.0,1.0,19.0,Semi-Furnished,343.7
+PROP00826,Chennai,Vijay Nagar,Apartment,2887.0,,2.0,13.0,1.0,0.0,Furnished,198.57
+PROP01000,Delhi,Vijay Nagar,Apartment,1437.0,3.0,4.0,12.0,1.0,28.0,Semi-Furnished,129.36
+PROP00036,Chennai,Palasia,Apartment,1921.0,3.0,2.0,3.0,2.0,10.0,Unfurnished,112.99
+PROP00772,Hyderabad,Andheri,Independent House,2910.0,2.0,2.0,14.0,1.0,35.0,Furnished,224.87
+PROP00761,Mumbai,Wakad,Independent House,2762.0,5 BHK,5.0,11.0,1.0,33.0,Unfurnished,406.58
+PROP00857,Hyderabad,Kondapur,Apartment,2627.0,4.0,3.0,10.0,1.0,12.0,Furnished,177.01
+PROP01272,Indore,Palasia,Apartment,3408.0,4.0,3.0,5.0,2.0,38.0,Semi-Furnished,145.55
+PROP00645,Mumbai,Rau,Apartment,2017.0,3.0,3.0,10.0,1.0,14.0, unfurnished ,252.72
+PROP00741,Bengaluru,Gachibowli,apartment,2189.0,2.0,2.0,13.0,1.0,36.0,,158.0
+PROP00157,Delhi,Gachibowli,Apartment,2646.0,1.0,1.0,,1.0,18.0,Semi-Furnished,222.56
+PROP01175,Chennai,Kondapur,Independent House,3380.0,3.0,2.0,8.0,1.0,19.0,,243.6
+PROP01156,Bengaluru,Kolar Road,Apartment,1408.0,,1.0,1.0,1.0,22.0,Furnished,123.32
+PROP01412,Hyderabad,Palasia,Apartment,1981.0,1.0,1.0,0.0,1.0,9.0,Semi-Furnished,
+PROP00600,Pune,Kondapur,Independent House,2811.0,1.0,1.0,4.0,1.0,21.0,Semi-Furnished,"₹20,317,000"
+PROP00845,Indore,Wakad,,108 sqm,3.0,3.0,7.0,2.0,29.0,Furnished,41.58
+PROP01392,Mumbai,,Builder Floor,,2.0,1.0,9.0,1.0,3.0,Unfurnished,299.4
+PROP00377,Pune,Whitefield,Apartment,188 sqm,1.0,1.0,15.0,1.0,26.0,Unfurnished,133.98
+PROP00321,Bengaluru,Wakad,Apartment,864.0,4.0,,9.0,1.0,39.0,Semi-Furnished,80.5
+PROP00895,Indore,Vijay Nagar,Apartment,1101.0,3.0,2.0,13.0,3.0,0.0,Semi-Furnished,74.25
+PROP00214,Chennai,Kondapur,Apartment,3217.0,3.0,2.0,10.0,2.0,3.0,Semi-Furnished,217.55
+PROP00011,Bengaluru,Gachibowli,Builder Floor,3365.0,4.0,3.0,7.0,2.0,36.0,Furnished,303.56
+PROP00786,Bhopal,Dwarka,Apartment,1006.0,1.0,1.0,0.0,2.0,,Unfurnished,"₹3,076,000"
+PROP00277,Chennai,Whitefield,Builder Floor,1650.0,5.0,4.0,11.0,2.0,33.0,Semi-Furnished,126.94
+PROP01100,Mumbai,Gachibowli,Independent House,2806.0,2.0,2.0,7.0,1.0,22.0,Unfurnished,398.59
+PROP01413,Bhopal,Andheri,Villa,2912.0,2.0,1.0,11.0,,28.0,Semi-Furnished,"₹17,755,000"
+PROP00685,Pune,Bhawarkua,Apartment,2028.0,2.0,1.0,15.0,2.0,15.0,Unfurnished,151.32
+PROP00693,Chennai,Wakad,Apartment,1374.0,3.0,3.0,12.0,1.0,26.0,Semi-Furnished,105.83
+PROP00108,Pune,Miyapur,Independent House,2529.0,4.0,3.0,6.0,3.0,16.0,Furnished,
+PROP01230,Indore,Hinjewadi,,853.0,3.0,2.0,8.0,1.0,28.0,Unfurnished,60.06
+PROP00856,Chennai,Baner,Apartment,2727.0,1.0,1.0,8.0,1.0,12.0,Semi-Furnished,175.49
+PROP01480,,Hinjewadi,Builder Floor,1271.0,3.0,2.0,9.0,1.0,14.0,Unfurnished,97.86
+PROP01431,Indore,Baner,Independent House,2200.0,2.0,1.0,3.0,1.0,38.0,Semi-Furnished,111.03
+PROP00249,Chennai,Velachery,Independent House,1276.0,4.0,3.0,5.0,0.0,29.0,Unfurnished,95.02
+PROP01119,Mumbai,,Independent House,1803.0,3.0,3.0,15.0,,25.0,Semi-Furnished,296.58
+PROP01293,Hyderabad,Palasia,apartment,2318.0,2.0,1.0,14.0,1.0,,Semi-Furnished,154.23
+PROP00641,Hyderabad,Vijay Nagar,Apartment,1313.0,,2.0,1.0,1.0,42.0,Semi-Furnished,106.09
+PROP01373,Hyderabad,Palasia,Independent House,,4.0,,4.0,0.0,32.0,Furnished,148.29
+PROP00476,Bhopal,Bhawarkua,Independent House,1261.0,,1.0,2.0,0.0,,Unfurnished,60.75
+PROP00064,,Thane,Apartment,1777.0,2 BHK,1.0,10.0,2.0,37.0,Unfurnished,217.69
+PROP01257,Pune,Andheri,villa,,4.0,3.0,8.0,0.0,42.0,Unfurnished,172.63
+PROP00839,Bhopal,Whitefield,Independent House,2558.0,2 BHK,1.0,14.0,1.0,24.0,Semi-Furnished,114.15
+PROP01408, PUNE ,Velachery,Independent House,1775.0,4.0,3.0,8.0,0.0,22.0,Semi-Furnished,151.63
+PROP00537,Mumbai,Kondapur,Builder Floor,2275.0,4.0,3.0,10.0,1.0,37.0,Unfurnished,312.01
+PROP01239,Mumbai,Wakad,Independent House,1056.0,2.0,2.0,13.0,3.0,37.0,Semi-Furnished,174.39
+PROP00706,Hyderabad,Bhawarkua,Builder Floor,3519.0,3.0,2.0,9.0,2.0,26.0,Furnished,251.95
+PROP00619,Pune,Miyapur,Apartment,2002.0,2.0,2.0,7.0,1.0,17.0,Semi-Furnished,157.61
+PROP01388,Indore,MP Nagar,Apartment,,2.0,2.0,13.0,1.0,39.0,Furnished,93.35
+PROP00603,Bhopal,Baner,Independent House,1614.0,4.0,3.0,3.0,2.0,37.0,Semi-Furnished,80.01
+PROP00665,Bengaluru,Velachery,Apartment,3434.0,4.0,4.0,6.0,1.0,43.0,Semi-Furnished,239.42
+PROP00811,Delhi,Kolar Road,Villa,4164.0,4.0,3.0,4.0,2.0,,Semi-Furnished,561.61
+PROP00404,Chennai,Dwarka,Apartment,1919.0,3.0,2.0,12.0,1.0,3.0,Unfurnished,121.79
+PROP00239,Bengaluru,Rau,Apartment,2638.0,3.0,2.0,6.0,0.0,27.0,Unfurnished,181.61
+PROP01088,Indore,Kolar Road,Apartment,2128.0,,2.0,6.0,2.0,40.0,Unfurnished,96.4
+PROP01106,Mumbai,Palasia,Apartment,2595.0,3.0,2.0,11.0,0.0,36.0,Semi-Furnished,338.05
+PROP00319,Mumbai,Whitefield,Apartment,3673.0,2.0,1.0,15.0,3.0,40.0,Semi-Furnished,477.49
+PROP00573,Hyderabad,Gachibowli,Independent House,1739.0,3.0,2.0,5.0,2.0,18.0,Semi-Furnished,145.49
+PROP00171,Bengaluru,Rau,Apartment,2052.0,2.0,2.0,11.0,2.0,20.0,Furnished,167.32
+PROP01267,Pune,Dwarka,Independent House,3523.0,3.0,3.0,0.0,1.0,10.0,Semi-Furnished,280.01
+PROP00577,Bengaluru,Wakad,Villa,3908.0,1.0,1.0,10.0,3.0,10.0,Unfurnished,438.59
+PROP00551,Pune,Velachery,Independent House,2150.0,4.0,3.0,15.0,1.0,11.0,Semi-Furnished,196.21
+PROP00957,Mumbai,Hinjewadi,Apartment,860.0,1.0,1.0,6.0,2.0,29.0,Semi-Furnished,99.07
+PROP00374,Mumbai,Kondapur,Apartment,1974.0,1.0,2.0,0.0,1.0,31.0,Furnished,285.61
+PROP00094,Indore,Velachery,Independent House,2459.0,3.0,2.0,4.0,2.0,7.0,Unfurnished,131.13
+PROP00638,Chennai,Hinjewadi,,259 sqm,3.0,2.0,10.0,2.0,13.0,Semi-Furnished,190.4
+PROP00963,Bengaluru,Whitefield,Villa,1942.0,1.0,2.0,12.0,3.0,5.0,Semi-Furnished,228.47
+PROP00300,,Velachery,Independent House,1361.0,2.0,2.0,0.0,1.0,5.0,Furnished,123.86
+PROP00914,Delhi,Dwarka,Apartment,1462.0,1.0,1.0,8.0,0.0,, unfurnished ,126.97
+PROP00889,Bhopal,Whitefield,Independent House,1424.0,4.0,3.0,0.0,1.0,43.0,Unfurnished,72.77
+PROP00494,Hyderabad,Vijay Nagar,Apartment,1444.0,3.0,2.0,3.0,2.0,2.0,Semi-Furnished,120.75
+PROP00959,Indore,Velachery,Apartment,2589.0,2.0,2.0,2.0,2.0,23.0,Semi-Furnished,
+PROP00782,Indore,Whitefield,Apartment,1860.0,4.0,3.0,10.0,0.0,38.0,Furnished,62.83
+PROP00828,Chennai,Baner,Apartment,1123.0,2.0,1.0,13.0,2.0,21.0,Unfurnished,"₹5,990,000"
+PROP01310,Mumbai,,Apartment,3401.0,4.0,3.0,10.0,1.0,14.0,Furnished,473.4
+PROP00005,Hyderabad,Whitefield,Independent House,1436.0,1.0,1.0,9.0,1.0,20.0,Unfurnished,127.32
+PROP00763,Mumbai,Gachibowli,Apartment,,2.0,1.0,6.0,1.0,0.0,Furnished,137.06
+PROP00601,Bengaluru,Dwarka,Builder Floor,1874.0,2.0,2.0,2.0,2.0,32.0,Unfurnished,147.95
+PROP00565,Bhopal,Electronic City,Apartment,2640.0,2.0,1.0,1.0,2.0,16.0,Unfurnished,99.22
+PROP00489,Bengaluru,MP Nagar,Villa,1426.0,3.0,3.0,5.0,1.0,13.0,Furnished,181.92
+PROP00545,Mumbai,Thane,Apartment,1762.0,2.0,1.0,9.0,2.0,11.0,Semi-Furnished,226.16
+PROP00935,,Velachery,Builder Floor,1823.0,,1.0,15.0,,42.0,Semi-Furnished,148.85
+PROP00623,Indore,Bhawarkua,Apartment,1226.0,4.0,3.0,15.0,2.0,,Furnished,62.97
+PROP00961,Mumbai,Electronic City,apartment,2345.0,3.0,2.0,,2.0,28.0,Semi-Furnished,265.12
+PROP00884,Chennai,Gachibowli,Apartment,3322.0,3.0,2.0,10.0,0.0,36.0,Unfurnished,211.95
+PROP00220,Delhi,Andheri,Independent House,2027.0,4.0,3.0,14.0,1.0,35.0,Semi-Furnished,220.78
+PROP00765,Delhi,Dwarka,Apartment,1575.0,3.0,3.0,0.0,1.0,25.0,Unfurnished,153.15
+PROP00138,Pune,Velachery,Builder Floor,3471.0,3.0,2.0,7.0,1.0,18.0,Unfurnished,252.13
+PROP00070,Delhi,Whitefield,Apartment,2615.0,2.0,2.0,9.0,2.0,30.0,Unfurnished,241.14
+PROP01006,Pune,Miyapur,Independent House,2635.0,2.0,1.0,1.0,0.0,, unfurnished ,210.18
+PROP01071,Bhopal,Hinjewadi,Villa,1242.0,3.0,2.0,15.0,1.0,44.0,Furnished,44.98
+PROP01256,Hyderabad,Kondapur,Apartment,898.0,3.0,3.0,9.0,1.0,2.0,Semi-Furnished,60.41
+PROP00498,Pune,MP Nagar,Apartment,1683.0,3.0,4.0,10.0,0.0,31.0,Unfurnished,114.03
+PROP00891,,Kolar Road,Villa,1907.0,2.0,1.0,10.0,2.0,20.0,Unfurnished,362.43
+PROP00922,Indore,Bhawarkua,Independent House,1328.0,3.0,3.0,11.0,3.0,17.0,Unfurnished,78.59
+PROP00437,Mumbai,Thane,Independent House,3315.0,2.0,,10.0,2.0,4.0,Semi-Furnished,513.57
+PROP00566,Mumbai,Gachibowli,Apartment,1250.0,3.0,3.0,8.0,1.0,36.0,,174.67
+PROP00882,Chennai,Thane,Apartment,2770.0,3.0,4.0,12.0,1.0,38.0,Unfurnished,182.24
+PROP00456,Hyderabad,Baner,Independent House,1527.0,4.0,3.0,4.0,2.0,41.0,Semi-Furnished,102.31
+PROP00934,Delhi,Thane,Builder Floor,3108.0,3.0,3.0,4.0,2.0,5.0,Furnished,332.23
+PROP01205,Bengaluru,Rau,Apartment,949.0,3.0,3.0,6.0,2.0,23.0,Unfurnished,81.43
+PROP00517,Chennai,,Apartment,1353.0,3.0,1.0,11.0,2.0,23.0,Unfurnished,94.04
+PROP01226,,Andheri,Apartment,3171.0,3.0,,0.0,0.0,42.0,Unfurnished,220.28
+PROP01023,,Whitefield,Villa,1533.0,4.0,3.0,10.0,1.0,25.0,Unfurnished,185.3
+PROP01489,Bengaluru,Vijay Nagar,,2604.0,3.0,3.0,14.0,1.0,18.0,Semi-Furnished,196.03
+PROP00327,Bengaluru,Baner,Apartment,1988.0,1.0,2.0,11.0,1.0,31.0,Furnished,148.31
+PROP00066,Bengaluru,MP Nagar,Independent House,2391.0,4.0,2.0,12.0,1.0,0.0,Unfurnished,200.15
+PROP00824,Delhi,Hinjewadi,Apartment,1897.0,3.0,2.0,15.0,1.0,36.0,Semi-Furnished,170.98
+PROP01371,Hyderabad,Vijay Nagar,Independent House,1066.0,2.0,2.0,11.0,2.0,6.0,Furnished,95.07
+PROP01194,Indore,,Independent House,1619.0,1.0,1.0,7.0,1.0,20.0,Semi-Furnished,82.29
+PROP00736, BHOPAL ,Dwarka,Apartment,,4.0,3.0,11.0,2.0,16.0,Unfurnished,71.92
+PROP00880,Delhi,Hinjewadi,Apartment,1828.0,4.0,4.0,2.0,2.0,22.0,Unfurnished,142.22
+PROP00791,Bhopal,,Independent House,2210.0,1.0,1.0,2.0,2.0,,Unfurnished,85.46
+PROP01034,Indore,Hinjewadi,Independent House,2046.0,4.0,3.0,15.0,3.0,24.0,Unfurnished,114.36
+PROP01203,Pune,Gachibowli,Apartment,3500.0,1.0,1.0,8.0,1.0,,Furnished,258.24
+PROP01469,Chennai,Kolar Road,Apartment,1314.0,5.0,4.0,12.0,2.0,14.0,Semi-Furnished,92.38
+PROP01188,Hyderabad,Gachibowli,Apartment,2334.0,1.0,1.0,3.0,2.0,6.0,Unfurnished,
+PROP00924,Bhopal,Thane,Apartment,3161.0,3.0,2.0,7.0,3.0,13.0,Furnished,147.71
+PROP01481,Bhopal,Kolar Road,Independent House,995.0,2.0,2.0,12.0,1.0,1.0,Unfurnished,-15
+PROP01242,Pune,Baner,Apartment,1450.0,3.0,2.0,10.0,2.0,12.0,Unfurnished,87.11
+PROP00177,Pune,Kondapur,Apartment,1516.0,3.0,2.0,8.0,2.0,39.0,Semi-Furnished,134.02
+PROP00888,Chennai,Thane,Apartment,108 sqm,4.0,3.0,3.0,1.0,,,73.78
+PROP01382,Bengaluru,Whitefield,Apartment,1743.0,2.0,1.0,5.0,1.0,41.0,Semi-Furnished,116.27
+PROP01401,Bengaluru,Kondapur,Apartment,2888.0,4.0,3.0,12.0,2.0,15.0,Furnished,224.79
+PROP01118,Delhi,Velachery,Independent House,1569.0,3.0,3.0,2.0,1.0,9.0,Semi-Furnished,165.06
+PROP00973,Bhopal,Rau,Apartment,4066.0,2.0,2.0,1.0,2.0,38.0,Unfurnished,149.87
+PROP00309,Pune,Velachery,Apartment,2415.0,4.0,4.0,5.0,2.0,,Semi-Furnished,164.04
+PROP01497,Indore,Kolar Road,Apartment,1541.0,4.0,3.0,15.0,2.0,32.0,Semi-Furnished,
+PROP00547,Indore,Whitefield,Apartment,1712.0,1.0,2.0,4.0,1.0,28.0,Semi-Furnished,81.73
+PROP01356,Hyderabad,Velachery,Apartment,1728.0,1.0,1.0,1.0,2.0,39.0,Unfurnished,108.02
+PROP01352,Chennai,Baner,villa,2474.0,4.0,3.0,1.0,2.0,6.0,Semi-Furnished,256.38
+PROP01135,Bengaluru,Vijay Nagar,Apartment,2657.0,2.0,1.0,13.0,1.0,41.0,Semi-Furnished,208.67
+PROP01424,Hyderabad,Wakad,Apartment,1465.0,2.0,1.0,11.0,2.0,23.0,Furnished,100.31
+PROP01145,Hyderabad,Kolar Road,apartment,2276.0,1.0,1.0,12.0,1.0,44.0,Unfurnished,134.94
+PROP01167,Delhi,Electronic City,Apartment,2374.0,3.0,2.0,4.0,1.0,1.0,Semi-Furnished,224.58
+PROP00396,Chennai,Baner,Apartment,1294.0,1.0,1.0,14.0,2.0,32.0,Semi-Furnished,68.06
+PROP01320,Pune,Rau,Apartment,,2.0,2.0,11.0,1.0,14.0,Semi-Furnished,131.68
+PROP00872,Bengaluru,Dwarka,Apartment,2214.0,3.0,2.0,12.0,2.0,44.0,Semi-Furnished,171.43
+PROP01253,Bengaluru,Andheri,Independent House,1291.0,4.0,3.0,10.0,,42.0,,111.49
+PROP00513,Bengaluru,Electronic City,Apartment,2296.0,2.0,2.0,,2.0,39.0,Furnished,189.74
+PROP00816,Bhopal,MP Nagar,Apartment,1712.0,2.0,2.0,55.0,1.0,29.0,Unfurnished,60.84
+PROP00457,Pune,Bhawarkua,Apartment,953.0,4.0,3.0,10.0,0.0,4.0,Semi-Furnished,85.55
+PROP00687,Delhi,Palasia,Independent House,136 sqm,3.0,2.0,0.0,1.0,20.0,Unfurnished,147.33
+PROP01448,Bhopal,MP Nagar,Apartment,,3.0,2.0,10.0,2.0,39.0,Semi-Furnished,8.49
+PROP01201,Hyderabad,Velachery,apartment,1656.0,3.0,2.0,15.0,1.0,23.0,Semi-Furnished,107.43
+PROP00232,Bengaluru,Dwarka,Apartment,1555.0,4.0,3.0,0.0,2.0,38.0,Unfurnished,131.61
+PROP00302,Pune,Hinjewadi,Builder Floor,1462.0,3.0,2.0,12.0,2.0,44.0,Unfurnished,102.56
+PROP00735,Chennai,Thane,Apartment,2761.0,3.0,3.0,10.0,1.0,18.0,Semi-Furnished,178.39
+PROP00753,Pune,Kolar Road,Villa,2127.0,1.0,2.0,1.0,1.0,39.0,Semi-Furnished,238.2
+PROP00668,Bengaluru,Velachery,Apartment,2712.0,2.0,2.0,2.0,2.0,25.0,Furnished,195.08
+PROP00451,Indore,Electronic City,Independent House,1908.0,4.0,2.0,10.0,1.0,,Furnished,121.8
+PROP00602,Mumbai,Hinjewadi,Independent House,1778.0,1.0,1.0,11.0,1.0,11.0,Unfurnished,273.86
+PROP00186,Pune,Whitefield,Villa,3618.0,3.0,2.0,8.0,1.0,6.0,Furnished,401.12
+PROP00750,Indore,Velachery,Independent House,1522.0,2.0,,3.0,0.0,22.0,Unfurnished,82.08
+PROP00460,Indore,Andheri,Apartment,1785.0,2.0,2.0,15.0,1.0,11.0,Unfurnished,86.55
+PROP00916,Bengaluru,Dwarka,Villa,,3.0,3.0,10.0,1.0,31.0,Unfurnished,176.42
+PROP00472,Delhi,Palasia,Apartment,1357.0,2.0,2.0,3.0,2.0,38.0,Unfurnished,108.65
+PROP00069,Hyderabad,Whitefield,Independent House,1122.0,4.0,3.0,8.0,2.0,19.0,Semi-Furnished,96.14
+PROP00398,Indore,,Apartment,1771.0,5.0,3.0,11.0,2.0,3.0,Semi-Furnished,81.31
+PROP01129,Indore,Miyapur,Apartment,1325.0,3.0,2.0,5.0,1.0,10.0,Semi-Furnished,76.43
+PROP00522,Pune,Dwarka,Independent House,1625.0,2 BHK,1.0,2.0,1.0,1.0,Semi-Furnished,140.32
+PROP01207,Indore,Vijay Nagar,Villa,1004.0,3.0,2.0,13.0,1.0,34.0,Semi-Furnished,70.7
+PROP00167,Mumbai,Gachibowli,Apartment,2914.0,2.0,1.0,2.0,2.0,9.0,Unfurnished,357.4
+PROP00991,Pune,Kolar Road,Apartment,2375.0,4.0,3.0,1.0,1.0,18.0,Unfurnished,155.32
+PROP00660,Hyderabad,Baner,Apartment,1682.0,3.0,2.0,3.0,2.0,15.0,Unfurnished,98.49
+PROP01396,Chennai,Kondapur,Villa,2213.0,2.0,,8.0,1.0,1.0,Semi-Furnished,203.54
+PROP00014,Bengaluru,Thane,Independent House,2089.0,3.0,2.0,0.0,0.0,13.0,Furnished,193.65
+PROP00224,Indore,Rau,Apartment,1576.0,3.0,3.0,6.0,,26.0,Unfurnished,63.57
+PROP00633,Hyderabad,Gachibowli,Apartment,1767.0,3.0,2.0,12.0,2.0,21.0,,99.18
+PROP01379,Hyderabad,,Apartment,1495.0,3.0,3.0,0.0,3.0,43.0,Furnished,106.97
+PROP01248, CHENNAI ,Vijay Nagar,Villa,857.0,3.0,3.0,14.0,2.0,21.0,Semi-Furnished,85.03
+PROP01263,Hyderabad,Rau,Apartment,3882.0,3.0,3.0,7.0,2.0,34.0,Furnished,253.5
+PROP00549,Chennai,Electronic City,Independent House,3490.0,4.0,3.0,4.0,1.0,6.0,Semi-Furnished,280.22
+PROP00229,Hyderabad,MP Nagar,Apartment,2286.0,2.0,2.0,10.0,0.0,39.0,Furnished,150.55
+PROP00745,Chennai,Baner,Apartment,4200.0,2.0,2.0,9.0,0.0,7.0,Unfurnished,255.08
+PROP00268,Chennai,Thane,Independent House,2719.0,3.0,2.0,10.0,2.0,23.0,Semi-Furnished,218.76
+PROP00846,Hyderabad,Palasia,Apartment,995.0,5.0,4.0,0.0,2.0,14.0,Unfurnished,68.25
+PROP00794,Delhi,Whitefield,Builder Floor,1557.0,,2.0,11.0,1.0,9.0,Unfurnished,143.25
+PROP01154,Bhopal,Miyapur,Apartment,2211.0,4.0,2.0,5.0,2.0,12.0,Unfurnished,79.22
+PROP00692,Pune,Baner,Apartment,1070.0,2.0,2.0,0.0,1.0,22.0,Furnished,83.49
+PROP00068,Chennai,Gachibowli,Apartment,1242.0,4.0,3.0,7.0,1.0,21.0,Furnished,93.78
+PROP00989,Indore,Thane,Apartment,1508.0,1.0,1.0,15.0,0.0,18.0,Semi-Furnished,62.52
+PROP00117,Pune,Electronic City,Independent House,2623.0,2.0,1.0,3.0,0.0,40.0,Semi-Furnished,217.05
+PROP00558,Mumbai,Electronic City,Apartment,2023.0,4.0,2.0,3.0,2.0,10.0, semi-furnished ,"₹27,931,000"
+PROP01234,Pune,Kolar Road,Independent House,1952.0,2.0,2.0,8.0,,39.0,Semi-Furnished,153.66
+PROP00298,Bhopal,Baner,Independent House,1271.0,2.0,,13.0,1.0,,Furnished,56.56
+PROP01266,Pune,Thane,Apartment,1093.0,1.0,1.0,4.0,1.0,20.0,Semi-Furnished,66.1
+PROP00048,Pune,Vijay Nagar,Apartment,,3.0,3.0,0.0,1.0,31.0,Unfurnished,246.7
+PROP00705,Hyderabad,Rau,Independent House,1901.0,4.0,3.0,10.0,1.0,0.0,Semi-Furnished,127.32
+PROP00265,Bengaluru,Hinjewadi,Villa,2998.0,2.0,1.0,4.0,1.0,32.0,Unfurnished,313.72
+PROP00875,Indore,Baner,Independent House,640.0,2.0,1.0,14.0,2.0,26.0,Unfurnished,14.83
+PROP00455,Indore,Kondapur,apartment,2483.0,3.0,2.0,13.0,1.0,39.0,Unfurnished,101.84
+PROP00435,Mumbai,,Apartment,1068.0,1.0,2.0,5.0,3.0,35.0,Unfurnished,138.1
+PROP00606,Hyderabad,Bhawarkua,Apartment,1287.0,2.0,2.0,9.0,2.0,10.0,Semi-Furnished,78.54
+PROP00636,Delhi,Kolar Road,Apartment,,2.0,2.0,8.0,0.0,15.0,Unfurnished,196.18
+PROP00680,Mumbai,Whitefield,Independent House,1604.0,3.0,,9.0,2.0,21.0,Furnished,260.16
+PROP01073,Delhi,Thane,Apartment,2154.0,2.0,2.0,14.0,0.0,8.0,Semi-Furnished,192.08
+PROP00744,Bengaluru,Electronic City,Independent House,1654.0,1.0,1.0,6.0,2.0,36.0,Unfurnished,147.82
+PROP00417,Bhopal,Vijay Nagar,Villa,4340.0,2.0,2.0,1.0,2.0,16.0,Unfurnished,245.09
+PROP00203,Hyderabad,Rau,Apartment,2794.0,4.0,3.0,3.0,0.0,17.0,Semi-Furnished,"₹17,876,000"
+PROP00732,Bengaluru,Velachery,builder floor,2071.0,15,1.0,6.0,2.0,18.0,Furnished,177.54
+PROP00118,Bengaluru,Andheri,Independent House,1836.0,1 BHK,1.0,3.0,1.0,20.0,Semi-Furnished,158.31
+PROP00317,Delhi,Rau,Independent House,1424.0,3.0,1.0,2.0,1.0,37.0,Furnished,153.65
+PROP00071,Hyderabad,Whitefield,Independent House,2011.0,2.0,,11.0,1.0,36.0,Semi-Furnished,143.02
+PROP00320,Indore,Vijay Nagar,Apartment,,3.0,3.0,12.0,,43.0,Semi-Furnished,36.81
+PROP00379,Indore,Baner,Builder Floor,2121.0,3.0,2.0,,1.0,4.0,Furnished,106.23
+PROP00021,Bengaluru,Bhawarkua,Apartment,2994.0,3.0,2.0,13.0,2.0,2.0,Semi-Furnished,237.15
+PROP00470,Chennai,Kolar Road,Apartment,147 sqm,3.0,2.0,0.0,2.0,12.0,Semi-Furnished,98.56
+PROP00210,Hyderabad,Electronic City,Independent House,1340.0,3.0,2.0,12.0,1.0,4.0,Semi-Furnished,121.18
+PROP01291, HYDERABAD ,Whitefield,Independent House,873.0,,2.0,6.0,1.0,13.0,,77.76
+PROP00576,Delhi,Andheri,Apartment,2382.0,1.0,1.0,15.0,2.0,15.0,,218.0
+PROP01122,Chennai,Velachery,Independent House,3864.0,3.0,4.0,14.0,1.0,16.0,Unfurnished,255.96
+PROP00090,Pune,Wakad,Apartment,2778.0,2.0,1.0,4.0,1.0,24.0,Semi-Furnished,209.03
+PROP01196,Pune,Bhawarkua,Apartment,2378.0,3.0,3.0,1.0,3.0,2.0,Semi-Furnished,171.11
+PROP00273, INDORE ,Andheri,Apartment,1484.0,2.0,1.0,1.0,1.0,2.0,Unfurnished,66.91
+PROP01353,Indore,Vijay Nagar,Apartment,2036.0,4.0,4.0,7.0,2.0,19.0,Semi-Furnished,93.59
+PROP00621,Indore,Gachibowli,Builder Floor,2977.0,3.0,2.0,8.0,2.0,31.0,Semi-Furnished,141.57
+PROP01057,Indore,Velachery,Apartment,1467.0,1.0,1.0,4.0,1.0,30.0,Unfurnished,66.46
+PROP00183,Pune,Andheri,Apartment,1933.0,3.0,3.0,6.0,1.0,14.0,Semi-Furnished,143.15
+PROP00769,Bengaluru,Vijay Nagar,Apartment,1354.0,2.0,1.0,3.0,2.0,9.0,Semi-Furnished,93.55
+PROP01123,Bhopal,Baner,Villa,2556.0,3.0,,6.0,1.0,12.0,Unfurnished,128.44
+PROP00509,Pune,Kondapur,Builder Floor,1766.0,3.0,3.0,1.0,3.0,28.0,Unfurnished,133.06
+PROP00023,Pune,Whitefield,Builder Floor,1126.0,4.0,3.0,14.0,2.0,37.0,Semi-Furnished,84.85
+PROP01063,Mumbai,Bhawarkua,Apartment,910.0,3.0,3.0,,0.0,8.0,Unfurnished,117.64
+PROP01120,Pune,Hinjewadi,Independent House,4500.0,1.0,,6.0,2.0,30.0,Semi-Furnished,344.97
+PROP01454,Delhi,Wakad,Apartment,,5.0,5.0,1.0,0.0,31.0,Semi-Furnished,233.07
+PROP00354,Indore,Rau,Apartment,1443.0,2.0,1.0,15.0,2.0,31.0,Furnished,63.16
+PROP00548,Indore,Bhawarkua,Independent House,1674.0,2.0,1.0,4.0,1.0,2.0,Semi-Furnished,100.97
+PROP01289,Mumbai,Whitefield,Apartment,1829.0,3.0,2.0,0.0,1.0,33.0,Unfurnished,232.53
+PROP01364,Indore,Velachery,,2420.0,3.0,3.0,11.0,2.0,1.0,Furnished,129.16
+PROP00420,Indore,Thane,Independent House,1783.0,4.0,3.0,5.0,1.0,4.0,Furnished,113.35
+PROP00086,Pune,Hinjewadi,Apartment,3493.0,1.0,1.0,10.0,2.0,21.0,Furnished,246.67
+PROP00370,Chennai,MP Nagar,Apartment,1793.0,1.0,1.0,5.0,1.0,30.0,Semi-Furnished,108.76
+PROP01294,Delhi,Velachery,Builder Floor,3545.0,2.0,2.0,7.0,2.0,25.0,Semi-Furnished,335.73
+PROP00419,Hyderabad,Vijay Nagar,Independent House,2132.0,2.0,2.0,5.0,0.0,,Semi-Furnished,170.21
+PROP00402,Delhi,Dwarka,Builder Floor,4252.0,3.0,4.0,,1.0,43.0,Furnished,418.41
+PROP00734,Chennai,Kondapur,Apartment,1091.0,2.0,2.0,4.0,3.0,34.0,Unfurnished,78.37
+PROP01020,Mumbai,,Apartment,1355.0,4.0,2.0,5.0,2.0,2.0,Unfurnished,204.45
+PROP00230,Delhi,Dwarka,Apartment,1485.0,3.0,3.0,4.0,0.0,5.0,Semi-Furnished,142.14
+PROP01058,Hyderabad,Hinjewadi,Builder Floor,2473.0,5.0,4.0,8.0,1.0,2.0,Semi-Furnished,177.92
+PROP00790,Mumbai,Kolar Road,Apartment,1812.0,4.0,3.0,13.0,1.0,38.0,Unfurnished,226.23
+PROP00708,Hyderabad,Gachibowli,Independent House,1537.0,3.0,3.0,2.0,1.0,-8.0,Unfurnished,116.92
+PROP01240,Mumbai,Kolar Road,Independent House,2383.0,1.0,,4.0,2.0,41.0,Semi-Furnished,376.87
+PROP00250, HYDERABAD ,Palasia,Apartment,1018.0,3.0,3.0,5.0,1.0,14.0,Furnished,93.41
+PROP00365,Delhi,Bhawarkua,Villa,3233.0,1.0,1.0,6.0,0.0,1.0,Unfurnished,0
+PROP01384,Pune,Wakad,Independent House,1530.0,3.0,3.0,8.0,1.0,250.0,Unfurnished,110.39
+PROP00271,Mumbai,Whitefield,Apartment,2119.0,3.0,2.0,2.0,1.0,4.0,Semi-Furnished,296.26
+PROP00312,Indore,Velachery,Independent House,4500.0,2.0,2.0,2.0,0.0,28.0,Semi-Furnished,
+PROP01094,Indore,MP Nagar,Apartment,1055.0,2.0,1.0,4.0,1.0,16.0,Semi-Furnished,71.84
+PROP00515,Mumbai,Whitefield,Builder Floor,2678.0,4.0,3.0,8.0,2.0,29.0,Furnished,405.42
+PROP01044,Indore,Dwarka,Independent House,1613.0,3.0,2.0,3.0,0.0,14.0,Unfurnished,80.27
+PROP00580,Bengaluru,Bhawarkua,Apartment,1983.0,2.0,2.0,10.0,2.0,25.0,Unfurnished,132.08
+PROP00501,Hyderabad,Dwarka,Villa,1400.0,4.0,3.0,8.0,2.0,32.0,Unfurnished,137.12
+PROP00189,Pune,Vijay Nagar,Independent House,1225.0,1.0,1.0,4.0,2.0,37.0,Unfurnished,106.4
+PROP01137, PUNE ,Gachibowli,Apartment,4259.0,3.0,3.0,1.0,2.0,32.0,Unfurnished,290.32
+PROP01332,Mumbai,Electronic City,Villa,,2.0,3.0,3.0,1.0,26.0,Furnished,188.72
+PROP00479,Delhi,Whitefield,Villa,2460.0,2.0,1.0,14.0,2.0,34.0,Semi-Furnished,350.75
+PROP00253,Delhi,Kondapur,Apartment,,2.0,2.0,3.0,1.0,2.0,Unfurnished,157.53
+PROP00335,Chennai,Gachibowli,Independent House,1446.0,2.0,1.0,4.0,3.0,25.0,Unfurnished,103.18
+PROP01442,Delhi,Baner,Builder Floor,980.0,5.0,3.0,12.0,0.0,18.0,Semi-Furnished,102.17
+PROP01068,Bengaluru,Thane,Independent House,3012.0,4.0,4.0,2.0,1.0,39.0,Unfurnished,235.83
+PROP00911,Chennai,Thane,,2482.0,3.0,2.0,9.0,2.0,44.0,Semi-Furnished,237.47
+PROP00833,Indore,Gachibowli,Villa,2558.0,2.0,1.0,6.0,0.0,15.0,Furnished,185.61
+PROP00067,Chennai,Miyapur,Apartment,974.0,2.0,2.0,1.0,2.0,32.0,Furnished,59.0
+PROP01186,,Andheri,Builder Floor,1564.0,3.0,3.0,6.0,,4.0,Semi-Furnished,149.05
+PROP00725,Bhopal,Kolar Road,Independent House,1211.0,2.0,2.0,3.0,2.0,25.0,Semi-Furnished,53.34
+PROP00289,Chennai,Miyapur,Apartment,2355.0,2.0,1.0,5.0,1.0,16.0,Unfurnished,133.75
+PROP01416,Indore,Hinjewadi,apartment,1982.0,4.0,4.0,10.0,2.0,1.0,Semi-Furnished,114.17
+PROP00764,Bengaluru,Kondapur,Apartment,3802.0,1.0,1.0,5.0,1.0,,Semi-Furnished,263.98
+PROP00140,Pune,Electronic City,Villa,1469.0,3.0,3.0,5.0,1.0,3.0,Furnished,140.73
+PROP00076,Pune,Wakad,Apartment,1100.0,2.0,1.0,9.0,2.0,3.0,Unfurnished,76.43
+PROP01104,Bengaluru,Kolar Road,Apartment,2494.0,2.0,2.0,9.0,1.0,25.0,Furnished,196.47
+PROP00985,Pune,Dwarka,Apartment,2142.0,4.0,3.0,2.0,1.0,5.0,Semi-Furnished,167.13
+PROP00535,Indore,Miyapur,Builder Floor,3273.0,3.0,3.0,4.0,2.0,40.0,Semi-Furnished,152.82
+PROP01083, MUMBAI ,Thane,Apartment,,4.0,3.0,11.0,2.0,7.0,Unfurnished,278.0
+PROP00614,Mumbai,Andheri,Independent House,2052.0,2.0,3.0,11.0,2.0,13.0,Furnished,320.1
+PROP00366,Pune,Kondapur,Apartment,119 sqm,,2.0,14.0,2.0,41.0,Semi-Furnished,81.57
+PROP01313,Mumbai,Andheri,Villa,1859.0,3.0,2.0,0.0,1.0,0.0,Unfurnished,
+PROP01498,Indore,Wakad,Apartment,1785.0,1.0,1.0,9.0,1.0,6.0,Unfurnished,92.21
+PROP00074,Indore,Dwarka,apartment,,2.0,1.0,13.0,2.0,15.0,Semi-Furnished,111.78
+PROP00260,Indore,Bhawarkua,Apartment,1800.0,4.0,3.0,14.0,1.0,39.0,Semi-Furnished,
+PROP01336,Chennai,Vijay Nagar,Apartment,1312.0,3.0,2.0,1.0,1.0,33.0,Furnished,92.77
+PROP01241,Delhi,,Apartment,2768.0,3.0,3.0,,0.0,1.0,Semi-Furnished,235.49
+PROP00292,Mumbai,Wakad,Villa,2171.0,3.0,2.0,4.0,2.0,23.0,,465.45
+PROP00227,Hyderabad,Andheri,Independent House,2279.0,4.0,3.0,8.0,1.0,33.0,Unfurnished,160.2
+PROP01074, BHOPAL ,Andheri,Villa,1837.0,2.0,2.0,5.0,1.0,3.0,Semi-Furnished,95.52
+PROP01177,Bengaluru,MP Nagar,Apartment,3590.0,2.0,,13.0,1.0,38.0,,
+PROP00482,Bengaluru,,Apartment,2197.0,4.0,3.0,15.0,1.0,34.0,Unfurnished,129.54
+PROP00293,Hyderabad,Thane,Builder Floor,1440.0,2.0,1.0,1.0,,,Unfurnished,101.58
+PROP00976,Bengaluru,Whitefield,Apartment,214 sqm,2.0,1.0,9.0,1.0,1.0,Unfurnished,153.08
+PROP01270,Delhi,Electronic City,Independent House,2485.0,1.0,1.0,7.0,2.0,3.0,Semi-Furnished,254.46
+PROP00297,Mumbai,Velachery,Apartment,2107.0,5.0,4.0,4.0,2.0,34.0, semi-furnished ,275.03
+PROP01274,Indore,Hinjewadi,Apartment,4361.0,3.0,2.0,0.0,2.0,10.0,Unfurnished,"₹17,126,000"
+PROP01376,Bhopal,Gachibowli,Apartment,,3.0,2.0,5.0,1.0,37.0,Furnished,34.08
+PROP00362,Indore,Hinjewadi,Builder Floor,3480.0,4.0,3.0,0.0,1.0,,Unfurnished,147.5
+PROP00661,Indore,Velachery,Villa,95 sqm,,1.0,3.0,2.0,3.0,Unfurnished,73.42
+PROP01438,Mumbai,Rau,Apartment,2330.0,2.0,2.0,7.0,1.0,35.0,Semi-Furnished,312.41
+PROP00464,Indore,Kondapur,Builder Floor,2727.0,3.0,3.0,13.0,1.0,31.0,Semi-Furnished,
+PROP01072,Bhopal,,Builder Floor,1298.0,2.0,1.0,1.0,1.0,8.0,Semi-Furnished,54.71
+PROP01141,Bhopal,Rau,,2207.0,2.0,2.0,2.0,1.0,37.0,Unfurnished,68.76
+PROP00202,Bengaluru,Andheri,Builder Floor,2558.0,3.0,2.0,10.0,1.0,29.0,Unfurnished,188.01
+PROP00018,Bengaluru,Velachery,Independent House,1100.0,3 BHK,,5.0,1.0,35.0,Unfurnished,128.94
+PROP01012,Bhopal,MP Nagar,Apartment,1364.0,3.0,1.0,8.0,1.0,33.0,Unfurnished,39.36
+PROP01349,Indore,Gachibowli,Independent House,3172.0,3.0,2.0,15.0,1.0,20.0,Semi-Furnished,171.02
+PROP01050,Hyderabad,Baner,Apartment,1799.0,2.0,2.0,7.0,1.0,23.0,Furnished,106.4
+PROP01319,Hyderabad,Kondapur,Apartment,2341.0,2.0,2.0,14.0,3.0,21.0,Furnished,192.34
+PROP00817,Hyderabad,Whitefield,Independent House,1646.0,4.0,3.0,15.0,1.0,14.0,Unfurnished,136.37
+PROP00418,Bhopal,Dwarka,Apartment,1198.0,3.0,3.0,15.0,1.0,14.0,Unfurnished,39.85
+PROP00917,Pune,Vijay Nagar,Independent House,1952.0,3.0,2.0,8.0,1.0,19.0,Semi-Furnished,150.61
+PROP00624,Hyderabad,Rau,Builder Floor,2457.0,3.0,3.0,13.0,1.0,35.0,Furnished,176.17
+PROP01160,Hyderabad,Hinjewadi,Apartment,1247.0,3.0,2.0,8.0,2.0,15.0,Unfurnished,83.59
+PROP00609,Bengaluru,Gachibowli,Apartment,3037.0,3.0,2.0,10.0,2.0,,Unfurnished,216.63
+PROP00776,Pune,Kolar Road,Independent House,2047.0,2.0,2.0,8.0,1.0,30.0,Unfurnished,154.28
+PROP00762, BENGALURU ,Andheri,Independent House,1176.0,2.0,2.0,11.0,2.0,7.0,Semi-Furnished,118.23
+PROP00481,Bengaluru,Baner,Apartment,1544.0,2.0,2.0,3.0,1.0,1.0,Unfurnished,107.89
+PROP01052,Delhi,Kolar Road,Villa,2042.0,3.0,3.0,7.0,1.0,25.0,Unfurnished,271.06
+PROP00718,Delhi,Miyapur,Independent House,1950.0,2.0,2.0,13.0,2.0,13.0,Furnished,212.87
+PROP00439,Mumbai,Electronic City,Apartment,1147.0,4.0,3.0,13.0,1.0,9.0,Semi-Furnished,164.04
+PROP00643,Mumbai,Kolar Road,Independent House,1495.0,3.0,3.0,5.0,2.0,38.0,Unfurnished,245.78
+PROP00029,Bengaluru,Hinjewadi,Apartment,225 sqm,3.0,2.0,8.0,2.0,34.0,Furnished,188.35
+PROP01024,Mumbai,Thane,Apartment,793.0,3.0,3.0,10.0,1.0,41.0,Semi-Furnished,107.59
+PROP01460,Chennai,Whitefield,Apartment,1355.0,2.0,3.0,4.0,2.0,0.0,Unfurnished,70.81
+PROP01437,Hyderabad,Velachery,Independent House,1075.0,3.0,2.0,6.0,2.0,43.0, semi-furnished ,89.68
+PROP00629,Indore,Miyapur,Independent House,1219.0,4.0,3.0,8.0,1.0,44.0,Furnished,
+PROP00334,Mumbai,Miyapur,Apartment,1853.0,1.0,2.0,,2.0,7.0,Unfurnished,234.67
+PROP00078,Chennai,Baner,Villa,1594.0,4 BHK,3.0,5.0,,10.0,Semi-Furnished,165.87
+PROP00953,Chennai,Whitefield,Villa,756.0,4.0,3.0,6.0,1.0,26.0,Unfurnished,73.77
+PROP00795,Hyderabad,Wakad,Apartment,1180.0,2.0,2.0,6.0,1.0,31.0,Semi-Furnished,83.03
+PROP01415,Chennai,MP Nagar,Villa,1752.0,3.0,2.0,7.0,2.0,17.0,Semi-Furnished,175.55
+PROP00258,Hyderabad,Baner,Apartment,1188.0,3.0,2.0,13.0,1.0,30.0,Furnished,96.56

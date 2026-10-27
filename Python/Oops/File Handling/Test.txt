@@ -1,0 +1,3 @@
+Hello World
+This is a new line
+This line will not be written because the file is opened in read mode
