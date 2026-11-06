@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import pyarrow  
 
 # illustration 1
 # Sample raw text dataset
@@ -90,9 +91,9 @@ df_data['clipped_value'] = df_data['value'].clip(lower=0,upper=100)
 print(df_data)
 print("=" * 60)
 # Save optimized DataFrame to Parquet
-df_scores.to_parquet("supportFiles/binned_scores.parquet")
+df_scores.to_parquet("binned_scores.parquet")
 
-df_reloaded = pd.read_parquet("supportFiles/binned_scores.parquet")
+df_reloaded = pd.read_parquet("binned_scores.parquet")
 print("\nReloaded Parquet Shape:", df_reloaded.shape)
 print(df_reloaded)
 print("=" * 60)
