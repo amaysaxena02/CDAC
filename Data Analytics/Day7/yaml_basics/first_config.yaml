@@ -1,0 +1,12 @@
+# YAMl: yet another markup language
+my_app_name: MyApp
+version: 1.0.0
+debug_mode: true
+database:
+  host: localhost
+  port: 5432
+  user: "admin"
+features:
+  - "dark_mode"
+  - "auto_save"
+  - "notifications"
